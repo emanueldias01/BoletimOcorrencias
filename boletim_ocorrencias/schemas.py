@@ -63,14 +63,7 @@ class TipoEnvolvimento(Enum):
     INDICIADO = "Indiciado"                
     SOCORRISTA = "Socorrista"              
     RESPONSAVEL_ESTABELECIMENTO = "Responsável pelo Estabelecimento"
-    OUTRO = "Outro"                        
-
-class BoletimOcorrenciaCreate(BaseModel):
-    data_registro : date
-    tipo_ocorrencia : TipoOcorrencia
-    descricao : str
-    status : StatusBoletim
-
+    OUTRO = "Outro"
 
 #Pessoa que registrou o boletim
 class Declarante(BaseModel):
@@ -88,3 +81,21 @@ class Autor(BaseModel):
     matricula : str
     posto : str
     lotacao : str
+                       
+
+class BoletimOcorrenciaBase(BaseModel):
+    data_registro : date
+    tipo_ocorrencia : TipoOcorrencia
+    descricao : str
+    status : StatusBoletim
+    declarante : Declarante
+    autor : Autor
+
+class BoletimOcorrenciaResponse(BaseModel):
+    id : int
+    data_registro : date
+    tipo_ocorrencia : TipoOcorrencia
+    descricao : str
+    status : StatusBoletim
+    declarante : Declarante
+    autor : Autor

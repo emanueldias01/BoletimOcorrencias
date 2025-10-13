@@ -130,9 +130,3 @@ class DataBase:
                     writer.writerow(row)
         
         os.replace(tmp_path, self.csv_path)
-
-
-def main():
-    db = DataBase()
-
-main()

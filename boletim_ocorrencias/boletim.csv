@@ -1,0 +1,501 @@
+id,data_registro,tipo_ocorrencia,descricao,status,nome_declarante,nome_autor,deleted
+0,2025-11-11,Roubo,Descrição da ocorrência número 1.,Pendente,Lucas,João,False
+2,2025-06-02,Acidente,Descrição da ocorrência número 3.,Em análise,Carlos,Carlos,False
+4,2025-06-15,Fraude,Descrição da ocorrência número 5.,Pendente,Maria,Pedro,False
+6,2025-11-14,Fraude,Descrição da ocorrência número 7.,Concluído,Lucas,João,False
+8,2025-01-16,Furto,Descrição da ocorrência número 9.,Concluído,Issllany,Pedro,False
+10,2025-10-05,Acidente,Descrição da ocorrência número 11.,Concluído,Maria,Ana,False
+12,2025-05-19,Acidente,Descrição da ocorrência número 13.,Pendente,Issllany,Issllany,False
+14,2025-05-28,Acidente,Descrição da ocorrência número 15.,Concluído,João,Julio,False
+16,2025-11-11,Furto,Descrição da ocorrência número 17.,Concluído,Ana,Ana,False
+18,2025-03-19,Roubo,Descrição da ocorrência número 19.,Em análise,Fernanda,Camila,False
+20,2025-07-20,Agressão,Descrição da ocorrência número 21.,Em análise,Maria,Camila,False
+22,2025-09-27,Vandalismo,Descrição da ocorrência número 23.,Concluído,Issllany,Julio,False
+24,2025-03-12,Acidente,Descrição da ocorrência número 25.,Pendente,Julio,Maria,False
+26,2025-07-17,Furto,Descrição da ocorrência número 27.,Pendente,Ana,Camila,False
+28,2025-02-06,Furto,Descrição da ocorrência número 29.,Arquivado,Camila,Carlos,False
+30,2025-02-14,Roubo,Descrição da ocorrência número 31.,Em análise,Ana,Issllany,False
+32,2025-02-23,Vandalismo,Descrição da ocorrência número 33.,Arquivado,João,Maria,False
+34,2025-04-15,Vandalismo,Descrição da ocorrência número 35.,Concluído,Pedro,Camila,False
+36,2025-05-11,Acidente,Descrição da ocorrência número 37.,Em análise,Lucas,Carlos,False
+38,2025-02-17,Furto,Descrição da ocorrência número 39.,Em análise,Camila,Julio,False
+40,2025-03-16,Fraude,Descrição da ocorrência número 41.,Em análise,Ana,Julio,False
+42,2025-11-24,Furto,Descrição da ocorrência número 43.,Pendente,Camila,Lucas,False
+44,2025-06-10,Agressão,Descrição da ocorrência número 45.,Em análise,Pedro,Ana,False
+46,2025-01-26,Agressão,Descrição da ocorrência número 47.,Concluído,João,Camila,False
+48,2025-06-04,Agressão,Descrição da ocorrência número 49.,Concluído,Maria,Camila,False
+50,2025-07-02,Furto,Descrição da ocorrência número 51.,Pendente,Lucas,Lucas,False
+52,2025-05-14,Fraude,Descrição da ocorrência número 53.,Arquivado,Camila,Carlos,False
+54,2025-04-12,Roubo,Descrição da ocorrência número 55.,Arquivado,Pedro,Ana,False
+56,2025-12-07,Fraude,Descrição da ocorrência número 57.,Concluído,Lucas,João,False
+58,2025-05-12,Agressão,Descrição da ocorrência número 59.,Concluído,Issllany,Lucas,False
+60,2025-10-24,Vandalismo,Descrição da ocorrência número 61.,Arquivado,Ana,João,False
+62,2025-05-08,Fraude,Descrição da ocorrência número 63.,Arquivado,Issllany,João,False
+64,2025-05-13,Agressão,Descrição da ocorrência número 65.,Concluído,Maria,Ana,False
+66,2025-07-19,Agressão,Descrição da ocorrência número 67.,Em análise,Lucas,Camila,False
+68,2025-02-04,Furto,Descrição da ocorrência número 69.,Arquivado,Lucas,Ana,False
+70,2025-09-22,Vandalismo,Descrição da ocorrência número 71.,Arquivado,Maria,Issllany,False
+72,2025-08-26,Fraude,Descrição da ocorrência número 73.,Arquivado,Camila,João,False
+74,2025-08-02,Fraude,Descrição da ocorrência número 75.,Pendente,Pedro,João,False
+76,2025-11-01,Acidente,Descrição da ocorrência número 77.,Em análise,Camila,Lucas,False
+78,2025-03-07,Vandalismo,Descrição da ocorrência número 79.,Pendente,Ana,Ana,False
+80,2025-08-04,Roubo,Descrição da ocorrência número 81.,Arquivado,Fernanda,Lucas,False
+82,2025-07-02,Furto,Descrição da ocorrência número 83.,Pendente,João,João,False
+84,2025-05-09,Fraude,Descrição da ocorrência número 85.,Pendente,Issllany,João,False
+86,2025-12-09,Acidente,Descrição da ocorrência número 87.,Pendente,Maria,Lucas,False
+88,2025-08-03,Fraude,Descrição da ocorrência número 89.,Pendente,Ana,Carlos,False
+90,2025-11-07,Furto,Descrição da ocorrência número 91.,Arquivado,Carlos,Pedro,False
+92,2025-04-13,Vandalismo,Descrição da ocorrência número 93.,Pendente,Carlos,Carlos,False
+94,2025-08-15,Vandalismo,Descrição da ocorrência número 95.,Em análise,Fernanda,João,False
+96,2025-08-11,Acidente,Descrição da ocorrência número 97.,Concluído,Fernanda,Camila,False
+98,2025-02-11,Fraude,Descrição da ocorrência número 99.,Concluído,Camila,Ana,False
+100,2025-10-27,Furto,Descrição da ocorrência número 101.,Arquivado,Pedro,Julio,False
+102,2025-03-12,Vandalismo,Descrição da ocorrência número 103.,Concluído,Ana,Ana,False
+104,2025-08-27,Vandalismo,Descrição da ocorrência número 105.,Em análise,Pedro,Ana,False
+106,2025-11-14,Vandalismo,Descrição da ocorrência número 107.,Pendente,Carlos,Issllany,False
+108,2025-03-21,Roubo,Descrição da ocorrência número 109.,Em análise,Fernanda,João,False
+110,2025-06-25,Vandalismo,Descrição da ocorrência número 111.,Concluído,Carlos,Maria,False
+112,2025-12-19,Vandalismo,Descrição da ocorrência número 113.,Em análise,Issllany,Julio,False
+114,2025-05-08,Agressão,Descrição da ocorrência número 115.,Pendente,Lucas,Maria,False
+116,2025-01-16,Vandalismo,Descrição da ocorrência número 117.,Arquivado,Carlos,Lucas,False
+118,2025-12-23,Fraude,Descrição da ocorrência número 119.,Pendente,Maria,Julio,False
+120,2025-09-28,Fraude,Descrição da ocorrência número 121.,Em análise,Ana,Fernanda,False
+122,2025-07-06,Agressão,Descrição da ocorrência número 123.,Concluído,Julio,Camila,False
+124,2025-12-17,Roubo,Descrição da ocorrência número 125.,Concluído,Maria,Pedro,False
+126,2025-03-27,Agressão,Descrição da ocorrência número 127.,Arquivado,Lucas,Camila,False
+128,2025-05-21,Agressão,Descrição da ocorrência número 129.,Concluído,Camila,João,False
+130,2025-10-09,Roubo,Descrição da ocorrência número 131.,Arquivado,Camila,Maria,False
+132,2025-06-16,Acidente,Descrição da ocorrência número 133.,Arquivado,Ana,Maria,False
+134,2025-09-02,Fraude,Descrição da ocorrência número 135.,Concluído,Carlos,Carlos,False
+136,2025-03-07,Agressão,Descrição da ocorrência número 137.,Arquivado,Pedro,João,False
+138,2025-02-01,Agressão,Descrição da ocorrência número 139.,Em análise,Carlos,Carlos,False
+140,2025-03-08,Fraude,Descrição da ocorrência número 141.,Em análise,Pedro,João,False
+142,2025-01-16,Roubo,Descrição da ocorrência número 143.,Concluído,Maria,Fernanda,False
+144,2025-08-15,Acidente,Descrição da ocorrência número 145.,Arquivado,Carlos,Lucas,False
+146,2025-02-07,Roubo,Descrição da ocorrência número 147.,Concluído,Ana,Julio,False
+148,2025-09-09,Furto,Descrição da ocorrência número 149.,Concluído,Pedro,Maria,False
+150,2025-11-28,Fraude,Descrição da ocorrência número 151.,Em análise,Carlos,Julio,False
+152,2025-01-26,Acidente,Descrição da ocorrência número 153.,Arquivado,Lucas,Issllany,False
+154,2025-05-13,Roubo,Descrição da ocorrência número 155.,Pendente,Julio,Julio,False
+156,2025-06-04,Agressão,Descrição da ocorrência número 157.,Concluído,João,Julio,False
+158,2025-04-01,Roubo,Descrição da ocorrência número 159.,Concluído,Maria,Lucas,False
+160,2025-09-02,Vandalismo,Descrição da ocorrência número 161.,Arquivado,Fernanda,Camila,False
+162,2025-01-15,Roubo,Descrição da ocorrência número 163.,Em análise,Issllany,João,False
+164,2025-10-01,Roubo,Descrição da ocorrência número 165.,Em análise,Issllany,Issllany,False
+166,2025-10-24,Furto,Descrição da ocorrência número 167.,Pendente,Lucas,Pedro,False
+168,2025-11-06,Agressão,Descrição da ocorrência número 169.,Em análise,Camila,Ana,False
+170,2025-12-16,Roubo,Descrição da ocorrência número 171.,Em análise,Maria,Maria,False
+172,2025-12-08,Agressão,Descrição da ocorrência número 173.,Em análise,João,Pedro,False
+174,2025-05-04,Acidente,Descrição da ocorrência número 175.,Concluído,Pedro,Pedro,False
+176,2025-08-18,Furto,Descrição da ocorrência número 177.,Pendente,Issllany,Lucas,False
+178,2025-11-19,Acidente,Descrição da ocorrência número 179.,Em análise,Pedro,Julio,False
+180,2025-02-15,Furto,Descrição da ocorrência número 181.,Em análise,Pedro,João,False
+182,2025-03-24,Roubo,Descrição da ocorrência número 183.,Pendente,Pedro,Maria,False
+184,2025-03-03,Agressão,Descrição da ocorrência número 185.,Arquivado,Julio,Ana,False
+186,2025-10-01,Vandalismo,Descrição da ocorrência número 187.,Em análise,Issllany,Fernanda,False
+188,2025-05-22,Acidente,Descrição da ocorrência número 189.,Em análise,Issllany,Ana,False
+190,2025-12-06,Vandalismo,Descrição da ocorrência número 191.,Em análise,Issllany,Carlos,False
+192,2025-01-27,Fraude,Descrição da ocorrência número 193.,Concluído,João,Camila,False
+194,2025-04-23,Fraude,Descrição da ocorrência número 195.,Em análise,Issllany,Carlos,False
+196,2025-12-01,Roubo,Descrição da ocorrência número 197.,Pendente,Issllany,Lucas,False
+198,2025-03-06,Roubo,Descrição da ocorrência número 199.,Arquivado,Fernanda,Camila,False
+200,2025-12-24,Agressão,Descrição da ocorrência número 201.,Arquivado,Ana,Lucas,False
+202,2025-04-16,Acidente,Descrição da ocorrência número 203.,Arquivado,Ana,Camila,False
+204,2025-08-23,Agressão,Descrição da ocorrência número 205.,Concluído,Lucas,Maria,False
+206,2025-10-23,Acidente,Descrição da ocorrência número 207.,Arquivado,Issllany,Fernanda,False
+208,2025-01-25,Vandalismo,Descrição da ocorrência número 209.,Arquivado,Lucas,Maria,False
+210,2025-10-01,Furto,Descrição da ocorrência número 211.,Arquivado,João,Pedro,False
+212,2025-03-12,Agressão,Descrição da ocorrência número 213.,Concluído,Pedro,Camila,False
+214,2025-12-16,Vandalismo,Descrição da ocorrência número 215.,Em análise,Fernanda,Camila,False
+216,2025-02-15,Furto,Descrição da ocorrência número 217.,Arquivado,Fernanda,Carlos,False
+218,2025-10-01,Vandalismo,Descrição da ocorrência número 219.,Arquivado,Camila,Lucas,False
+220,2025-10-26,Furto,Descrição da ocorrência número 221.,Em análise,Lucas,João,False
+222,2025-01-03,Roubo,Descrição da ocorrência número 223.,Arquivado,Maria,Ana,False
+224,2025-08-26,Furto,Descrição da ocorrência número 225.,Concluído,Pedro,Carlos,False
+226,2025-08-14,Agressão,Descrição da ocorrência número 227.,Em análise,Lucas,Pedro,False
+228,2025-01-03,Furto,Descrição da ocorrência número 229.,Em análise,Fernanda,Carlos,False
+230,2025-01-26,Fraude,Descrição da ocorrência número 231.,Concluído,Fernanda,Camila,False
+232,2025-05-04,Vandalismo,Descrição da ocorrência número 233.,Arquivado,Carlos,Issllany,False
+234,2025-09-18,Acidente,Descrição da ocorrência número 235.,Concluído,Julio,Camila,False
+236,2025-04-13,Roubo,Descrição da ocorrência número 237.,Em análise,Issllany,Fernanda,False
+238,2025-11-01,Vandalismo,Descrição da ocorrência número 239.,Pendente,Camila,João,False
+240,2025-03-20,Fraude,Descrição da ocorrência número 241.,Pendente,Issllany,Maria,False
+242,2025-05-23,Furto,Descrição da ocorrência número 243.,Em análise,Julio,Ana,False
+244,2025-01-20,Furto,Descrição da ocorrência número 245.,Arquivado,Pedro,Lucas,False
+246,2025-06-07,Roubo,Descrição da ocorrência número 247.,Arquivado,Issllany,Camila,False
+248,2025-03-19,Agressão,Descrição da ocorrência número 249.,Concluído,Pedro,Fernanda,False
+250,2025-09-06,Agressão,Descrição da ocorrência número 251.,Concluído,Camila,Maria,False
+252,2025-10-05,Roubo,Descrição da ocorrência número 253.,Arquivado,Julio,Maria,False
+254,2025-08-08,Fraude,Descrição da ocorrência número 255.,Pendente,Carlos,Maria,False
+256,2025-02-08,Acidente,Descrição da ocorrência número 257.,Arquivado,Fernanda,Julio,False
+258,2025-03-05,Roubo,Descrição da ocorrência número 259.,Arquivado,Julio,Maria,False
+260,2025-01-12,Roubo,Descrição da ocorrência número 261.,Concluído,Ana,Fernanda,False
+262,2025-12-26,Furto,Descrição da ocorrência número 263.,Arquivado,Maria,Camila,False
+264,2025-09-08,Furto,Descrição da ocorrência número 265.,Em análise,Carlos,Camila,False
+266,2025-07-28,Roubo,Descrição da ocorrência número 267.,Em análise,Maria,Maria,False
+268,2025-08-25,Vandalismo,Descrição da ocorrência número 269.,Concluído,Lucas,Julio,False
+270,2025-10-18,Acidente,Descrição da ocorrência número 271.,Pendente,Fernanda,Pedro,False
+272,2025-11-02,Agressão,Descrição da ocorrência número 273.,Pendente,Camila,Ana,False
+274,2025-05-11,Furto,Descrição da ocorrência número 275.,Concluído,Maria,Camila,False
+276,2025-08-15,Fraude,Descrição da ocorrência número 277.,Arquivado,Maria,Issllany,False
+278,2025-10-09,Acidente,Descrição da ocorrência número 279.,Em análise,Ana,Maria,False
+280,2025-08-11,Furto,Descrição da ocorrência número 281.,Arquivado,Ana,Julio,False
+282,2025-09-17,Roubo,Descrição da ocorrência número 283.,Arquivado,Maria,Camila,False
+284,2025-03-27,Agressão,Descrição da ocorrência número 285.,Em análise,Lucas,Camila,False
+286,2025-07-06,Vandalismo,Descrição da ocorrência número 287.,Em análise,Julio,Camila,False
+288,2025-07-07,Furto,Descrição da ocorrência número 289.,Em análise,Ana,Camila,False
+290,2025-03-15,Vandalismo,Descrição da ocorrência número 291.,Em análise,Lucas,Issllany,False
+292,2025-03-16,Vandalismo,Descrição da ocorrência número 293.,Concluído,Fernanda,Ana,False
+294,2025-04-20,Furto,Descrição da ocorrência número 295.,Concluído,Camila,Pedro,False
+296,2025-05-03,Agressão,Descrição da ocorrência número 297.,Pendente,João,Pedro,False
+298,2025-07-09,Vandalismo,Descrição da ocorrência número 299.,Arquivado,Issllany,Camila,False
+300,2025-11-26,Fraude,Descrição da ocorrência número 301.,Concluído,João,Issllany,False
+302,2025-06-25,Furto,Descrição da ocorrência número 303.,Em análise,Julio,Issllany,False
+304,2025-08-13,Furto,Descrição da ocorrência número 305.,Pendente,Ana,Fernanda,False
+306,2025-05-20,Agressão,Descrição da ocorrência número 307.,Em análise,Maria,João,False
+308,2025-12-14,Acidente,Descrição da ocorrência número 309.,Pendente,Maria,Camila,False
+310,2025-12-14,Fraude,Descrição da ocorrência número 311.,Em análise,Camila,Ana,False
+312,2025-06-28,Acidente,Descrição da ocorrência número 313.,Arquivado,João,Issllany,False
+314,2025-12-07,Fraude,Descrição da ocorrência número 315.,Arquivado,Camila,Julio,False
+316,2025-01-14,Fraude,Descrição da ocorrência número 317.,Arquivado,Fernanda,Lucas,False
+318,2025-06-27,Fraude,Descrição da ocorrência número 319.,Concluído,Camila,Camila,False
+320,2025-03-17,Roubo,Descrição da ocorrência número 321.,Concluído,Camila,Fernanda,False
+322,2025-03-02,Furto,Descrição da ocorrência número 323.,Em análise,Pedro,Julio,False
+324,2025-01-20,Acidente,Descrição da ocorrência número 325.,Concluído,Carlos,Ana,False
+326,2025-04-22,Vandalismo,Descrição da ocorrência número 327.,Em análise,Pedro,Lucas,False
+328,2025-08-09,Acidente,Descrição da ocorrência número 329.,Arquivado,Carlos,Lucas,False
+330,2025-05-01,Roubo,Descrição da ocorrência número 331.,Em análise,Camila,Issllany,False
+332,2025-01-24,Vandalismo,Descrição da ocorrência número 333.,Em análise,Julio,Maria,False
+334,2025-08-14,Fraude,Descrição da ocorrência número 335.,Arquivado,Issllany,Fernanda,False
+336,2025-05-21,Vandalismo,Descrição da ocorrência número 337.,Pendente,Issllany,Carlos,False
+338,2025-04-21,Vandalismo,Descrição da ocorrência número 339.,Em análise,Carlos,Issllany,False
+340,2025-01-20,Fraude,Descrição da ocorrência número 341.,Arquivado,Camila,Ana,False
+342,2025-05-28,Acidente,Descrição da ocorrência número 343.,Em análise,João,Maria,False
+344,2025-08-22,Vandalismo,Descrição da ocorrência número 345.,Concluído,Camila,Ana,False
+346,2025-07-25,Acidente,Descrição da ocorrência número 347.,Concluído,Maria,Camila,False
+348,2025-03-25,Roubo,Descrição da ocorrência número 349.,Pendente,João,Pedro,False
+350,2025-07-24,Acidente,Descrição da ocorrência número 351.,Pendente,Pedro,Carlos,False
+352,2025-04-27,Fraude,Descrição da ocorrência número 353.,Arquivado,João,Camila,False
+354,2025-01-04,Furto,Descrição da ocorrência número 355.,Em análise,Lucas,Lucas,False
+356,2025-07-26,Vandalismo,Descrição da ocorrência número 357.,Pendente,Maria,Camila,False
+358,2025-02-24,Furto,Descrição da ocorrência número 359.,Em análise,Fernanda,Ana,False
+360,2025-10-01,Furto,Descrição da ocorrência número 361.,Arquivado,Lucas,Ana,False
+362,2025-11-04,Acidente,Descrição da ocorrência número 363.,Em análise,Pedro,Lucas,False
+364,2025-05-09,Agressão,Descrição da ocorrência número 365.,Pendente,Ana,Issllany,False
+366,2025-09-05,Furto,Descrição da ocorrência número 367.,Concluído,Julio,Lucas,False
+368,2025-02-10,Roubo,Descrição da ocorrência número 369.,Em análise,Pedro,Maria,False
+370,2025-06-23,Acidente,Descrição da ocorrência número 371.,Pendente,Issllany,Maria,False
+372,2025-10-18,Agressão,Descrição da ocorrência número 373.,Arquivado,Lucas,Ana,False
+374,2025-10-23,Vandalismo,Descrição da ocorrência número 375.,Arquivado,Camila,Camila,False
+376,2025-09-13,Fraude,Descrição da ocorrência número 377.,Concluído,Issllany,Camila,False
+378,2025-06-11,Furto,Descrição da ocorrência número 379.,Concluído,Ana,Issllany,False
+380,2025-07-04,Acidente,Descrição da ocorrência número 381.,Pendente,Ana,Fernanda,False
+382,2025-07-21,Fraude,Descrição da ocorrência número 383.,Pendente,Carlos,Issllany,False
+384,2025-03-11,Fraude,Descrição da ocorrência número 385.,Concluído,Ana,Julio,False
+386,2025-11-28,Agressão,Descrição da ocorrência número 387.,Arquivado,João,Maria,False
+388,2025-06-04,Acidente,Descrição da ocorrência número 389.,Pendente,Lucas,Carlos,False
+390,2025-10-15,Furto,Descrição da ocorrência número 391.,Arquivado,Camila,Lucas,False
+392,2025-07-28,Vandalismo,Descrição da ocorrência número 393.,Pendente,Issllany,Maria,False
+394,2025-12-27,Vandalismo,Descrição da ocorrência número 395.,Pendente,Pedro,Camila,False
+396,2025-12-16,Furto,Descrição da ocorrência número 397.,Arquivado,João,Pedro,False
+398,2025-05-20,Furto,Descrição da ocorrência número 399.,Pendente,Carlos,Fernanda,False
+400,2025-02-02,Fraude,Descrição da ocorrência número 401.,Concluído,Ana,Camila,False
+402,2025-10-17,Vandalismo,Descrição da ocorrência número 403.,Em análise,Maria,Carlos,False
+404,2025-01-24,Roubo,Descrição da ocorrência número 405.,Concluído,Camila,Julio,False
+406,2025-02-03,Roubo,Descrição da ocorrência número 407.,Concluído,Pedro,Fernanda,False
+408,2025-01-08,Fraude,Descrição da ocorrência número 409.,Em análise,Issllany,Maria,False
+410,2025-06-22,Vandalismo,Descrição da ocorrência número 411.,Concluído,Julio,Issllany,False
+412,2025-02-21,Acidente,Descrição da ocorrência número 413.,Pendente,Maria,Lucas,False
+414,2025-09-02,Furto,Descrição da ocorrência número 415.,Arquivado,Issllany,Ana,False
+416,2025-01-04,Furto,Descrição da ocorrência número 417.,Arquivado,Fernanda,Fernanda,False
+418,2025-09-26,Vandalismo,Descrição da ocorrência número 419.,Pendente,Ana,Maria,False
+420,2025-01-09,Furto,Descrição da ocorrência número 421.,Em análise,João,Camila,False
+422,2025-03-21,Furto,Descrição da ocorrência número 423.,Em análise,Julio,Carlos,False
+424,2025-09-13,Acidente,Descrição da ocorrência número 425.,Pendente,Julio,Carlos,False
+426,2025-10-17,Agressão,Descrição da ocorrência número 427.,Concluído,Pedro,Lucas,False
+428,2025-03-13,Agressão,Descrição da ocorrência número 429.,Em análise,João,João,False
+430,2025-01-05,Vandalismo,Descrição da ocorrência número 431.,Concluído,Fernanda,Lucas,False
+432,2025-06-14,Agressão,Descrição da ocorrência número 433.,Arquivado,Maria,Maria,False
+434,2025-04-01,Acidente,Descrição da ocorrência número 435.,Em análise,João,João,False
+436,2025-02-07,Roubo,Descrição da ocorrência número 437.,Concluído,Fernanda,Fernanda,False
+438,2025-03-19,Vandalismo,Descrição da ocorrência número 439.,Pendente,Maria,Carlos,False
+440,2025-05-21,Roubo,Descrição da ocorrência número 441.,Pendente,Lucas,João,False
+442,2025-03-05,Roubo,Descrição da ocorrência número 443.,Pendente,Camila,Carlos,False
+444,2025-03-18,Vandalismo,Descrição da ocorrência número 445.,Em análise,Camila,Lucas,False
+446,2025-05-10,Acidente,Descrição da ocorrência número 447.,Em análise,Fernanda,João,False
+448,2025-02-17,Furto,Descrição da ocorrência número 449.,Concluído,João,Julio,False
+450,2025-03-04,Acidente,Descrição da ocorrência número 451.,Em análise,Pedro,Issllany,False
+452,2025-04-04,Agressão,Descrição da ocorrência número 453.,Concluído,Carlos,Lucas,False
+454,2025-07-12,Vandalismo,Descrição da ocorrência número 455.,Pendente,Issllany,Pedro,False
+456,2025-07-15,Furto,Descrição da ocorrência número 457.,Concluído,Carlos,Julio,False
+458,2025-06-28,Vandalismo,Descrição da ocorrência número 459.,Arquivado,Camila,Carlos,False
+460,2025-05-19,Fraude,Descrição da ocorrência número 461.,Concluído,Fernanda,Pedro,False
+462,2025-11-26,Acidente,Descrição da ocorrência número 463.,Arquivado,Maria,Julio,False
+464,2025-11-28,Acidente,Descrição da ocorrência número 465.,Concluído,Maria,Fernanda,False
+466,2025-12-25,Acidente,Descrição da ocorrência número 467.,Arquivado,Pedro,Fernanda,False
+468,2025-05-07,Roubo,Descrição da ocorrência número 469.,Arquivado,Camila,João,False
+470,2025-03-05,Fraude,Descrição da ocorrência número 471.,Concluído,Camila,Fernanda,False
+472,2025-08-06,Acidente,Descrição da ocorrência número 473.,Arquivado,Maria,Fernanda,False
+474,2025-12-13,Acidente,Descrição da ocorrência número 475.,Arquivado,Lucas,Maria,False
+476,2025-10-11,Acidente,Descrição da ocorrência número 477.,Pendente,Ana,João,False
+478,2025-10-01,Fraude,Descrição da ocorrência número 479.,Concluído,Fernanda,Ana,False
+480,2025-08-14,Acidente,Descrição da ocorrência número 481.,Pendente,Julio,Fernanda,False
+482,2025-06-12,Furto,Descrição da ocorrência número 483.,Concluído,Lucas,Lucas,False
+484,2025-12-16,Roubo,Descrição da ocorrência número 485.,Concluído,Fernanda,Carlos,False
+486,2025-07-08,Furto,Descrição da ocorrência número 487.,Em análise,Maria,Carlos,False
+488,2025-11-11,Fraude,Descrição da ocorrência número 489.,Concluído,Camila,Pedro,False
+490,2025-09-17,Roubo,Descrição da ocorrência número 491.,Pendente,Fernanda,Issllany,False
+492,2025-11-10,Furto,Descrição da ocorrência número 493.,Em análise,Carlos,Ana,False
+494,2025-04-11,Vandalismo,Descrição da ocorrência número 495.,Arquivado,Carlos,João,False
+496,2025-05-27,Acidente,Descrição da ocorrência número 497.,Arquivado,Camila,Lucas,False
+498,2025-05-10,Acidente,Descrição da ocorrência número 499.,Pendente,Ana,Camila,False
+500,2025-11-20,Furto,Descrição da ocorrência número 501.,Em análise,Lucas,Fernanda,False
+502,2025-08-17,Furto,Descrição da ocorrência número 503.,Em análise,Issllany,João,False
+504,2025-08-26,Agressão,Descrição da ocorrência número 505.,Em análise,Fernanda,Issllany,False
+506,2025-09-23,Acidente,Descrição da ocorrência número 507.,Concluído,Camila,João,False
+508,2025-12-18,Roubo,Descrição da ocorrência número 509.,Em análise,Camila,Issllany,False
+510,2025-09-18,Agressão,Descrição da ocorrência número 511.,Concluído,Maria,João,False
+512,2025-12-18,Acidente,Descrição da ocorrência número 513.,Concluído,João,Lucas,False
+514,2025-12-15,Vandalismo,Descrição da ocorrência número 515.,Pendente,Camila,Issllany,False
+516,2025-08-16,Acidente,Descrição da ocorrência número 517.,Em análise,Julio,Lucas,False
+518,2025-12-13,Acidente,Descrição da ocorrência número 519.,Arquivado,Camila,Camila,False
+520,2025-11-18,Roubo,Descrição da ocorrência número 521.,Arquivado,Lucas,Ana,False
+522,2025-02-09,Roubo,Descrição da ocorrência número 523.,Arquivado,Fernanda,Issllany,False
+524,2025-05-27,Vandalismo,Descrição da ocorrência número 525.,Concluído,Carlos,Julio,False
+526,2025-11-15,Acidente,Descrição da ocorrência número 527.,Concluído,Fernanda,Fernanda,False
+528,2025-07-05,Agressão,Descrição da ocorrência número 529.,Em análise,Carlos,Carlos,False
+530,2025-10-10,Fraude,Descrição da ocorrência número 531.,Concluído,Pedro,Issllany,False
+532,2025-04-19,Roubo,Descrição da ocorrência número 533.,Arquivado,Julio,Fernanda,False
+534,2025-12-26,Vandalismo,Descrição da ocorrência número 535.,Em análise,Maria,Camila,False
+536,2025-07-26,Roubo,Descrição da ocorrência número 537.,Concluído,Julio,Lucas,False
+538,2025-09-21,Vandalismo,Descrição da ocorrência número 539.,Arquivado,Fernanda,Lucas,False
+540,2025-05-20,Acidente,Descrição da ocorrência número 541.,Concluído,Pedro,João,False
+542,2025-03-19,Roubo,Descrição da ocorrência número 543.,Concluído,Julio,Pedro,False
+544,2025-01-10,Agressão,Descrição da ocorrência número 545.,Em análise,Pedro,Maria,False
+546,2025-03-09,Acidente,Descrição da ocorrência número 547.,Em análise,Camila,Carlos,False
+548,2025-12-01,Fraude,Descrição da ocorrência número 549.,Arquivado,Lucas,Pedro,False
+550,2025-06-03,Acidente,Descrição da ocorrência número 551.,Arquivado,Pedro,Camila,False
+552,2025-12-18,Acidente,Descrição da ocorrência número 553.,Em análise,Fernanda,Ana,False
+554,2025-09-27,Roubo,Descrição da ocorrência número 555.,Concluído,Fernanda,Lucas,False
+556,2025-12-20,Acidente,Descrição da ocorrência número 557.,Arquivado,Julio,Julio,False
+558,2025-06-20,Agressão,Descrição da ocorrência número 559.,Pendente,Julio,Ana,False
+560,2025-06-04,Roubo,Descrição da ocorrência número 561.,Pendente,Ana,Fernanda,False
+562,2025-07-25,Vandalismo,Descrição da ocorrência número 563.,Em análise,Pedro,Carlos,False
+564,2025-01-16,Roubo,Descrição da ocorrência número 565.,Pendente,João,Lucas,False
+566,2025-06-27,Roubo,Descrição da ocorrência número 567.,Concluído,Maria,Maria,False
+568,2025-10-28,Agressão,Descrição da ocorrência número 569.,Em análise,Maria,Ana,False
+570,2025-02-07,Vandalismo,Descrição da ocorrência número 571.,Em análise,Julio,Camila,False
+572,2025-03-03,Agressão,Descrição da ocorrência número 573.,Concluído,Issllany,Ana,False
+574,2025-11-09,Vandalismo,Descrição da ocorrência número 575.,Concluído,Maria,Ana,False
+576,2025-04-21,Acidente,Descrição da ocorrência número 577.,Pendente,Julio,Issllany,False
+578,2025-07-23,Vandalismo,Descrição da ocorrência número 579.,Em análise,Ana,Pedro,False
+580,2025-09-16,Vandalismo,Descrição da ocorrência número 581.,Em análise,Fernanda,Carlos,False
+582,2025-05-26,Fraude,Descrição da ocorrência número 583.,Concluído,Carlos,Ana,False
+584,2025-07-08,Agressão,Descrição da ocorrência número 585.,Pendente,Carlos,João,False
+586,2025-06-12,Furto,Descrição da ocorrência número 587.,Concluído,Pedro,Camila,False
+588,2025-02-21,Agressão,Descrição da ocorrência número 589.,Arquivado,Julio,Ana,False
+590,2025-12-10,Acidente,Descrição da ocorrência número 591.,Arquivado,João,Julio,False
+592,2025-08-18,Acidente,Descrição da ocorrência número 593.,Em análise,Carlos,João,False
+594,2025-12-05,Roubo,Descrição da ocorrência número 595.,Concluído,Camila,Issllany,False
+596,2025-09-28,Acidente,Descrição da ocorrência número 597.,Em análise,Fernanda,Julio,False
+598,2025-09-07,Acidente,Descrição da ocorrência número 599.,Concluído,João,Carlos,False
+600,2025-10-04,Agressão,Descrição da ocorrência número 601.,Em análise,Lucas,Issllany,False
+602,2025-09-16,Roubo,Descrição da ocorrência número 603.,Arquivado,Issllany,Julio,False
+604,2025-04-26,Vandalismo,Descrição da ocorrência número 605.,Concluído,Ana,Ana,False
+606,2025-03-27,Roubo,Descrição da ocorrência número 607.,Pendente,Camila,Maria,False
+608,2025-05-22,Fraude,Descrição da ocorrência número 609.,Em análise,Julio,Issllany,False
+610,2025-01-09,Vandalismo,Descrição da ocorrência número 611.,Em análise,Issllany,Julio,False
+612,2025-10-25,Vandalismo,Descrição da ocorrência número 613.,Em análise,Carlos,João,False
+614,2025-03-19,Acidente,Descrição da ocorrência número 615.,Concluído,Ana,Camila,False
+616,2025-10-21,Furto,Descrição da ocorrência número 617.,Em análise,Lucas,Julio,False
+618,2025-02-14,Furto,Descrição da ocorrência número 619.,Arquivado,Ana,João,False
+620,2025-02-24,Roubo,Descrição da ocorrência número 621.,Arquivado,Ana,Issllany,False
+622,2025-09-02,Acidente,Descrição da ocorrência número 623.,Pendente,Maria,Lucas,False
+624,2025-05-25,Fraude,Descrição da ocorrência número 625.,Arquivado,Julio,Ana,False
+626,2025-11-02,Furto,Descrição da ocorrência número 627.,Pendente,Ana,Lucas,False
+628,2025-02-12,Acidente,Descrição da ocorrência número 629.,Concluído,Carlos,João,False
+630,2025-09-08,Acidente,Descrição da ocorrência número 631.,Em análise,Julio,Fernanda,False
+632,2025-12-23,Furto,Descrição da ocorrência número 633.,Arquivado,João,Carlos,False
+634,2025-03-12,Vandalismo,Descrição da ocorrência número 635.,Pendente,Lucas,Lucas,False
+636,2025-03-19,Fraude,Descrição da ocorrência número 637.,Pendente,Fernanda,Maria,False
+638,2025-07-10,Agressão,Descrição da ocorrência número 639.,Concluído,Lucas,Issllany,False
+640,2025-05-20,Furto,Descrição da ocorrência número 641.,Arquivado,Lucas,Maria,False
+642,2025-12-18,Vandalismo,Descrição da ocorrência número 643.,Pendente,Ana,Issllany,False
+644,2025-08-03,Roubo,Descrição da ocorrência número 645.,Em análise,Maria,Julio,False
+646,2025-12-03,Fraude,Descrição da ocorrência número 647.,Concluído,Lucas,Camila,False
+648,2025-07-26,Furto,Descrição da ocorrência número 649.,Concluído,Issllany,Ana,False
+650,2025-11-09,Furto,Descrição da ocorrência número 651.,Concluído,Maria,Ana,False
+652,2025-12-19,Fraude,Descrição da ocorrência número 653.,Pendente,Lucas,Issllany,False
+654,2025-09-26,Acidente,Descrição da ocorrência número 655.,Em análise,João,Camila,False
+656,2025-06-25,Vandalismo,Descrição da ocorrência número 657.,Pendente,Camila,Fernanda,False
+658,2025-05-18,Vandalismo,Descrição da ocorrência número 659.,Concluído,Maria,Lucas,False
+660,2025-05-22,Agressão,Descrição da ocorrência número 661.,Arquivado,Camila,Lucas,False
+662,2025-11-12,Agressão,Descrição da ocorrência número 663.,Arquivado,Issllany,Maria,False
+664,2025-10-23,Acidente,Descrição da ocorrência número 665.,Arquivado,Camila,Carlos,False
+666,2025-06-25,Agressão,Descrição da ocorrência número 667.,Concluído,Fernanda,João,False
+668,2025-02-19,Vandalismo,Descrição da ocorrência número 669.,Em análise,Camila,Issllany,False
+670,2025-11-16,Vandalismo,Descrição da ocorrência número 671.,Em análise,Issllany,Carlos,False
+672,2025-08-23,Fraude,Descrição da ocorrência número 673.,Em análise,Lucas,Maria,False
+674,2025-08-07,Fraude,Descrição da ocorrência número 675.,Em análise,Pedro,Pedro,False
+676,2025-10-19,Vandalismo,Descrição da ocorrência número 677.,Concluído,Fernanda,Carlos,False
+678,2025-08-27,Roubo,Descrição da ocorrência número 679.,Arquivado,Ana,Issllany,False
+680,2025-03-13,Vandalismo,Descrição da ocorrência número 681.,Concluído,Maria,João,False
+682,2025-06-08,Furto,Descrição da ocorrência número 683.,Em análise,Pedro,Carlos,False
+684,2025-10-20,Acidente,Descrição da ocorrência número 685.,Pendente,Ana,Issllany,False
+686,2025-08-06,Vandalismo,Descrição da ocorrência número 687.,Pendente,Ana,Camila,False
+688,2025-03-11,Agressão,Descrição da ocorrência número 689.,Concluído,Fernanda,João,False
+690,2025-06-27,Fraude,Descrição da ocorrência número 691.,Arquivado,Issllany,Pedro,False
+692,2025-12-08,Roubo,Descrição da ocorrência número 693.,Arquivado,Carlos,Julio,False
+694,2025-02-07,Roubo,Descrição da ocorrência número 695.,Concluído,Fernanda,Lucas,False
+696,2025-02-10,Acidente,Descrição da ocorrência número 697.,Arquivado,Ana,João,False
+698,2025-02-04,Roubo,Descrição da ocorrência número 699.,Arquivado,Fernanda,Pedro,False
+700,2025-11-19,Fraude,Descrição da ocorrência número 701.,Em análise,Maria,Camila,False
+702,2025-10-11,Roubo,Descrição da ocorrência número 703.,Arquivado,Fernanda,Julio,False
+704,2025-03-27,Fraude,Descrição da ocorrência número 705.,Pendente,Issllany,João,False
+706,2025-12-08,Vandalismo,Descrição da ocorrência número 707.,Arquivado,Maria,João,False
+708,2025-09-14,Furto,Descrição da ocorrência número 709.,Pendente,Issllany,Camila,False
+710,2025-05-05,Furto,Descrição da ocorrência número 711.,Arquivado,Maria,Julio,False
+712,2025-05-27,Agressão,Descrição da ocorrência número 713.,Em análise,Camila,João,False
+714,2025-12-27,Fraude,Descrição da ocorrência número 715.,Pendente,Maria,Carlos,False
+716,2025-06-21,Acidente,Descrição da ocorrência número 717.,Concluído,Camila,Lucas,False
+718,2025-12-15,Roubo,Descrição da ocorrência número 719.,Concluído,Pedro,Fernanda,False
+720,2025-06-25,Furto,Descrição da ocorrência número 721.,Em análise,João,Julio,False
+722,2025-01-13,Acidente,Descrição da ocorrência número 723.,Arquivado,Carlos,Issllany,False
+724,2025-02-08,Agressão,Descrição da ocorrência número 725.,Em análise,Julio,Fernanda,False
+726,2025-03-12,Agressão,Descrição da ocorrência número 727.,Em análise,Issllany,Maria,False
+728,2025-08-12,Agressão,Descrição da ocorrência número 729.,Concluído,Lucas,Fernanda,False
+730,2025-09-03,Agressão,Descrição da ocorrência número 731.,Concluído,Ana,Carlos,False
+732,2025-10-10,Agressão,Descrição da ocorrência número 733.,Pendente,Julio,João,False
+734,2025-02-02,Vandalismo,Descrição da ocorrência número 735.,Pendente,Julio,Issllany,False
+736,2025-02-19,Vandalismo,Descrição da ocorrência número 737.,Arquivado,Issllany,Lucas,False
+738,2025-05-17,Vandalismo,Descrição da ocorrência número 739.,Arquivado,Ana,Issllany,False
+740,2025-07-04,Furto,Descrição da ocorrência número 741.,Pendente,Maria,Carlos,False
+742,2025-06-26,Roubo,Descrição da ocorrência número 743.,Arquivado,Ana,Maria,False
+744,2025-08-23,Roubo,Descrição da ocorrência número 745.,Arquivado,Fernanda,Camila,False
+746,2025-02-01,Agressão,Descrição da ocorrência número 747.,Concluído,Maria,Issllany,False
+748,2025-02-22,Acidente,Descrição da ocorrência número 749.,Pendente,Fernanda,Camila,False
+750,2025-12-27,Vandalismo,Descrição da ocorrência número 751.,Em análise,Ana,Carlos,False
+752,2025-05-14,Fraude,Descrição da ocorrência número 753.,Arquivado,Fernanda,João,False
+754,2025-08-06,Agressão,Descrição da ocorrência número 755.,Arquivado,João,Lucas,False
+756,2025-09-16,Acidente,Descrição da ocorrência número 757.,Arquivado,João,Carlos,False
+758,2025-08-16,Vandalismo,Descrição da ocorrência número 759.,Arquivado,João,Issllany,False
+760,2025-11-11,Furto,Descrição da ocorrência número 761.,Em análise,João,Ana,False
+762,2025-11-16,Vandalismo,Descrição da ocorrência número 763.,Em análise,Issllany,Fernanda,False
+764,2025-02-07,Acidente,Descrição da ocorrência número 765.,Pendente,Fernanda,Fernanda,False
+766,2025-10-19,Agressão,Descrição da ocorrência número 767.,Concluído,Julio,Carlos,False
+768,2025-02-26,Furto,Descrição da ocorrência número 769.,Pendente,Issllany,Lucas,False
+770,2025-07-05,Fraude,Descrição da ocorrência número 771.,Arquivado,Julio,Julio,False
+772,2025-07-03,Roubo,Descrição da ocorrência número 773.,Concluído,Pedro,Pedro,False
+774,2025-12-05,Acidente,Descrição da ocorrência número 775.,Arquivado,Julio,João,False
+776,2025-09-19,Vandalismo,Descrição da ocorrência número 777.,Arquivado,Ana,Lucas,False
+778,2025-08-22,Vandalismo,Descrição da ocorrência número 779.,Pendente,Carlos,Julio,False
+780,2025-07-03,Furto,Descrição da ocorrência número 781.,Arquivado,Pedro,Julio,False
+782,2025-06-03,Vandalismo,Descrição da ocorrência número 783.,Concluído,Carlos,Carlos,False
+784,2025-04-11,Vandalismo,Descrição da ocorrência número 785.,Pendente,Fernanda,Carlos,False
+786,2025-05-08,Agressão,Descrição da ocorrência número 787.,Arquivado,João,Ana,False
+788,2025-07-07,Fraude,Descrição da ocorrência número 789.,Em análise,Lucas,Carlos,False
+790,2025-07-16,Furto,Descrição da ocorrência número 791.,Arquivado,Issllany,Julio,False
+792,2025-01-12,Fraude,Descrição da ocorrência número 793.,Concluído,Fernanda,Carlos,False
+794,2025-10-08,Roubo,Descrição da ocorrência número 795.,Arquivado,Julio,João,False
+796,2025-06-23,Fraude,Descrição da ocorrência número 797.,Pendente,João,Fernanda,False
+798,2025-08-26,Acidente,Descrição da ocorrência número 799.,Em análise,Maria,Maria,False
+800,2025-11-15,Furto,Descrição da ocorrência número 801.,Concluído,João,Fernanda,False
+802,2025-08-24,Roubo,Descrição da ocorrência número 803.,Arquivado,Lucas,Julio,False
+804,2025-10-15,Acidente,Descrição da ocorrência número 805.,Pendente,Issllany,Fernanda,False
+806,2025-06-12,Fraude,Descrição da ocorrência número 807.,Concluído,Lucas,Maria,False
+808,2025-04-12,Acidente,Descrição da ocorrência número 809.,Pendente,Fernanda,Maria,False
+810,2025-07-09,Roubo,Descrição da ocorrência número 811.,Pendente,Issllany,Fernanda,False
+812,2025-12-18,Fraude,Descrição da ocorrência número 813.,Em análise,João,Camila,False
+814,2025-11-05,Agressão,Descrição da ocorrência número 815.,Concluído,João,Carlos,False
+816,2025-01-19,Acidente,Descrição da ocorrência número 817.,Em análise,Camila,Carlos,False
+818,2025-03-12,Acidente,Descrição da ocorrência número 819.,Concluído,Pedro,Carlos,False
+820,2025-11-11,Agressão,Descrição da ocorrência número 821.,Arquivado,Julio,João,False
+822,2025-10-10,Furto,Descrição da ocorrência número 823.,Arquivado,Pedro,Ana,False
+824,2025-09-28,Agressão,Descrição da ocorrência número 825.,Em análise,Pedro,Fernanda,False
+826,2025-04-28,Fraude,Descrição da ocorrência número 827.,Pendente,Maria,João,False
+828,2025-06-07,Acidente,Descrição da ocorrência número 829.,Arquivado,Lucas,João,False
+830,2025-03-24,Furto,Descrição da ocorrência número 831.,Arquivado,Fernanda,Carlos,False
+832,2025-04-15,Fraude,Descrição da ocorrência número 833.,Concluído,Pedro,Lucas,False
+834,2025-07-27,Roubo,Descrição da ocorrência número 835.,Pendente,Camila,Carlos,False
+836,2025-12-13,Acidente,Descrição da ocorrência número 837.,Pendente,Issllany,Pedro,False
+838,2025-04-01,Furto,Descrição da ocorrência número 839.,Em análise,Carlos,Julio,False
+840,2025-08-28,Furto,Descrição da ocorrência número 841.,Arquivado,Maria,Julio,False
+842,2025-03-05,Acidente,Descrição da ocorrência número 843.,Concluído,Julio,Fernanda,False
+844,2025-01-28,Roubo,Descrição da ocorrência número 845.,Concluído,Issllany,Carlos,False
+846,2025-11-27,Furto,Descrição da ocorrência número 847.,Arquivado,Ana,Maria,False
+848,2025-07-05,Acidente,Descrição da ocorrência número 849.,Concluído,João,Maria,False
+850,2025-04-10,Fraude,Descrição da ocorrência número 851.,Pendente,Pedro,Lucas,False
+852,2025-05-17,Agressão,Descrição da ocorrência número 853.,Concluído,Carlos,Julio,False
+854,2025-11-09,Roubo,Descrição da ocorrência número 855.,Arquivado,Camila,Ana,False
+856,2025-03-17,Roubo,Descrição da ocorrência número 857.,Em análise,Fernanda,Camila,False
+858,2025-05-22,Fraude,Descrição da ocorrência número 859.,Pendente,Camila,Maria,False
+860,2025-04-22,Vandalismo,Descrição da ocorrência número 861.,Em análise,Fernanda,Camila,False
+862,2025-01-01,Agressão,Descrição da ocorrência número 863.,Em análise,Maria,Carlos,False
+864,2025-01-11,Fraude,Descrição da ocorrência número 865.,Arquivado,Ana,Ana,False
+866,2025-05-27,Furto,Descrição da ocorrência número 867.,Em análise,Julio,Fernanda,False
+868,2025-03-24,Roubo,Descrição da ocorrência número 869.,Concluído,Issllany,Lucas,False
+870,2025-04-07,Vandalismo,Descrição da ocorrência número 871.,Arquivado,Fernanda,Lucas,False
+872,2025-10-05,Furto,Descrição da ocorrência número 873.,Pendente,Camila,Maria,False
+874,2025-06-26,Furto,Descrição da ocorrência número 875.,Em análise,Lucas,Camila,False
+876,2025-03-07,Agressão,Descrição da ocorrência número 877.,Pendente,Lucas,Ana,False
+878,2025-04-16,Acidente,Descrição da ocorrência número 879.,Pendente,Carlos,Julio,False
+880,2025-12-17,Vandalismo,Descrição da ocorrência número 881.,Em análise,Lucas,Maria,False
+882,2025-07-25,Vandalismo,Descrição da ocorrência número 883.,Concluído,Maria,Pedro,False
+884,2025-12-28,Vandalismo,Descrição da ocorrência número 885.,Pendente,Pedro,Julio,False
+886,2025-11-22,Fraude,Descrição da ocorrência número 887.,Pendente,Camila,Fernanda,False
+888,2025-05-27,Vandalismo,Descrição da ocorrência número 889.,Em análise,Carlos,Pedro,False
+890,2025-09-25,Furto,Descrição da ocorrência número 891.,Concluído,Pedro,Lucas,False
+892,2025-08-03,Furto,Descrição da ocorrência número 893.,Pendente,Maria,Julio,False
+894,2025-01-20,Furto,Descrição da ocorrência número 895.,Pendente,Pedro,Issllany,False
+896,2025-07-01,Fraude,Descrição da ocorrência número 897.,Arquivado,Maria,Maria,False
+898,2025-03-26,Vandalismo,Descrição da ocorrência número 899.,Pendente,Camila,Camila,False
+900,2025-03-20,Roubo,Descrição da ocorrência número 901.,Concluído,Issllany,Maria,False
+902,2025-11-06,Fraude,Descrição da ocorrência número 903.,Concluído,Fernanda,Maria,False
+904,2025-09-07,Fraude,Descrição da ocorrência número 905.,Em análise,Issllany,Fernanda,False
+906,2025-05-10,Vandalismo,Descrição da ocorrência número 907.,Pendente,Issllany,Camila,False
+908,2025-11-07,Acidente,Descrição da ocorrência número 909.,Em análise,Maria,Julio,False
+910,2025-10-08,Fraude,Descrição da ocorrência número 911.,Em análise,Carlos,Maria,False
+912,2025-01-25,Vandalismo,Descrição da ocorrência número 913.,Concluído,Carlos,Fernanda,False
+914,2025-01-18,Roubo,Descrição da ocorrência número 915.,Concluído,João,Ana,False
+916,2025-11-21,Vandalismo,Descrição da ocorrência número 917.,Concluído,João,Ana,False
+918,2025-07-12,Vandalismo,Descrição da ocorrência número 919.,Arquivado,Issllany,Issllany,False
+920,2025-07-02,Acidente,Descrição da ocorrência número 921.,Em análise,Maria,Pedro,False
+922,2025-08-03,Vandalismo,Descrição da ocorrência número 923.,Pendente,Camila,Maria,False
+924,2025-10-18,Roubo,Descrição da ocorrência número 925.,Pendente,Carlos,Pedro,False
+926,2025-04-19,Roubo,Descrição da ocorrência número 927.,Pendente,Pedro,Julio,False
+928,2025-11-09,Agressão,Descrição da ocorrência número 929.,Arquivado,Issllany,Lucas,False
+930,2025-01-05,Acidente,Descrição da ocorrência número 931.,Pendente,Maria,Fernanda,False
+932,2025-07-04,Vandalismo,Descrição da ocorrência número 933.,Arquivado,Pedro,Issllany,False
+934,2025-01-02,Roubo,Descrição da ocorrência número 935.,Em análise,Carlos,Pedro,False
+936,2025-01-25,Vandalismo,Descrição da ocorrência número 937.,Pendente,Julio,João,False
+938,2025-08-17,Acidente,Descrição da ocorrência número 939.,Arquivado,Lucas,João,False
+940,2025-07-10,Agressão,Descrição da ocorrência número 941.,Em análise,Maria,Issllany,False
+942,2025-06-26,Roubo,Descrição da ocorrência número 943.,Concluído,Maria,João,False
+944,2025-11-08,Roubo,Descrição da ocorrência número 945.,Em análise,Julio,Fernanda,False
+946,2025-11-11,Furto,Descrição da ocorrência número 947.,Em análise,Lucas,Ana,False
+948,2025-12-23,Roubo,Descrição da ocorrência número 949.,Concluído,Julio,Issllany,False
+950,2025-05-28,Roubo,Descrição da ocorrência número 951.,Pendente,Julio,Fernanda,False
+952,2025-06-09,Acidente,Descrição da ocorrência número 953.,Concluído,Lucas,Julio,False
+954,2025-07-19,Furto,Descrição da ocorrência número 955.,Arquivado,Pedro,Issllany,False
+956,2025-01-13,Agressão,Descrição da ocorrência número 957.,Em análise,Carlos,Issllany,False
+958,2025-09-19,Vandalismo,Descrição da ocorrência número 959.,Em análise,Camila,Julio,False
+960,2025-02-20,Furto,Descrição da ocorrência número 961.,Arquivado,Lucas,Ana,False
+962,2025-05-15,Fraude,Descrição da ocorrência número 963.,Pendente,Lucas,Pedro,False
+964,2025-06-18,Vandalismo,Descrição da ocorrência número 965.,Pendente,Pedro,Ana,False
+966,2025-10-04,Furto,Descrição da ocorrência número 967.,Pendente,Maria,Julio,False
+968,2025-06-05,Fraude,Descrição da ocorrência número 969.,Concluído,Pedro,Julio,False
+970,2025-09-17,Vandalismo,Descrição da ocorrência número 971.,Em análise,Fernanda,Julio,False
+972,2025-06-09,Fraude,Descrição da ocorrência número 973.,Em análise,João,Pedro,False
+974,2025-05-20,Agressão,Descrição da ocorrência número 975.,Em análise,Lucas,Camila,False
+976,2025-05-26,Furto,Descrição da ocorrência número 977.,Pendente,João,Carlos,False
+978,2025-02-19,Acidente,Descrição da ocorrência número 979.,Pendente,Maria,Ana,False
+980,2025-05-27,Vandalismo,Descrição da ocorrência número 981.,Pendente,Issllany,Ana,False
+982,2025-11-24,Roubo,Descrição da ocorrência número 983.,Concluído,Lucas,Fernanda,False
+984,2025-03-16,Furto,Descrição da ocorrência número 985.,Em análise,Fernanda,Fernanda,False
+986,2025-09-17,Vandalismo,Descrição da ocorrência número 987.,Em análise,Issllany,Ana,False
+988,2025-11-09,Roubo,Descrição da ocorrência número 989.,Arquivado,João,Lucas,False
+990,2025-06-28,Vandalismo,Descrição da ocorrência número 991.,Arquivado,Lucas,Issllany,False
+992,2025-10-11,Roubo,Descrição da ocorrência número 993.,Concluído,João,Fernanda,False
+994,2025-02-06,Furto,Descrição da ocorrência número 995.,Concluído,Carlos,Issllany,False
+996,2025-06-13,Agressão,Descrição da ocorrência número 997.,Concluído,Pedro,Carlos,False
+998,2025-02-28,Acidente,Descrição da ocorrência número 999.,Concluído,Lucas,João,False

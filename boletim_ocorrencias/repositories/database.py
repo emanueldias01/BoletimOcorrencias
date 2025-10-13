@@ -59,53 +59,52 @@ class DataBase:
 
 
 ##ATUALIZAR OS REGISTROS
+
     def update(self, id, novos_registro):
-        registro = []
-        with open(self.csv_path, "r", newline="", encoding="utf-8") as arquivo:
-            reader = csv.DictReader(arquivo)
-            registro = list(reader)
+        updated = False
+        tmp_path = self.csv_path + ".tmp"
 
+        with open(self.csv_path, "r", newline="", encoding="utf-8") as arquivo_orig, \
+            open(tmp_path, "w", newline="", encoding="utf-8") as arquivo_temp:
+            reader = csv.DictReader(arquivo_orig)
+            writer = csv.DictWriter(arquivo_temp, fieldnames=reader.fieldnames)
+            writer.writeheader()
+            for row in reader:
+                if row['id'].strip() == str(id):
+                    row.update(novos_registro)
+                    updated = True
+                    print(f"ID {id} atualizado com sucesso!")
+                writer.writerow(row)
         
-        atualizado = False
-        for linha in registro:
-            if linha['id'] == str(id):
-                linha.update(novos_registro)
-                atualizado = True
-                break
+        os.replace(tmp_path, self.csv_path)
 
-        if atualizado:
-            with open(self.csv_path, "w", newline="", encoding="utf-8") as arquivo:
-                arquivo = csv.DictWriter(arquivo, fieldnames=["id", "data_registro", "tipo_ocorrencia", "descricao", "status", "nome_declarante", "nome_autor", "deleted"])
-                arquivo.writeheader()  
-                arquivo.writerows(registro)
-                print(f"ID {id} atualizado com sucesso!")
-        else:
+        if not updated:
             print("ID não encontrado!")
+        
+
     
 
 ## DELETAR LOGICAMENTE OS REGISTROS
 
     def delete(self, id):
-        registro = []
-        with open(self.csv_path, "r", newline="", encoding="utf-8") as arquivo:
-            reader = csv.DictReader(arquivo)
-            registro = list(reader)
+        deleted = False
+        tmp_path = self.csv_path + ".tmp"
 
+        with open(self.csv_path, "r", newline="", encoding="utf-8") as arquivo_orig, \
+            open(tmp_path, "w", newline="", encoding="utf-8") as arquivo_temp:
+            reader = csv.DictReader(arquivo_orig)
+            writer = csv.DictWriter(arquivo_temp, fieldnames=reader.fieldnames)
+            writer.writeheader()
+            for row in reader:
+                if row['id'].strip() == str(id):
+                    row["deleted"] = "True"
+                    deleted = True
+                    print(f"ID {id} deletado com sucesso!")
+                writer.writerow(row)
         
-        deletado = False
-        for linha in registro:
-            if linha['id'] == str(id):
-                linha["deleted"] = True
-                deletado = True
-                break
+        os.replace(tmp_path, self.csv_path)
 
-        if deletado:
-            with open(self.csv_path, "w", newline="", encoding="utf-8") as arquivo:
-                arquivo = csv.DictWriter(arquivo, fieldnames=["id", "data_registro", "tipo_ocorrencia", "descricao", "status", "nome_declarante", "nome_autor", "deleted"])
-                arquivo.writeheader()  
-                arquivo.writerows(registro)
-                print(f"ID {id} deletado com sucesso!")
-        else:
+        if not deleted:
             print("ID não encontrado!")
 
 ## CONTAR OS REGISTROS 
@@ -113,32 +112,27 @@ class DataBase:
     def count(self):
             with open(self.csv_path, "r", encoding="utf-8") as file:
                 reader = csv.DictReader(file)
-
                 for line in reader:
                     return sum(1 for linha in reader if linha["deleted"] == "False")
                 
 ## VACUUM
 
     def vacuum(self):
-        registros = []
-        with open(self.csv_path, "r", newline="", encoding="utf-8") as arquivo:
-            reader = csv.DictReader(arquivo)
-            registros = list(reader)
-        linhas_validas = []
-        for linhas in registros:
-            if linhas["deleted"] == "False":
-                linhas_validas.append(linhas) 
-        with open(self.csv_path, "w", newline="", encoding="utf-8") as arquivo:
-            writer = csv.DictWriter(arquivo, fieldnames=["id", "data_registro", "tipo_ocorrencia", "descricao", "status", "nome_declarante", "nome_autor", "deleted"])
+        tmp_path = self.csv_path + ".tmp"
+
+        with open(self.csv_path, "r", newline="", encoding="utf-8") as arquivo_orig, \
+            open(tmp_path, "w", newline="", encoding="utf-8") as arquivo_temp:
+            reader = csv.DictReader(arquivo_orig)
+            writer = csv.DictWriter(arquivo_temp, fieldnames=reader.fieldnames)
             writer.writeheader()
-            writer.writerows(linhas_validas)
+            for row in reader:
+                if row["deleted"]=="False":
+                    writer.writerow(row)
+        
+        os.replace(tmp_path, self.csv_path)
+
 
 def main():
     db = DataBase()
-    """"
-    with open("../../data/registros_exemplo.json", "r", encoding="utf-8") as arquivo:
-        registros = json.load(arquivo)
-    """
-    db.vacuum()
 
 main()

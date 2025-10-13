@@ -4,22 +4,30 @@ class DataBase:
 
 ##CRIACAO DO BANCO DADOS
     def __init__(self):
-        if os.path.exists("boletim.csv") and os.path.exists("boletim.seq"):
-            pass
-        else:
-            with open("boletim.csv", "w", newline="", encoding="utf-8") as arquivo:
-                writer = csv.DictWriter(arquivo, fieldnames=["id", "data_registro", "tipo_ocorrencia", "descricao", "status", "nome_declarante", "nome_autor", "deleted"])
-                writer.writeheader()    
-            with open("boletim.seq", "w") as arquivo:
-                arquivo.write('0')
+        base_path = os.path.join(os.path.dirname(__file__), "../../data")
+        os.makedirs(base_path, exist_ok=True)
 
+        self.csv_path = os.path.join(base_path, "boletim.csv")
+        self.seq_path = os.path.join(base_path, "boletim.seq")
+        
+        if not os.path.exists(self.csv_path):
+            with open(self.csv_path, "w", newline="", encoding="utf-8") as arquivo:
+                escritor = csv.DictWriter(
+                    arquivo,
+                    fieldnames=["id", "data_registro", "tipo_ocorrencia", "descricao", "status", "nome_declarante", "nome_autor", "deleted"]
+                )
+                escritor.writeheader()
+
+        if not os.path.exists(self.seq_path):
+            with open(self.seq_path, "w", encoding="utf-8") as arquivo:
+                arquivo.write("0")
           
-
 
 ##VERIFICAO DO ID
     def next_id(self):
-        with open("boletim.seq", "r+") as arquivo:
-            prev_id = int(arquivo.readline())
+        with open(self.seq_path, "r+") as arquivo:
+            conteudo = arquivo.readline().strip()
+            prev_id = int(conteudo) if conteudo else 0
             next_id = prev_id + 1
             arquivo.seek(0)
             arquivo.write(str(next_id))
@@ -28,20 +36,20 @@ class DataBase:
 
 ##INSERIR NOVO ID
     def insert(self, registro_boletim):
-        with open("boletim.csv", "a", newline="", encoding="utf-8") as arquivo:
+        with open(self.csv_path, "a", newline="", encoding="utf-8") as arquivo:
             writer = csv.DictWriter(arquivo, fieldnames=["id", "data_registro", "tipo_ocorrencia", "descricao", "status", "nome_declarante", "nome_autor", "deleted"])
 
             for registro in registro_boletim:
                 id = self.next_id()
                 registro['id'] = id
-                registro['deleted'] = False 
+                registro['deleted'] = "False"  
                 writer.writerow(registro)
     
 
 ##RETORNAR OS REGISTROS
     def get(self):
         registros = []
-        with open("boletim.csv", "r", newline="", encoding="utf-8") as arquivo:
+        with open(self.csv_path, "r", newline="", encoding="utf-8") as arquivo:
             reader = csv.DictReader(arquivo)
             for linha in reader:
                 if linha["deleted"] == "False":
@@ -53,7 +61,7 @@ class DataBase:
 ##ATUALIZAR OS REGISTROS
     def update(self, id, novos_registro):
         registro = []
-        with open("boletim.csv", "r", newline="", encoding="utf-8") as arquivo:
+        with open(self.csv_path, "r", newline="", encoding="utf-8") as arquivo:
             reader = csv.DictReader(arquivo)
             registro = list(reader)
 
@@ -66,7 +74,7 @@ class DataBase:
                 break
 
         if atualizado:
-            with open("boletim.csv", "w", newline="", encoding="utf-8") as arquivo:
+            with open(self.csv_path, "w", newline="", encoding="utf-8") as arquivo:
                 arquivo = csv.DictWriter(arquivo, fieldnames=["id", "data_registro", "tipo_ocorrencia", "descricao", "status", "nome_declarante", "nome_autor", "deleted"])
                 arquivo.writeheader()  
                 arquivo.writerows(registro)
@@ -79,7 +87,7 @@ class DataBase:
 
     def delete(self, id):
         registro = []
-        with open("boletim.csv", "r", newline="", encoding="utf-8") as arquivo:
+        with open(self.csv_path, "r", newline="", encoding="utf-8") as arquivo:
             reader = csv.DictReader(arquivo)
             registro = list(reader)
 
@@ -92,7 +100,7 @@ class DataBase:
                 break
 
         if deletado:
-            with open("boletim.csv", "w", newline="", encoding="utf-8") as arquivo:
+            with open(self.csv_path, "w", newline="", encoding="utf-8") as arquivo:
                 arquivo = csv.DictWriter(arquivo, fieldnames=["id", "data_registro", "tipo_ocorrencia", "descricao", "status", "nome_declarante", "nome_autor", "deleted"])
                 arquivo.writeheader()  
                 arquivo.writerows(registro)
@@ -103,7 +111,7 @@ class DataBase:
 ## CONTAR OS REGISTROS 
 
     def count(self):
-            with open("boletim.csv", "r", encoding="utf-8") as file:
+            with open(self.csv_path, "r", encoding="utf-8") as file:
                 reader = csv.DictReader(file)
 
                 for line in reader:
@@ -113,23 +121,24 @@ class DataBase:
 
     def vacuum(self):
         registros = []
-        with open("boletim.csv", "r", newline="", encoding="utf-8") as arquivo:
+        with open(self.csv_path, "r", newline="", encoding="utf-8") as arquivo:
             reader = csv.DictReader(arquivo)
             registros = list(reader)
         linhas_validas = []
         for linhas in registros:
             if linhas["deleted"] == "False":
                 linhas_validas.append(linhas) 
-        with open("boletim.csv", "w", newline="", encoding="utf-8") as arquivo:
+        with open(self.csv_path, "w", newline="", encoding="utf-8") as arquivo:
             writer = csv.DictWriter(arquivo, fieldnames=["id", "data_registro", "tipo_ocorrencia", "descricao", "status", "nome_declarante", "nome_autor", "deleted"])
             writer.writeheader()
             writer.writerows(linhas_validas)
 
 def main():
     db = DataBase()
-    with open("registros_exemplo.json", "r", encoding="utf-8") as arquivo:
+    """"
+    with open("../../data/registros_exemplo.json", "r", encoding="utf-8") as arquivo:
         registros = json.load(arquivo)
-    
-
+    """
+    db.vacuum()
 
 main()

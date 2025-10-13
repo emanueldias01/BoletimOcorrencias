@@ -40,12 +40,14 @@ class DataBase:
 
 ##RETORNAR OS REGISTROS
     def get(self):
+        registros = []
         with open("boletim.csv", "r", newline="", encoding="utf-8") as arquivo:
             reader = csv.DictReader(arquivo)
             for linha in reader:
                 if linha["deleted"] == "False":
-                    print(linha)
+                    registros.append(linha)
 
+        return registros
 
 
 ##ATUALIZAR OS REGISTROS
@@ -125,10 +127,9 @@ class DataBase:
 
 def main():
     db = DataBase()
+    with open("registros_exemplo.json", "r", encoding="utf-8") as arquivo:
+        registros = json.load(arquivo)
     
-    db.vacuum()
-
-
 
 
 main()

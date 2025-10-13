@@ -19,7 +19,10 @@
     ```bash
     fastapi dev main.py
     ```
-
+- para gerar 1000 dados fictícios
+    ```bash
+    python -m scripts.generate_data
+    ```
 ## IMPORTANTE
  - toda vez que baixar alguma coisa, atualize o requirements.txt
     ```bash

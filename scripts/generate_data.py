@@ -1,7 +1,10 @@
 from faker import Faker
 import random
+from boletim_ocorrencias.repositories.database import DataBase 
 
 fake = Faker("pt_BR") 
+
+db = DataBase()
 
 registros = []
 
@@ -30,5 +33,7 @@ for _ in range(1000):
         "nome_autor": fake.name()
     }
     registros.append(registro)
+
+db.insert(registros)
 
 print("1.000 registros gerados e inseridos com sucesso!")

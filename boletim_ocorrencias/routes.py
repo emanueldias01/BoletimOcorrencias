@@ -1,6 +1,6 @@
 from fastapi import APIRouter, status
-from schemas import *
-from repositories.database import DataBase
+from boletim_ocorrencias.schemas import *
+from boletim_ocorrencias.repositories.database import DataBase
 
 router = APIRouter(
     prefix="/api/boletim",
@@ -64,6 +64,8 @@ def count():
     status_code=status.HTTP_200_OK,
     description='busca o boletim com o id passado na requisicao' 
 )
+
+#FALTA FAZER
 def get_boletim_by_id(id : int):
     boletim = BoletimOcorrenciaResponse(
         id=id,
@@ -137,5 +139,9 @@ def update_boletim(boletim : BoletimOcorrenciaResponse):
     status_code=status.HTTP_201_CREATED,
     description='deleta o boletim com o id passado no path'
 )
+
 def delete_boletim_by_id(id : int):
     return banco.delete(id)
+
+#FALTA O VACUUM
+

@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from routes import router
+from boletim_ocorrencias.routes import router
 
 app = FastAPI()
 

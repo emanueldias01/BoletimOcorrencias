@@ -17,7 +17,7 @@
 - navege para a pasta boletim_ocorrencias
 - inicie o projeto
     ```bash
-    fastapi dev main.py
+    fastapi dev boletim_ocorrencias/main.py
     ```
 - para gerar 1000 dados fictícios
     ```bash

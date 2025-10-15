@@ -112,8 +112,7 @@ class DataBase:
     def count(self):
             with open(self.csv_path, "r", encoding="utf-8") as file:
                 reader = csv.DictReader(file)
-                for line in reader:
-                    return sum(1 for linha in reader if linha["deleted"] == "False")
+                return sum(1 for linha in reader if linha["deleted"] == "False")
                 
 ## VACUUM
 

@@ -88,8 +88,8 @@ class BoletimOcorrenciaBase(BaseModel):
     tipo_ocorrencia : TipoOcorrencia
     descricao : str
     status : StatusBoletim
-    declarante : Declarante
-    autor : Autor
+    nome_declarante : str
+    nome_autor : str
 
 class BoletimOcorrenciaResponse(BaseModel):
     id : int
@@ -97,5 +97,5 @@ class BoletimOcorrenciaResponse(BaseModel):
     tipo_ocorrencia : TipoOcorrencia
     descricao : str
     status : StatusBoletim
-    declarante : Declarante
-    autor : Autor
+    nome_declarante : str
+    nome_autor : str

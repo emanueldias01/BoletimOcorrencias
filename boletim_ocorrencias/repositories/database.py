@@ -47,15 +47,25 @@ class DataBase:
     
 
 ##RETORNAR OS REGISTROS
-    def get(self):
+    def get(self, num_pagina: int, tam_pagina: int):
+        inicio = (num_pagina - 1) * tam_pagina
+        fim = inicio + tam_pagina
+
         registros = []
+        total_registros = 0
+
         with open(self.csv_path, "r", newline="", encoding="utf-8") as arquivo:
             reader = csv.DictReader(arquivo)
-            for linha in reader:
+            for i, linha in enumerate(reader):
                 if linha["deleted"] == "False":
-                    registros.append(linha)
+                    total_registros += 1
+                    # Só guarda as linhas dentro do intervalo
+                    if total_registros > inicio and total_registros <= fim:
+                        registros.append(linha)
+
 
         return registros
+    
 
 
 ##ATUALIZAR OS REGISTROS
@@ -129,3 +139,4 @@ class DataBase:
                     writer.writerow(row)
         
         os.replace(tmp_path, self.csv_path)
+

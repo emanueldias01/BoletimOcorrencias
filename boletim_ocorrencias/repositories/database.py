@@ -46,7 +46,7 @@ class DataBase:
                 writer.writerow(registro)
     
 
-##RETORNAR OS REGISTROS
+##RETORNAR OS REGISTROS (PAGINADOS)
     def get(self, num_pagina: int, tam_pagina: int):
         inicio = (num_pagina - 1) * tam_pagina
         fim = inicio + tam_pagina
@@ -56,13 +56,11 @@ class DataBase:
 
         with open(self.csv_path, "r", newline="", encoding="utf-8") as arquivo:
             reader = csv.DictReader(arquivo)
-            for i, linha in enumerate(reader):
+            for _, linha in enumerate(reader):
                 if linha["deleted"] == "False":
                     total_registros += 1
-                    # Só guarda as linhas dentro do intervalo
                     if total_registros > inicio and total_registros <= fim:
                         registros.append(linha)
-
 
         return registros
     

@@ -1,6 +1,8 @@
 from fastapi import APIRouter, status
 from boletim_ocorrencias.schemas import *
-from boletim_ocorrencias.repositories.database import DataBase
+from boletim_ocorrencias.database import DataBase
+from fastapi import HTTPException
+import hashlib
 
 router = APIRouter(
     prefix="/api/boletim",
@@ -17,8 +19,8 @@ banco = DataBase()
     status_code=status.HTTP_200_OK,
     description='busca todos os boletins registrados no banco'
 )
-def get_boletins():
-    registros_csv = banco.get()
+def get_boletins(page : int=1, size : int=15):
+    registros_csv = banco.get(page, size)
 
     boletins = []
     for line in registros_csv:
@@ -143,5 +145,35 @@ def update_boletim(boletim : BoletimOcorrenciaResponse):
 def delete_boletim_by_id(id : int):
     return banco.delete(id)
 
-#FALTA O VACUUM
+@router.get(
+    path="/zip",
+    status_code=status.HTTP_200_OK,
+    description="Retorna dados compactados em streaming"
+)
+def get_vacum():
+    return banco.vacuum()
 
+@router.post(
+    path="/hash/{algoritmo}",
+    status_code=status.HTTP_200_OK,
+    description="retorna dados hasheados de acordo com o hash de escolha"
+)
+def hash_data(boletim : BoletimOcorrenciaBase, algoritmo: str):
+    algoritmo = algoritmo.lower()
+
+    if algoritmo not in ["md5", "sha1", "sha256"]:
+        raise HTTPException(
+            status_code=400,
+            detail="Algoritmo inválido. Use MD5, SHA1 ou SHA256."
+        )
+
+    texto = boletim.dado.encode("utf-8")
+
+    if algoritmo == "md5":
+        resultado = hashlib.md5(texto).hexdigest()
+    elif algoritmo == "sha1":
+        resultado = hashlib.sha1(texto).hexdigest()
+    else:
+        resultado = hashlib.sha256(texto).hexdigest()
+
+    return {"algoritmo": algoritmo.upper(), "hash": resultado}

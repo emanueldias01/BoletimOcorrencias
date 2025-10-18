@@ -4,23 +4,10 @@ class DataBase:
 
 ##CRIACAO DO BANCO DADOS
     def __init__(self):
-        base_path = os.path.join(os.path.dirname(__file__), "../../data")
-        os.makedirs(base_path, exist_ok=True)
-
-        self.csv_path = os.path.join(base_path, "boletim.csv")
-        self.seq_path = os.path.join(base_path, "boletim.seq")
+        self.base_path = os.path.join(os.path.dirname(__file__), "./data")
         
-        if not os.path.exists(self.csv_path):
-            with open(self.csv_path, "w", newline="", encoding="utf-8") as arquivo:
-                escritor = csv.DictWriter(
-                    arquivo,
-                    fieldnames=["id", "data_registro", "tipo_ocorrencia", "descricao", "status", "nome_declarante", "nome_autor", "deleted"]
-                )
-                escritor.writeheader()
-
-        if not os.path.exists(self.seq_path):
-            with open(self.seq_path, "w", encoding="utf-8") as arquivo:
-                arquivo.write("0")
+        self.csv_path = os.path.join(self.base_path, "boletim.csv")
+        self.seq_path = os.path.join(self.base_path, "boletim.seq")
           
 
 ##VERIFICAO DO ID

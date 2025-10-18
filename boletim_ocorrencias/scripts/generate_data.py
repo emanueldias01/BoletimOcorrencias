@@ -1,10 +1,33 @@
 from faker import Faker
 import random
-from boletim_ocorrencias.repositories.database import DataBase 
+from boletim_ocorrencias.database import DataBase
 
-fake = Faker("pt_BR") 
+import os
+import csv
+
 
 db = DataBase()
+
+os.makedirs(db.base_path, exist_ok=True)
+
+csv_path = db.csv_path
+seq_path = db.seq_path
+
+if not os.path.exists(csv_path):
+    with open(csv_path, "w", newline="", encoding="utf-8") as arquivo:
+        escritor = csv.DictWriter(
+            arquivo,
+            fieldnames=["id", "data_registro", "tipo_ocorrencia", "descricao", "status", "nome_declarante", "nome_autor", "deleted"]
+        )
+        escritor.writeheader()
+
+        if not os.path.exists(seq_path):
+            with open(seq_path, "w", encoding="utf-8") as arquivo:
+                arquivo.write("0")
+
+
+
+fake = Faker("pt_BR") 
 
 registros = []
 

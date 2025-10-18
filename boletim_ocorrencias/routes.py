@@ -60,37 +60,37 @@ def get_boletins(page : int=1, size : int=15):
 def count():
     return banco.count()
 
-@router.get(
-    path="/{id}",
-    response_model=list[BoletimOcorrenciaResponse],
-    status_code=status.HTTP_200_OK,
-    description='busca o boletim com o id passado na requisicao' 
-)
+#@router.get(
+#    path="/{id}",
+#    response_model=list[BoletimOcorrenciaResponse],
+#    status_code=status.HTTP_200_OK,
+#    description='busca o boletim com o id passado na requisicao' 
+#)
 
 #FALTA FAZER
-def get_boletim_by_id(id : int):
-    boletim = BoletimOcorrenciaResponse(
-        id=id,
-        data_registro=date(2025, 10, 8),
-        tipo_ocorrencia=TipoOcorrencia.VIOLENCIA_DOMESTICA,
-        descricao="Relato de agressão física entre casal. A vítima acionou a polícia após ser empurrada e ameaçada verbalmente pelo companheiro.",
-        status=StatusBoletim.REGISTRADO,
-        declarante=Declarante(
-            nome="Ana Paula Souza",
-            cpf="321.987.654-99",
-            data_nascimento=date(1994, 8, 29),
-            endereco="Rua das Acácias, 55 - Jardim América, Contagem/MG",
-            tipo_envolvimento=TipoEnvolvimento.DECLARANTE
-        ),
-        autor=Autor(
-            nome="Ten. Ricardo Lima",
-            matricula="PMMG-40112",
-            posto="Tenente",
-            lotacao="2ª Cia PM - Contagem"
-        )
-    )
-
-    return boletim
+#def get_boletim_by_id(id : int):
+#    boletim = BoletimOcorrenciaResponse(
+#        id=id,
+#        data_registro=date(2025, 10, 8),
+#        tipo_ocorrencia=TipoOcorrencia.VIOLENCIA_DOMESTICA,
+#        descricao="Relato de agressão física entre casal. A vítima acionou a polícia após ser empurrada e ameaçada verbalmente pelo companheiro.",
+#        status=StatusBoletim.REGISTRADO,
+#        declarante=Declarante(
+#            nome="Ana Paula Souza",
+#            cpf="321.987.654-99",
+#            data_nascimento=date(1994, 8, 29),
+#            endereco="Rua das Acácias, 55 - Jardim América, Contagem/MG",
+#            tipo_envolvimento=TipoEnvolvimento.DECLARANTE
+#        ),
+#        autor=Autor(
+#            nome="Ten. Ricardo Lima",
+#            matricula="PMMG-40112",
+#            posto="Tenente",
+#            lotacao="2ª Cia PM - Contagem"
+#        )
+#    )
+#
+#    return boletim
 
 @router.post(
     path="/insert",
@@ -145,13 +145,13 @@ def update_boletim(boletim : BoletimOcorrenciaResponse):
 def delete_boletim_by_id(id : int):
     return banco.delete(id)
 
-@router.get(
+@router.post(
     path="/zip",
     status_code=status.HTTP_200_OK,
     description="Retorna dados compactados em streaming"
 )
 def get_vacum():
-    return banco.vacuum()
+    banco.vacuum()
 
 @router.post(
     path="/hash/{algoritmo}",

@@ -148,10 +148,10 @@ def delete_boletim_by_id(id : int):
 @router.post(
     path="/zip",
     status_code=status.HTTP_200_OK,
-    description="Retorna dados compactados em streaming"
+    description="Retorna dados compactados em streaming",
 )
-def get_vacum():
-    banco.vacuum()
+def get_zip():
+    return banco.get_zip()
 
 @router.post(
     path="/hash/{algoritmo}",

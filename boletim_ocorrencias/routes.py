@@ -167,7 +167,7 @@ def hash_data(boletim : BoletimOcorrenciaBase, algoritmo: str):
             detail="Algoritmo inválido. Use MD5, SHA1 ou SHA256."
         )
 
-    texto = boletim.dado.encode("utf-8")
+    texto = boletim.encode("utf-8")
 
     if algoritmo == "md5":
         resultado = hashlib.md5(texto).hexdigest()

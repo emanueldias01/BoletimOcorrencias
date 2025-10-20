@@ -3,6 +3,7 @@ from boletim_ocorrencias.schemas import *
 from boletim_ocorrencias.database import DataBase
 from fastapi import HTTPException
 import hashlib
+import pickle
 
 router = APIRouter(
     prefix="/api/boletim",
@@ -167,7 +168,8 @@ def hash_data(boletim : BoletimOcorrenciaBase, algoritmo: str):
             detail="Algoritmo inválido. Use MD5, SHA1 ou SHA256."
         )
 
-    texto = boletim.encode("utf-8")
+
+    texto = boletim.json().encode("utf-8")
 
     if algoritmo == "md5":
         resultado = hashlib.md5(texto).hexdigest()

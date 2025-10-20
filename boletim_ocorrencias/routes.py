@@ -146,6 +146,14 @@ def delete_boletim_by_id(id : int):
     return banco.delete(id)
 
 @router.post(
+    path="/vacuum",
+    status_code=status.HTTP_200_OK,
+    description="Executa a funcionalidade 'Vacuum'",
+)
+def vacuum_database():
+    banco.vacuum()
+
+@router.post(
     path="/zip",
     status_code=status.HTTP_200_OK,
     description="Retorna dados compactados em streaming",

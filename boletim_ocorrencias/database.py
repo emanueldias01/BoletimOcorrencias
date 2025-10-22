@@ -52,8 +52,6 @@ class DataBase:
                     total_registros += 1
                     if total_registros > inicio and total_registros <= fim:
                         registros.append(linha)
-                    else:
-                        break
 
         return registros
     

@@ -146,7 +146,10 @@ def update_boletim(boletim : BoletimOcorrenciaResponse):
 )
 
 def delete_boletim_by_id(id : int):
-    return banco.delete(id)
+    deletou = banco.delete(id)
+
+    if not deletou:
+        raise HTTPException(404, "Entidade não encontrada")
 
 @router.post(
     path="/vacuum",

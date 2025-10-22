@@ -90,7 +90,7 @@ class DataBase:
 
 ## DELETAR LOGICAMENTE OS REGISTROS
 
-    def delete(self, id):
+    def delete(self, id) -> bool:
         deleted = False
         tmp_path = self.csv_path + ".tmp"
 
@@ -109,7 +109,9 @@ class DataBase:
         os.replace(tmp_path, self.csv_path)
 
         if not deleted:
-            print("ID não encontrado!")
+            return False
+        else:
+            return True
 
 ## CONTAR OS REGISTROS 
 

@@ -1,0 +1,1002 @@
+id,data_registro,tipo_ocorrencia,descricao,status,nome_declarante,nome_autor,deleted
+0,2025-06-18,Perturbação do Sossego/Tranquilidade,Recusandae ex eaque dignissimos quo quam tempore.,Encaminhado,Davi Miguel da Mata,Théo Teixeira,False
+1,2025-08-22,Embriaguez ao Volante,Quo harum natus vel in quidem.,Reaberto,Fernando Oliveira,Brayan das Neves,False
+2,2025-08-07,Acidente de Trânsito,Reiciendis dicta perspiciatis deleniti.,Complementado,Josué Fogaça,José Miguel Nogueira,False
+3,2025-07-08,Encontro de Pessoa,Necessitatibus eaque fugit aliquam possimus.,Arquivado,Isadora Costela,Oliver Castro,False
+4,2025-08-29,Desobediência,Voluptatem molestiae aspernatur corporis sint accusantium dolore.,Registrado,Murilo Campos,Giovanna da Paz,False
+5,2025-08-02,Desacato,Nemo accusamus odio nemo est distinctio.,Registrado,Calebe Abreu,Yasmin Rios,False
+6,2025-08-23,Danos Materiais,Adipisci numquam quo totam.,Encaminhado,Sra. Julia Novais,Renan Correia,False
+7,2025-03-19,Furto,Perspiciatis exercitationem tempore consectetur eveniet tempora vitae.,Arquivado,Milena Vasconcelos,Maria Laura Moraes,False
+8,2025-01-16,Tentativa de Suicídio,Similique ea culpa ea assumenda saepe maiores.,Reaberto,Sophie da Cruz,Dra. Ester Andrade,False
+9,2025-08-13,Furto,Quod laborum cumque tempore omnis atque ea vitae.,Concluído,Dr. João Gabriel Moura,Yuri Ramos,False
+10,2025-09-05,Perturbação do Sossego/Tranquilidade,Molestiae labore quis laboriosam.,Reaberto,Cauã Gomes,Maria Júlia Moreira,False
+11,2025-06-04,Desacato,Inventore libero ut eligendi incidunt ad magni molestiae.,Suspenso,Srta. Alexia Novaes,Dr. Alexandre Costela,False
+12,2025-04-21,Outros,Sed rerum repellendus nulla.,Aguardando Validação,Heloisa Cirino,Dra. Carolina Cavalcanti,False
+13,2025-08-07,Tráfico de Drogas,Facere vel deserunt natus libero.,Aguardando Validação,Miguel Cavalcante,Hellena Cavalcanti,False
+14,2025-01-28,Calúnia,Necessitatibus ratione assumenda harum praesentium.,Em Investigação,Valentim Garcia,Sr. Eduardo Rodrigues,False
+15,2025-09-06,Receptação,Voluptas itaque voluptatum perferendis adipisci.,Arquivado,Pedro Miguel Moreira,Maria Laura Moraes,False
+16,2025-05-13,Outros,Repellendus quasi quis incidunt repellat.,Complementado,Breno Sousa,Fernando Borges,False
+17,2025-09-21,Lesão Corporal,Provident enim sint praesentium unde.,Aguardando Validação,Eduardo Mendonça,Oliver Farias,False
+18,2025-08-16,Estelionato,Ratione rerum magni eos consectetur fugit sint.,Arquivado,Maria Eduarda Ramos,João Gabriel Albuquerque,False
+19,2025-06-08,Violação de Domicílio,Numquam nisi necessitatibus perspiciatis omnis sequi.,Aguardando Validação,Calebe Camargo,Gael Henrique Nascimento,False
+20,2025-02-13,Homicídio,Aperiam voluptates sed velit dolor et laborum.,Concluído,Luigi Camargo,Paulo Barros,False
+21,2025-07-26,Desacato,Dolorum tenetur incidunt.,Complementado,Brayan da Rocha,Antony Campos,False
+22,2025-02-25,Ameaça,Accusamus voluptatibus magnam aspernatur.,Em Análise,Maria Julia Alves,Lucca Duarte,False
+23,2025-05-04,Desobediência,Voluptatibus fugit magni maiores aliquam itaque nulla.,Reaberto,Sabrina Duarte,Arthur Gabriel Abreu,False
+24,2025-09-29,Difamação,Cupiditate libero neque corporis necessitatibus eius.,Complementado,Lucas Gabriel Casa Grande,Vitor Hugo Pastor,False
+25,2025-05-08,Lesão Corporal,Eum minima eveniet delectus nesciunt praesentium porro voluptates.,Registrado,Benjamim Rios,Luiz Henrique Guerra,False
+26,2025-08-07,Posse de Drogas,Placeat saepe eaque.,Cancelado,Alexandre Martins,Dr. Dom Ribeiro,False
+27,2025-04-07,Violação de Domicílio,Repellat enim error eius sed.,Registrado,José Pedro Cavalcanti,Dr. Pedro Henrique Albuquerque,False
+28,2025-01-26,Furto,Sed consequuntur quasi necessitatibus quae.,Arquivado,Gustavo Henrique Vargas,Srta. Larissa Siqueira,False
+29,2025-08-11,Estelionato,Cumque quis ducimus sit soluta.,Complementado,Rhavi Mendes,Henrique Teixeira,False
+30,2025-03-12,Ameaça,Tempore doloribus amet tempore provident.,Complementado,Luiz Gustavo Pires,Vicente Oliveira,False
+31,2025-07-27,Encontro de Pessoa,Ut ipsa nobis eaque atque amet.,Em Investigação,Srta. Liz Jesus,Alana Cardoso,False
+32,2025-04-27,Tentativa de Suicídio,Consequatur hic veritatis.,Complementado,Ana Laura Moreira,Anthony das Neves,False
+33,2025-06-02,Desacato,Possimus perferendis dolor nisi repellat.,Em Investigação,Mirella da Rosa,Amanda Ferreira,False
+34,2025-10-13,Roubo,Quaerat sequi eius iure expedita nihil.,Encaminhado,Vitor Gabriel Pimenta,Kevin Fernandes,False
+35,2025-07-10,Fraude,Itaque nostrum consectetur in.,Aguardando Validação,Juan Mendes,Ana Liz Fernandes,False
+36,2025-03-06,Violência Doméstica,Voluptatum ducimus minima repellat eligendi magni magni.,Arquivado,Maya Rodrigues,Isabelly Rocha,False
+37,2025-07-16,Furto,Harum sed facere officia libero maiores.,Em Análise,Ravi Araújo,Benício Vasconcelos,False
+38,2025-03-14,Calúnia,Eligendi magni minima aperiam odit.,Aguardando Validação,Luan Martins,Gustavo Brito,False
+39,2025-02-20,Desaparecimento de Pessoa,Eum ut quia est iure.,Suspenso,Benjamin Fonseca,Manuela Brito,False
+40,2025-05-24,Calúnia,Et expedita pariatur eligendi enim.,Registrado,Maria Júlia Costa,Yago Cavalcante,False
+41,2025-09-24,Maus-tratos a Animais,Hic necessitatibus autem iusto pariatur facere.,Concluído,Lucas Gabriel Rios,Alana Borges,False
+42,2025-04-13,Fraude,Et quis fuga nemo atque dolor impedit modi.,Arquivado,Sra. Bruna das Neves,José Cavalcanti,False
+43,2025-05-25,Dano,Commodi omnis nemo velit.,Aguardando Validação,Dr. Yago da Mota,Cecilia Moraes,False
+44,2025-10-10,Furto,Ratione ipsa perspiciatis esse exercitationem iste illo veritatis.,Encaminhado,José Pedro da Rocha,Sra. Mirella Andrade,False
+45,2025-07-05,Acidente de Trânsito,Possimus quas tempore.,Reaberto,Léo Gomes,Dr. Nathan Novaes,False
+46,2025-08-02,Maus-tratos a Animais,Natus asperiores tempore nesciunt impedit.,Em Análise,Otávio Albuquerque,Luiz Henrique Pacheco,False
+47,2025-09-21,Ameaça,Beatae occaecati natus pariatur hic esse porro.,Arquivado,Ravi Lucca Rios,Luiz Miguel Leão,False
+48,2025-10-20,Homicídio,Porro cupiditate veritatis possimus nulla.,Encaminhado,Srta. Ana Lívia Caldeira,Sra. Sara da Mota,False
+49,2025-07-05,Maus-tratos a Animais,Excepturi voluptatum aliquid nam magni.,Registrado,Brenda Mendonça,Hellena Martins,False
+50,2025-05-09,Fraude,Quos consequuntur possimus error.,Complementado,Giovanna Gonçalves,Srta. Alice Pereira,False
+51,2025-03-10,Perturbação do Sossego/Tranquilidade,Magni pariatur repudiandae aut.,Cancelado,Jade Fogaça,Bárbara Duarte,False
+52,2025-10-18,Fraude,Possimus omnis sapiente cupiditate aut repudiandae aut.,Encaminhado,Letícia Pacheco,Melina Carvalho,False
+53,2025-04-26,Outros,Porro quibusdam voluptates ex eligendi alias.,Arquivado,Gabriela Cavalcanti,Heitor Novais,False
+54,2025-09-16,Posse de Drogas,Maxime magnam tempore illo ducimus ipsam autem.,Em Análise,Alana Viana,Ana Julia Costela,False
+55,2025-03-05,Violação de Medida Protetiva,Soluta iusto numquam quas quis deleniti occaecati aspernatur.,Arquivado,Theodoro Campos,Daniel Camargo,False
+56,2025-01-15,Crime Cibernético,Dolorem quidem eum laborum.,Em Investigação,Caleb Montenegro,Augusto Rodrigues,False
+57,2025-01-12,Outros,Ipsa harum consectetur.,Em Análise,Isaac Lopes,Otto Nunes,False
+58,2025-05-14,Desaparecimento de Pessoa,Sunt fuga quos cum doloribus.,Em Investigação,Dom Pereira,Daniela Cunha,False
+59,2025-03-22,Desacato,Cum unde illo facilis ut.,Reaberto,Apollo Pereira,Melina Rodrigues,False
+60,2025-10-12,Violação de Medida Protetiva,Veniam quo officiis deleniti esse rem minima.,Cancelado,Yan Albuquerque,Marcelo Freitas,False
+61,2025-07-31,Encontro de Pessoa,Maiores a qui tempora itaque quam maxime.,Encaminhado,João Vitor Brito,Dra. Zoe Casa Grande,False
+62,2025-01-05,Difamação,Accusantium molestias iste quas officiis.,Cancelado,Eduardo Sampaio,Júlia Ribeiro,False
+63,2025-01-07,Crime Cibernético,Unde natus laborum occaecati.,Reaberto,Sr. Mathias Barros,Dra. Manuela Gomes,False
+64,2025-05-22,Maus-tratos a Animais,Vitae libero doloribus ullam ab inventore.,Concluído,Bryan Souza,Sra. Ísis Sá,False
+65,2025-03-18,Perturbação do Sossego/Tranquilidade,Placeat quibusdam laboriosam iure numquam.,Encaminhado,Ágatha Caldeira,Evelyn Pinto,False
+66,2025-03-27,Porte Ilegal de Arma,Consequatur quam porro impedit.,Registrado,Sofia Souza,Caio Garcia,False
+67,2025-09-13,Encontro de Pessoa,Nisi sunt accusantium sequi sed veniam.,Reaberto,Jade Câmara,Isaque Barros,False
+68,2025-08-17,Porte Ilegal de Arma,Labore corporis illum aperiam.,Cancelado,Milena da Luz,Dra. Ana Sophia da Paz,False
+69,2025-04-04,Violência Doméstica,Officiis soluta mollitia nihil.,Aguardando Validação,Sra. Rebeca Montenegro,Dr. Luiz Miguel Caldeira,False
+70,2025-01-16,Desacato,Consectetur at fuga est laborum rem.,Concluído,Emanuel Albuquerque,Kevin Rodrigues,False
+71,2025-05-26,Desacato,Ex hic aliquam tempora.,Registrado,João Lucas Teixeira,Sr. Rhavi Costela,False
+72,2025-01-17,Posse de Drogas,Qui consequuntur quo ut vel vero ratione.,Reaberto,Ágatha Brito,Heloisa da Paz,False
+73,2025-01-14,Tentativa de Suicídio,Rerum culpa necessitatibus accusantium corporis nisi consequuntur.,Suspenso,Mirella Pires,João Vitor Campos,False
+74,2025-02-13,Furto,Atque laboriosam quam repellendus.,Em Análise,Benjamin Rios,Rafael Castro,False
+75,2025-02-20,Maus-tratos a Animais,Repellendus labore mollitia similique sint voluptas expedita.,Reaberto,Ana Lívia Carvalho,Larissa Albuquerque,False
+76,2025-04-14,Fraude,Amet voluptates cupiditate amet eaque alias.,Complementado,Maria Cecília Alves,João Pedro Correia,False
+77,2025-02-09,Homicídio,Asperiores eveniet rem incidunt est.,Complementado,Manuela Fonseca,Dr. Pedro Miguel Melo,False
+78,2025-10-13,Homicídio,Reprehenderit quisquam sunt aliquid totam exercitationem dolor labore.,Aguardando Validação,Ian Alves,Luiz Felipe Vasconcelos,False
+79,2025-02-02,Crime Cibernético,Eaque ratione nisi voluptatem.,Complementado,Pietra da Conceição,Camila Cassiano,False
+80,2025-08-14,Desacato,Cum alias quae.,Em Análise,Eloá Novais,Dr. João Vitor Fernandes,False
+81,2025-02-22,Encontro de Pessoa,Perferendis quibusdam a recusandae voluptatum fugiat.,Reaberto,Otto Mendonça,Leonardo Câmara,False
+82,2025-02-16,Encontro de Cadáver,Fugit accusamus eveniet nihil laudantium.,Registrado,Igor Rezende,Lunna Leão,False
+83,2025-08-12,Encontro de Pessoa,Ipsum dolore corrupti quis laborum.,Encaminhado,João Vitor Almeida,Anna Liz Peixoto,False
+84,2025-04-01,Danos Materiais,Harum vitae distinctio reiciendis minus.,Encaminhado,Ana Carolina Costela,Lucas Gabriel Garcia,False
+85,2025-05-17,Injúria,Voluptas voluptatibus esse nisi ut totam eos.,Encaminhado,Marcela Cirino,Luigi da Mata,False
+86,2025-08-16,Calúnia,Illo provident provident repudiandae quaerat reiciendis.,Arquivado,Sra. Ágatha Ferreira,Laura Teixeira,False
+87,2025-09-25,Violência Doméstica,Recusandae quod autem unde aliquid aliquam a quod.,Encaminhado,Thomas Siqueira,João Vitor Viana,False
+88,2025-02-28,Ameaça,Repudiandae beatae sequi aliquid quam iste eligendi.,Reaberto,Liz Andrade,Dra. Júlia Abreu,False
+89,2025-05-20,Violência Doméstica,Hic praesentium nesciunt.,Registrado,Ágatha Oliveira,Pedro Miguel Fernandes,False
+90,2025-04-03,Estelionato,Fuga magnam facere eius sunt ipsa labore.,Encaminhado,Ana Carolina Pires,Dr. Kaique Pacheco,False
+91,2025-07-23,Porte Ilegal de Arma,Modi dolore ducimus ad totam occaecati consequatur.,Suspenso,Maya Silveira,Joaquim Teixeira,False
+92,2025-07-23,Difamação,Molestias dolorum exercitationem est facilis.,Em Investigação,Augusto Aragão,Agatha Freitas,False
+93,2025-10-09,Perturbação do Sossego/Tranquilidade,Quisquam rem voluptas ipsum reiciendis voluptatum laudantium.,Em Investigação,Vitor Gabriel Teixeira,Ana Borges,False
+94,2025-02-08,Desaparecimento de Pessoa,Harum est quas fuga placeat modi.,Cancelado,Ana Luiza Sá,Dra. Vitória Porto,False
+95,2025-03-19,Injúria,Itaque cumque perspiciatis aut.,Encaminhado,Ana Vitória Casa Grande,Cecilia Cunha,False
+96,2025-03-03,Dano,Ducimus praesentium debitis.,Arquivado,Isaque Macedo,Maria Alice da Paz,False
+97,2025-02-04,Acidente de Trânsito,Eos eligendi reprehenderit quia ullam.,Complementado,Dr. Arthur Miguel Camargo,Danilo Castro,False
+98,2025-06-07,Fraude,Cumque adipisci tempora quas id.,Em Análise,Dr. Enrico Silva,Sra. Ana Julia da Rocha,False
+99,2025-09-25,Dano,Eos ratione magni in repudiandae exercitationem corporis nostrum.,Encaminhado,Davi da Conceição,Lucca Almeida,False
+100,2025-06-20,Furto,Culpa eveniet veritatis.,Concluído,Maysa Montenegro,Manuella Pimenta,False
+101,2025-07-14,Estelionato,Similique autem quod fuga.,Suspenso,Ana Luiza Novais,Dr. Luan Sá,False
+102,2025-02-06,Danos Materiais,Voluptatum saepe vel explicabo possimus dolores.,Arquivado,Ana Júlia da Rocha,Srta. Yasmin Alves,False
+103,2025-09-16,Porte Ilegal de Arma,Voluptatem quidem reiciendis non.,Complementado,Davi Luiz Fogaça,Maria Alice Almeida,False
+104,2025-06-11,Dano,Omnis dolores animi laudantium in odio iure.,Encaminhado,Pedro Henrique Sousa,Caroline Fogaça,False
+105,2025-06-07,Dano,Accusantium quo quisquam similique.,Complementado,Ana Luiza Andrade,Kevin Pinto,False
+106,2025-01-24,Homicídio,Placeat amet reiciendis.,Registrado,Clara Rocha,Isadora Cassiano,False
+107,2025-04-22,Violação de Medida Protetiva,Consequuntur esse repellat dolores.,Reaberto,Alice Rocha,Bianca Sales,False
+108,2025-07-26,Violência Doméstica,Ducimus ipsum dolore expedita tempora quas.,Concluído,Srta. Anna Liz Monteiro,Ana Carolina Guerra,False
+109,2025-05-25,Posse de Drogas,Perspiciatis voluptatibus natus facilis quidem tempore earum.,Arquivado,Isaque da Mata,Luiz Miguel Siqueira,False
+110,2025-09-24,Tráfico de Drogas,Ratione laudantium ut sunt saepe.,Cancelado,Nina Jesus,Manuela Fogaça,False
+111,2025-08-01,Lesão Corporal,Tenetur animi officia debitis consequatur dolorem ab.,Concluído,Paulo Pereira,Dra. Lara Andrade,False
+112,2025-07-11,Danos Materiais,Voluptatem aliquam praesentium dolore.,Cancelado,Alice da Cunha,Lorenzo Almeida,False
+113,2025-03-25,Danos Materiais,Quaerat quae mollitia porro sit.,Encaminhado,Daniel Mendes,Pietro Nascimento,False
+114,2025-06-21,Estelionato,Amet minima velit voluptate culpa itaque.,Arquivado,Pedro Machado,Thales da Rosa,False
+115,2025-05-25,Estelionato,Deleniti repellendus libero mollitia.,Encaminhado,Diego Silveira,Heloísa Albuquerque,False
+116,2025-02-21,Estelionato,Ipsam quam inventore dicta dicta aspernatur officiis nam.,Arquivado,Mariah Santos,Juan Nascimento,False
+117,2025-09-28,Perturbação do Sossego/Tranquilidade,Perspiciatis dolores eveniet inventore.,Aguardando Validação,Bento Montenegro,Fernando Vargas,False
+118,2025-04-08,Desobediência,Nemo illum modi laborum consectetur alias.,Reaberto,Ágatha Araújo,Lucas Pereira,False
+119,2025-08-27,Furto,Consectetur provident debitis temporibus atque ullam iusto.,Suspenso,Stella Lopes,Carlos Eduardo Sales,False
+120,2025-04-23,Homicídio,Exercitationem pariatur itaque ratione nesciunt accusantium tempora.,Registrado,Stephany Rocha,Srta. Maria Luísa da Rosa,False
+121,2025-10-13,Encontro de Pessoa,Nulla eum voluptatibus temporibus.,Aguardando Validação,Josué Pastor,Ísis Fogaça,False
+122,2025-08-10,Porte Ilegal de Arma,Facere architecto earum praesentium adipisci mollitia assumenda.,Concluído,Kevin da Costa,Cecília Teixeira,False
+123,2025-08-02,Violação de Domicílio,Ullam fugiat incidunt necessitatibus iure.,Aguardando Validação,Isadora da Cruz,Miguel Nunes,False
+124,2025-09-16,Encontro de Cadáver,Sint non dolores delectus veritatis.,Concluído,Davi Nunes,Antônio Carvalho,False
+125,2025-10-15,Danos Materiais,Dicta nostrum ipsam ea ex rem quas pariatur.,Encaminhado,Pietra da Conceição,Davi Abreu,False
+126,2025-04-19,Danos Materiais,Ab laborum voluptas architecto deserunt at quo illo.,Arquivado,Dra. Allana Duarte,Ana Julia Mendes,False
+127,2025-07-20,Roubo,Voluptatibus eaque qui itaque occaecati.,Em Análise,Emanuel Nunes,Matheus Cirino,False
+128,2025-09-24,Lesão Corporal,Esse necessitatibus voluptatum magnam voluptatem libero veniam natus.,Arquivado,Dr. Juan Almeida,Maria Luiza Cavalcante,False
+129,2025-06-25,Ameaça,Libero veniam minus qui minus quidem quos tenetur.,Encaminhado,Vinícius Rodrigues,Lucca Nogueira,False
+130,2025-09-27,Violação de Medida Protetiva,Itaque animi delectus.,Suspenso,Oliver Cunha,Sabrina Câmara,False
+131,2025-09-23,Ameaça,Veniam exercitationem laboriosam.,Aguardando Validação,Ana Leão,Enrico Peixoto,False
+132,2025-05-14,Ameaça,Maxime voluptas corporis qui.,Reaberto,Guilherme Mendes,Luiz Henrique Câmara,False
+133,2025-01-15,Violação de Medida Protetiva,Accusamus nemo fugit occaecati.,Em Análise,Leandro Cirino,Sra. Luiza Duarte,False
+134,2025-02-20,Encontro de Pessoa,Eligendi odit consequatur exercitationem autem deserunt magni.,Arquivado,Maria Julia Cassiano,Maria Eduarda Cassiano,False
+135,2025-03-22,Crime Cibernético,Doloribus perferendis fuga.,Em Análise,Luan das Neves,Bruna Montenegro,False
+136,2025-08-09,Injúria,Repudiandae harum quibusdam perferendis magnam consectetur nemo.,Arquivado,Manuella Moraes,Sr. Isaac Viana,False
+137,2025-08-23,Encontro de Cadáver,Accusamus ex illum temporibus aperiam deserunt.,Encaminhado,Asafe Costa,Luana Sousa,False
+138,2025-07-30,Injúria,Eum quod quisquam quas.,Suspenso,Maya Albuquerque,Ana Liz Farias,False
+139,2025-01-01,Outros,Et porro deleniti ipsam sed.,Encaminhado,Maria Flor Correia,Lorena Albuquerque,False
+140,2025-06-07,Estelionato,Dicta vel modi autem numquam ad corrupti.,Complementado,Marcela Caldeira,Luigi Araújo,False
+141,2025-08-05,Violação de Medida Protetiva,Hic ut natus.,Suspenso,Srta. Maria Isis Ferreira,Dra. Clarice Azevedo,False
+142,2025-10-04,Tráfico de Drogas,Earum neque natus possimus.,Reaberto,Alana Araújo,Alícia Sampaio,False
+143,2025-05-07,Roubo,Reiciendis maxime autem.,Concluído,Luiz Fernando Vargas,Lara Moura,False
+144,2025-04-28,Estelionato,Voluptate odit ducimus dolorum.,Em Investigação,Allana Vargas,Juan Rios,False
+145,2025-04-23,Crime Cibernético,Ut quidem minima eius.,Complementado,Maria Luiza da Cunha,João Lucas Araújo,False
+146,2025-07-25,Estelionato,Eius culpa consequatur amet ipsum nostrum illum.,Em Investigação,Lorena Camargo,Dante Pacheco,False
+147,2025-03-06,Maus-tratos a Animais,Possimus excepturi perspiciatis cumque eius.,Reaberto,Nicolas Nogueira,Luiz Gustavo Andrade,False
+148,2025-04-26,Lesão Corporal,Recusandae animi aliquid similique nemo facere ab fugit.,Suspenso,Erick Campos,Maria da Costa,False
+149,2025-06-27,Posse de Drogas,Eveniet occaecati iure quasi.,Registrado,Lívia Silva,Alexandre Gomes,False
+150,2025-06-07,Outros,Pariatur id cum ullam quisquam ipsam aliquid praesentium.,Em Análise,Aurora Casa Grande,Henry Gabriel Cavalcanti,False
+151,2025-01-08,Perturbação do Sossego/Tranquilidade,Laudantium architecto neque architecto.,Registrado,Thomas Gonçalves,Ana Beatriz Teixeira,False
+152,2025-07-21,Tráfico de Drogas,Culpa facilis nisi.,Cancelado,Josué Teixeira,Lucas Gabriel Moraes,False
+153,2025-01-29,Encontro de Pessoa,Nostrum iure alias optio.,Concluído,Nicole Camargo,Mariane Sampaio,False
+154,2025-01-04,Perturbação do Sossego/Tranquilidade,A fugiat quod eveniet.,Concluído,Luiz Gustavo Correia,Cauê Teixeira,False
+155,2025-04-28,Desacato,Voluptatibus perspiciatis inventore.,Complementado,Lívia Novaes,João Guilherme Aragão,False
+156,2025-03-01,Roubo,Sunt cupiditate doloremque iste atque.,Arquivado,Liam Pimenta,Eloá Correia,False
+157,2025-01-19,Lesão Corporal,Officia iste laudantium dolore.,Concluído,Sr. Vitor Gabriel Camargo,Ayla Costa,False
+158,2025-04-15,Tráfico de Drogas,Voluptate dignissimos odio similique nobis saepe ex.,Cancelado,Caleb Caldeira,Ágatha Vasconcelos,False
+159,2025-04-17,Crime Cibernético,Recusandae ipsum esse non pariatur molestiae corrupti.,Registrado,Dr. Erick Mendes,Thales Melo,False
+160,2025-03-01,Desobediência,Dolorem odio eius beatae corrupti optio culpa.,Cancelado,Hadassa Andrade,João Duarte,False
+161,2025-02-11,Ameaça,Animi eum laudantium.,Reaberto,Bárbara Silveira,Sophie Novaes,False
+162,2025-05-21,Calúnia,Maiores fugiat nulla beatae beatae.,Cancelado,Luna Lima,Paulo Peixoto,False
+163,2025-03-26,Desobediência,Reprehenderit quo repellat voluptatem eaque dicta maiores optio.,Em Investigação,Srta. Ana Lívia Andrade,Emanuella Jesus,False
+164,2025-04-19,Encontro de Pessoa,Doloremque tempora minus non numquam necessitatibus quo.,Arquivado,Maria Luiza Sousa,Henry Cardoso,False
+165,2025-04-25,Tentativa de Suicídio,Pariatur ducimus dignissimos fuga dolor optio sed.,Registrado,Alice Pires,Heloísa Camargo,False
+166,2025-01-14,Desobediência,At blanditiis reprehenderit odit voluptatem.,Encaminhado,Clara Borges,Zoe Costa,False
+167,2025-05-21,Fraude,Dolores labore minima iusto ut quod.,Em Análise,Ravi Andrade,Lara Aparecida,False
+168,2025-05-02,Crime Cibernético,Laboriosam vero eveniet beatae.,Encaminhado,Emanuel Jesus,Sr. Vinícius Câmara,False
+169,2025-08-02,Crime Cibernético,Dolorem tempore amet quaerat totam at.,Arquivado,Cauã Machado,Larissa Souza,False
+170,2025-07-04,Desobediência,Asperiores temporibus atque vitae totam veniam.,Registrado,Dr. Arthur Viana,Arthur Rios,False
+171,2025-08-07,Difamação,Totam alias in voluptas.,Cancelado,Isaac Ferreira,Felipe Pires,False
+172,2025-04-30,Desobediência,Consequuntur recusandae ab non.,Reaberto,Srta. Alice Sampaio,Fernanda Santos,False
+173,2025-03-27,Desaparecimento de Pessoa,Quo nesciunt sit alias repudiandae ducimus rem.,Suspenso,Fernando Duarte,Ravi Martins,False
+174,2025-02-06,Porte Ilegal de Arma,Molestias quas eius.,Registrado,Olivia Mendonça,Luiz Henrique Pacheco,False
+175,2025-10-14,Danos Materiais,Rerum quo possimus officia.,Aguardando Validação,Gustavo Henrique Gonçalves,Manuela Costela,False
+176,2025-07-14,Roubo,Itaque laborum nesciunt aperiam aperiam.,Encaminhado,Davi Luiz Novais,Dr. Nathan Cirino,False
+177,2025-02-01,Calúnia,Aut dolores eveniet vero non eius possimus commodi.,Em Análise,Dr. Thales Farias,Luana da Rosa,False
+178,2025-09-04,Violação de Medida Protetiva,Repudiandae veniam labore minus.,Concluído,Maria Luiza Peixoto,Benicio Ribeiro,False
+179,2025-02-19,Maus-tratos a Animais,Cumque quo animi explicabo dolore.,Concluído,Stella das Neves,José Miguel Aparecida,False
+180,2025-04-19,Desaparecimento de Pessoa,Hic voluptatibus pariatur.,Em Análise,Matheus Albuquerque,Bárbara Almeida,False
+181,2025-05-26,Receptação,Ex voluptatum temporibus eos beatae.,Em Investigação,Manuela Cunha,Sr. Alexandre Moreira,False
+182,2025-03-19,Desaparecimento de Pessoa,Fugit similique aut error.,Complementado,Anthony Nascimento,Dr. José Miguel Vieira,False
+183,2025-09-11,Porte Ilegal de Arma,Ut cumque delectus debitis debitis.,Complementado,Mirella Melo,Ester Correia,False
+184,2025-08-05,Acidente de Trânsito,Sequi facere eveniet.,Em Investigação,Mirella Abreu,Giovanna Campos,False
+185,2025-01-27,Lesão Corporal,Facilis doloremque repellat deserunt similique corrupti.,Arquivado,Maria Eduarda Sá,Carlos Eduardo da Rocha,False
+186,2025-04-05,Maus-tratos a Animais,Neque quod a illo perferendis.,Aguardando Validação,Maria Fernanda Correia,Julia Lima,False
+187,2025-06-10,Perturbação do Sossego/Tranquilidade,Sunt accusamus error blanditiis laborum at rem.,Aguardando Validação,Heloísa Aragão,João Guilherme Sousa,False
+188,2025-02-15,Desaparecimento de Pessoa,Voluptatem quasi atque nemo repellat.,Registrado,Maya Porto,Srta. Ester Mendes,False
+189,2025-07-16,Encontro de Cadáver,Ipsam vero accusantium enim.,Registrado,Ana Luiza Duarte,Enzo Gabriel da Mata,False
+190,2025-08-03,Desobediência,Magni eos praesentium qui.,Encaminhado,Srta. Julia Pimenta,Brenda Freitas,False
+191,2025-10-14,Tentativa de Suicídio,Tempore minima officiis deleniti laudantium laudantium saepe.,Em Análise,Pedro Miguel Duarte,Isadora Lima,False
+192,2025-02-09,Receptação,Architecto rerum nostrum maxime ex repudiandae accusamus.,Concluído,Agatha Vargas,Yuri Monteiro,False
+193,2025-06-21,Roubo,Quisquam doloribus doloribus iusto assumenda dolorum.,Cancelado,Kamilly da Cunha,Gabriel Pinto,False
+194,2025-10-20,Lesão Corporal,Ratione repellendus atque iusto.,Registrado,Nina Nogueira,Raquel Castro,False
+195,2025-01-21,Acidente de Trânsito,Vitae eum quia unde atque aperiam ratione.,Encaminhado,Liam Fonseca,Julia Oliveira,False
+196,2025-06-16,Porte Ilegal de Arma,Vero quisquam nobis minus incidunt quisquam.,Reaberto,Laura Mendes,Luana Abreu,False
+197,2025-08-10,Embriaguez ao Volante,Unde exercitationem officia officia magni.,Encaminhado,João Felipe Araújo,Manuela Brito,False
+198,2025-08-03,Violação de Domicílio,Magni cum sit mollitia hic perferendis numquam.,Reaberto,Maria Julia Caldeira,Theodoro Lima,False
+199,2025-01-22,Fraude,Quibusdam dolorem consequatur.,Registrado,Giovanna Barros,Eloá Siqueira,False
+200,2025-08-31,Calúnia,Voluptates dolorem tempore iste tenetur excepturi.,Encaminhado,Sr. Enzo Ramos,João Pedro Fernandes,False
+201,2025-02-25,Acidente de Trânsito,Quisquam illum laudantium quis voluptate voluptas.,Reaberto,Sr. Theodoro Duarte,Raquel Oliveira,False
+202,2025-06-02,Encontro de Cadáver,Beatae nam cumque.,Encaminhado,João Gabriel da Cruz,Bella Almeida,False
+203,2025-07-16,Encontro de Pessoa,Recusandae asperiores velit at.,Cancelado,Theo Costela,Marcela Rios,False
+204,2025-01-29,Danos Materiais,Placeat assumenda ad doloremque.,Complementado,Oliver Cardoso,Ana Liz Brito,False
+205,2025-07-07,Violência Doméstica,Libero a non.,Em Investigação,Diego Aragão,Dra. Maria Eduarda Lopes,False
+206,2025-08-03,Outros,Culpa non praesentium itaque earum non.,Suspenso,Pedro Lucas Marques,Dra. Maria Sophia Camargo,False
+207,2025-07-26,Perturbação do Sossego/Tranquilidade,Quam laboriosam quia accusamus velit inventore sit.,Arquivado,Maria Câmara,Nicolas Araújo,False
+208,2025-04-07,Tráfico de Drogas,Quas minima maxime adipisci tempore expedita nobis.,Arquivado,João Guilherme da Mata,Luiz Felipe Montenegro,False
+209,2025-05-07,Tentativa de Suicídio,Minus error consequuntur illo iusto blanditiis.,Cancelado,Isis Ribeiro,Luna Melo,False
+210,2025-05-23,Encontro de Cadáver,Unde voluptatum sint architecto consequatur quo.,Em Análise,João Vitor das Neves,Maya Silva,False
+211,2025-08-17,Calúnia,Harum adipisci laudantium hic at.,Reaberto,Augusto Sousa,Aurora Vargas,False
+212,2025-03-05,Violência Doméstica,Quaerat similique eum consequatur omnis dolore minima.,Complementado,Nathan Andrade,Ian Aparecida,False
+213,2025-06-10,Encontro de Cadáver,Ipsa voluptate error quasi dignissimos.,Aguardando Validação,Paulo Vargas,Isabela Casa Grande,False
+214,2025-02-26,Ameaça,Modi amet repellat perspiciatis.,Cancelado,João Guilherme da Rosa,Evelyn Araújo,False
+215,2025-05-07,Homicídio,Occaecati alias provident.,Encaminhado,Marina Melo,Isabella Ramos,False
+216,2025-05-28,Porte Ilegal de Arma,Perspiciatis enim repellendus quam explicabo.,Arquivado,Isadora Oliveira,Fernanda Mendes,False
+217,2025-01-23,Violação de Domicílio,Reprehenderit earum eius nam pariatur blanditiis dolorem.,Em Análise,Dr. Caio da Cunha,Laura Costela,False
+218,2025-04-12,Difamação,Totam itaque magni odio dolorum.,Reaberto,Dom Leão,Isabel Nunes,False
+219,2025-03-24,Tentativa de Suicídio,Aspernatur facilis repudiandae impedit.,Em Análise,Asafe da Cunha,Natália Rocha,False
+220,2025-07-14,Violação de Domicílio,Pariatur praesentium iusto vel.,Em Investigação,Dr. Gael Siqueira,Vitor Hugo Azevedo,False
+221,2025-01-16,Crime Cibernético,Quas rem doloribus repellat itaque molestias at.,Em Análise,Diego Borges,Sra. Isis Sales,False
+222,2025-10-13,Tráfico de Drogas,Ex labore expedita iste omnis.,Em Análise,Sabrina Oliveira,Dra. Mariane Martins,False
+223,2025-04-18,Ameaça,Dolorum dolorem et suscipit perspiciatis neque.,Em Análise,Stephany Fogaça,Sr. Luan Câmara,False
+224,2025-02-23,Perturbação do Sossego/Tranquilidade,Eaque voluptatem vitae sapiente a eveniet.,Em Investigação,Vitor Fernandes,Gabrielly Silva,False
+225,2025-02-09,Perturbação do Sossego/Tranquilidade,Nihil sunt tempore quae id officiis quis voluptatibus.,Encaminhado,Srta. Ayla da Rosa,André Cardoso,False
+226,2025-09-23,Posse de Drogas,Ipsam officiis labore illum quaerat eligendi.,Em Investigação,Bella Marques,Pietra Porto,False
+227,2025-02-02,Violação de Medida Protetiva,Ea accusantium iste molestiae.,Cancelado,Hadassa Nunes,Srta. Gabrielly Fogaça,False
+228,2025-03-23,Violação de Domicílio,Tempore iste mollitia dignissimos praesentium.,Arquivado,João Monteiro,Ana Liz Rezende,False
+229,2025-03-28,Lesão Corporal,Tempore deserunt expedita facilis ipsum fuga laudantium.,Em Investigação,João Felipe Andrade,Noah Almeida,False
+230,2025-10-20,Injúria,Veniam non debitis tempore incidunt nisi quaerat.,Arquivado,Júlia Teixeira,Dra. Maya Costela,False
+231,2025-09-04,Receptação,Consectetur expedita voluptatem soluta.,Arquivado,Lara Fogaça,Theodoro Albuquerque,False
+232,2025-08-25,Roubo,Dignissimos deserunt quam natus consequuntur suscipit.,Em Investigação,Caleb Santos,Dra. Olívia Pastor,False
+233,2025-01-26,Roubo,Voluptatem sed magnam distinctio iure ad.,Concluído,Stella Araújo,Henry Cirino,False
+234,2025-08-14,Encontro de Cadáver,Similique voluptate asperiores quia dolorum.,Cancelado,Maysa Duarte,Dr. Gustavo Henrique Sá,False
+235,2025-01-10,Estelionato,Quibusdam quo itaque accusantium assumenda.,Em Análise,Maria Fernanda Pimenta,Lorena Siqueira,False
+236,2025-01-06,Dano,Alias debitis debitis dolor ipsam quaerat.,Aguardando Validação,Maria Júlia da Cruz,Luan Nogueira,False
+237,2025-03-20,Perturbação do Sossego/Tranquilidade,Error aliquid libero dicta culpa magnam.,Em Análise,Thiago Sousa,Maria Clara Ramos,False
+238,2025-01-21,Porte Ilegal de Arma,Debitis architecto harum iusto amet beatae corporis eum.,Encaminhado,Theo Nunes,Dr. Enzo Gabriel Ferreira,False
+239,2025-07-06,Outros,Totam rem assumenda optio accusamus asperiores voluptate.,Em Análise,Léo Melo,Maria Vasconcelos,False
+240,2025-04-02,Posse de Drogas,Esse quae soluta.,Complementado,Sr. Noah Azevedo,Luiz Otávio Teixeira,False
+241,2025-08-17,Outros,Doloribus consequuntur provident incidunt nostrum nemo.,Aguardando Validação,Brayan Ramos,Lorenzo Fernandes,False
+242,2025-04-27,Desaparecimento de Pessoa,Cumque ad quo molestiae.,Complementado,Sra. Luiza Sousa,Allana Marques,False
+243,2025-09-23,Estelionato,Quo omnis voluptates hic incidunt voluptatibus dolor.,Suspenso,Luigi Vargas,Benjamin Jesus,False
+244,2025-02-13,Tráfico de Drogas,Odit est totam in beatae.,Encaminhado,Luna da Paz,Miguel Castro,False
+245,2025-07-24,Calúnia,Tempore necessitatibus non error ipsum minus deserunt.,Arquivado,Mariah da Cruz,Camila Machado,False
+246,2025-01-30,Calúnia,Provident ad velit laudantium omnis.,Em Análise,Srta. Maria Fernanda Costa,Ravi Lucca Ribeiro,False
+247,2025-05-19,Violação de Medida Protetiva,Quidem a facere nesciunt nam et.,Encaminhado,Sra. Kamilly Silveira,Sra. Bianca Cirino,False
+248,2025-03-31,Furto,Error quae consequuntur voluptatibus architecto possimus recusandae cum.,Complementado,Maria Clara da Luz,Rafael Monteiro,False
+249,2025-04-13,Estelionato,Dolor perferendis culpa magnam sapiente iusto.,Aguardando Validação,João Vitor Santos,Fernanda Sampaio,False
+250,2025-04-29,Encontro de Pessoa,Explicabo quo quod magnam ad blanditiis.,Aguardando Validação,Cecília Vieira,Eduardo Lima,False
+251,2025-04-10,Encontro de Cadáver,Explicabo tempore eos excepturi.,Registrado,Jade da Cunha,Maria Liz Vieira,False
+252,2025-04-06,Violação de Domicílio,Fugit ipsa iste repellat.,Em Investigação,João Pedro da Cruz,Gael da Rocha,False
+253,2025-10-06,Desobediência,Tempora beatae magnam veniam doloremque ut.,Concluído,Alana Aparecida,João Guilherme Pinto,False
+254,2025-10-01,Homicídio,Quisquam consectetur occaecati minus.,Encaminhado,Camila Cardoso,Maria Liz Macedo,False
+255,2025-01-21,Encontro de Cadáver,Autem eos laudantium eligendi veniam unde aperiam.,Encaminhado,Yuri Martins,Ryan Cassiano,False
+256,2025-01-03,Desacato,Rem tempora earum distinctio.,Em Análise,Heitor Siqueira,Srta. Olivia Sá,False
+257,2025-08-06,Tráfico de Drogas,In enim et facilis.,Encaminhado,Léo Mendes,Apollo Alves,False
+258,2025-03-30,Outros,Perspiciatis eius soluta corporis ab sunt nam.,Arquivado,Maysa Cassiano,Sr. Luiz Gustavo da Luz,False
+259,2025-04-27,Dano,Impedit quibusdam officiis accusamus dolores incidunt.,Suspenso,Clara Rios,Sr. Yago Costela,False
+260,2025-10-21,Danos Materiais,Harum quis aperiam.,Aguardando Validação,Gael Henrique da Mata,Luiz Henrique Pacheco,False
+261,2025-06-18,Desaparecimento de Pessoa,Ipsam praesentium facere tempore commodi modi.,Concluído,José Pedro Fogaça,Srta. Ana Sophia Farias,False
+262,2025-01-13,Desobediência,Nam tenetur distinctio tempora accusantium voluptatibus ab quibusdam.,Concluído,Heloisa Vargas,João Miguel Montenegro,False
+263,2025-04-10,Lesão Corporal,Magni totam molestiae nemo.,Arquivado,Renan Fonseca,Raquel da Rocha,False
+264,2025-08-11,Receptação,Soluta ea voluptate numquam enim.,Concluído,Igor Sales,Dra. Julia Pastor,False
+265,2025-07-03,Posse de Drogas,Quidem voluptatem culpa facilis dolorum amet.,Reaberto,Nathan da Paz,Kamilly Lima,False
+266,2025-08-05,Difamação,Quas soluta magni sapiente ex fuga.,Arquivado,Anthony Cunha,Lucca Macedo,False
+267,2025-06-21,Difamação,Aliquid perspiciatis ex beatae possimus vel omnis.,Concluído,Ana Cecília Leão,Arthur Miguel Melo,False
+268,2025-05-11,Ameaça,Modi nostrum quia pariatur quasi.,Aguardando Validação,Yasmin Farias,Diogo Pinto,False
+269,2025-02-15,Porte Ilegal de Arma,Omnis eum eius minima.,Suspenso,Nina Peixoto,Yasmin Sales,False
+270,2025-10-05,Lesão Corporal,Quisquam itaque distinctio cum aperiam unde ad.,Registrado,Srta. Manuela Rodrigues,Joaquim Azevedo,False
+271,2025-04-30,Desaparecimento de Pessoa,Beatae et ratione quasi dolor cumque vel commodi.,Concluído,José da Mota,Rafael da Paz,False
+272,2025-05-25,Receptação,Eaque provident eveniet commodi.,Suspenso,Dra. Isabela Pereira,Maria Eduarda Oliveira,False
+273,2025-05-23,Tentativa de Suicídio,Quas voluptates saepe eaque laborum.,Aguardando Validação,Laura Nunes,Maria Alice Teixeira,False
+274,2025-10-09,Embriaguez ao Volante,Eligendi rerum laborum voluptatum eum ipsum.,Concluído,Daniela da Rocha,Lucas Garcia,False
+275,2025-03-18,Violação de Domicílio,Quo libero rerum necessitatibus quas repellendus dignissimos sed.,Arquivado,Henry Gabriel Sá,Pedro Lucas Macedo,False
+276,2025-07-15,Violência Doméstica,Deserunt sint pariatur ipsum dolore.,Aguardando Validação,Srta. Ana Cecília da Cunha,Enzo Mendes,False
+277,2025-07-30,Danos Materiais,Cupiditate magnam neque quasi omnis dolor officia.,Reaberto,Milena Martins,Miguel Campos,False
+278,2025-04-16,Desobediência,Quae placeat eius earum odit voluptate.,Arquivado,Raul Nunes,Laís Lima,False
+279,2025-04-17,Maus-tratos a Animais,Sunt deleniti laborum in id esse facilis qui.,Registrado,André Rios,Caleb Sales,False
+280,2025-09-14,Perturbação do Sossego/Tranquilidade,Nobis dignissimos corrupti molestias quos.,Concluído,Dr. Pedro Sampaio,Nicole Lima,False
+281,2025-05-26,Posse de Drogas,Sint officiis odit nemo quasi officiis.,Reaberto,Guilherme Aparecida,Bianca Nogueira,False
+282,2025-05-11,Tráfico de Drogas,Minima illo perferendis non cumque corrupti architecto quasi.,Cancelado,Maria Júlia Souza,André Costa,False
+283,2025-02-19,Fraude,Voluptas maiores doloribus quo.,Cancelado,Mariana Rezende,Daniela Rodrigues,False
+284,2025-07-12,Violação de Medida Protetiva,Assumenda dolores impedit facilis veniam illo.,Suspenso,Dr. Igor da Rocha,Diego Fonseca,False
+285,2025-07-25,Crime Cibernético,Tempore quos odio occaecati ad.,Em Análise,Igor Rocha,Samuel Costela,False
+286,2025-09-09,Lesão Corporal,Explicabo aliquam sit ab quaerat.,Cancelado,Dr. João Vitor Cavalcanti,Pietro Fogaça,False
+287,2025-05-08,Lesão Corporal,Vero repellendus repellendus deleniti.,Suspenso,Isabella Melo,Vitor Gabriel Rocha,False
+288,2025-10-04,Fraude,Soluta veniam sed soluta consequatur sed.,Arquivado,Ana Barbosa,Cauã Machado,False
+289,2025-03-03,Homicídio,Placeat ex saepe reiciendis inventore illum.,Concluído,Brenda Marques,Isadora Correia,False
+290,2025-06-28,Maus-tratos a Animais,Dolores eos voluptatum nisi officia est.,Reaberto,Daniela Caldeira,Rebeca da Mata,False
+291,2025-01-22,Maus-tratos a Animais,Occaecati delectus cumque unde quia voluptates.,Em Investigação,Eduardo Sá,Gabriela da Costa,False
+292,2025-05-26,Porte Ilegal de Arma,Quisquam fuga unde adipisci veritatis.,Complementado,Sra. Cecília Sales,Valentina Garcia,False
+293,2025-03-27,Perturbação do Sossego/Tranquilidade,Ex ullam voluptas eos.,Complementado,Dante Lopes,Ana Liz Camargo,False
+294,2025-03-17,Tentativa de Suicídio,Eaque laudantium earum temporibus quia tempore animi.,Complementado,Lavínia Cunha,Lorenzo Melo,False
+295,2025-09-07,Roubo,Ducimus occaecati aut.,Reaberto,Sophia Gonçalves,Yago Moura,False
+296,2025-08-14,Danos Materiais,Architecto occaecati id provident possimus.,Complementado,Sophia Ferreira,Joana Pires,False
+297,2025-07-09,Embriaguez ao Volante,Aliquam et architecto nobis corporis minima asperiores.,Reaberto,Bella Pereira,Camila Peixoto,False
+298,2025-01-12,Outros,Consectetur laudantium reprehenderit alias.,Aguardando Validação,Isabelly Pereira,Rafael Vieira,False
+299,2025-03-23,Encontro de Pessoa,Rerum minus quia eum inventore.,Complementado,Luiz Otávio Vasconcelos,Laura Araújo,False
+300,2025-04-27,Maus-tratos a Animais,Quod voluptates corrupti quod reprehenderit.,Em Análise,Ana Lívia da Cunha,Apollo Lima,False
+301,2025-04-08,Crime Cibernético,Possimus sint dolor voluptatibus aliquid ipsum beatae.,Registrado,Carlos Eduardo Pereira,Maria Flor Macedo,False
+302,2025-06-12,Receptação,Porro quaerat molestias suscipit eos velit.,Em Análise,Caroline Marques,Alana Silveira,False
+303,2025-05-08,Violência Doméstica,In necessitatibus illo commodi deserunt amet illo voluptas.,Arquivado,Luiz Otávio Novaes,Marcos Vinicius da Luz,False
+304,2025-09-12,Injúria,Dolorem doloribus cumque laborum et dolore.,Encaminhado,Vitor Hugo da Luz,Gabriela Santos,False
+305,2025-08-22,Porte Ilegal de Arma,Ipsam voluptatem quis deserunt harum beatae vel.,Concluído,Gabriela Brito,Ana Clara Aragão,False
+306,2025-06-11,Encontro de Cadáver,Illo cumque dicta nobis alias quasi ipsa odit.,Arquivado,Diogo Farias,Sofia Machado,False
+307,2025-02-18,Violação de Medida Protetiva,Molestiae quo fuga inventore molestias quod.,Reaberto,Otto Nascimento,Thiago Leão,False
+308,2025-09-15,Receptação,Porro neque id quod quod temporibus.,Arquivado,Benjamim Cirino,Ana Laura Cassiano,False
+309,2025-07-17,Violência Doméstica,Vero saepe eos nesciunt.,Suspenso,Kevin Monteiro,Anthony Ramos,False
+310,2025-08-16,Violação de Domicílio,Rem animi eaque deserunt laborum possimus.,Aguardando Validação,Raquel Araújo,Breno Vargas,False
+311,2025-02-10,Furto,Dignissimos ducimus sint et.,Em Análise,Bernardo Machado,Gustavo Henrique Rocha,False
+312,2025-03-24,Calúnia,Incidunt distinctio fugit necessitatibus dolore.,Complementado,Dra. Julia Rodrigues,Julia Viana,False
+313,2025-02-18,Posse de Drogas,Illo perspiciatis excepturi delectus aliquid eveniet earum.,Registrado,Dra. Giovanna Leão,Larissa Cavalcante,False
+314,2025-09-17,Encontro de Pessoa,Mollitia nisi minus ea laudantium expedita velit.,Em Análise,Bruno Jesus,Aurora Peixoto,False
+315,2025-03-22,Porte Ilegal de Arma,Ipsam et eligendi molestiae quos exercitationem eveniet.,Registrado,Josué Pacheco,Maria Laura Novaes,False
+316,2025-09-21,Tentativa de Suicídio,Maxime eum nesciunt fugiat facilis libero.,Arquivado,Maria Helena Jesus,Sr. Augusto Campos,False
+317,2025-10-02,Tráfico de Drogas,Vel architecto ipsum officia.,Arquivado,Marcelo Sampaio,Benjamin da Mata,False
+318,2025-06-13,Porte Ilegal de Arma,Voluptatum facere id in facilis.,Complementado,Aurora Teixeira,Lavínia Almeida,False
+319,2025-05-12,Desacato,Temporibus error provident libero est ipsum.,Aguardando Validação,Bernardo Silva,Gabrielly Costa,False
+320,2025-08-17,Difamação,Dolore inventore aspernatur quisquam culpa sed placeat.,Cancelado,Eloá Sá,Bárbara Viana,False
+321,2025-05-05,Maus-tratos a Animais,Ipsum nobis aliquid distinctio quisquam veniam ullam.,Em Investigação,Raul da Rosa,Allana Rodrigues,False
+322,2025-07-28,Difamação,Doloribus commodi maxime consectetur.,Concluído,Maria Eduarda Jesus,Luana Pastor,False
+323,2025-02-18,Embriaguez ao Volante,Doloremque doloremque adipisci ipsum iusto.,Em Investigação,Nicole Vasconcelos,Clarice Correia,False
+324,2025-09-27,Furto,Voluptatibus autem cum amet incidunt reprehenderit qui neque.,Encaminhado,Aurora Sales,Milena Dias,False
+325,2025-09-23,Tráfico de Drogas,Porro nam ratione consectetur.,Encaminhado,João Gabriel Marques,Sr. Rhavi Câmara,False
+326,2025-08-16,Violência Doméstica,Vero id molestiae fugit dignissimos.,Cancelado,Srta. Mariana Melo,Brayan Souza,False
+327,2025-07-17,Tráfico de Drogas,Dolor labore ullam.,Suspenso,Larissa Azevedo,Ana Luiza da Rosa,False
+328,2025-05-28,Injúria,Unde fugiat ipsum temporibus excepturi excepturi fuga dolorum.,Em Análise,Vitor Fonseca,Luísa Monteiro,False
+329,2025-04-13,Estelionato,Illum nihil vero eaque.,Encaminhado,Davi Luiz Pinto,Rhavi Almeida,False
+330,2025-07-19,Fraude,Rerum autem in id.,Em Análise,José Mendes,Maria Clara Duarte,False
+331,2025-09-24,Desacato,Fugit a magnam quae assumenda.,Cancelado,Maria Júlia Sales,Larissa Castro,False
+332,2025-09-17,Homicídio,Enim nostrum voluptate.,Arquivado,Nathan Rios,Agatha da Mata,False
+333,2025-02-11,Violação de Medida Protetiva,Quas facilis aspernatur at quasi dignissimos ex.,Suspenso,Isabelly Garcia,Srta. Antonella Barbosa,False
+334,2025-03-14,Violação de Medida Protetiva,Perspiciatis ipsam expedita.,Complementado,Enrico Jesus,Vitor Hugo Fonseca,False
+335,2025-08-03,Danos Materiais,Id doloremque consequatur voluptate tempora eligendi voluptatibus.,Complementado,Milena Vieira,João Silveira,False
+336,2025-02-09,Roubo,Eius ipsum et dicta.,Concluído,José Miguel Pires,Otto Guerra,False
+337,2025-09-25,Desaparecimento de Pessoa,Id nostrum harum voluptate enim natus soluta.,Concluído,Luiz Felipe Aragão,Arthur Miguel Cunha,False
+338,2025-07-02,Desobediência,Quas quas inventore eius laborum quis nihil.,Em Análise,Francisco Casa Grande,Davi da Mota,False
+339,2025-07-20,Porte Ilegal de Arma,Enim libero animi fugit quo assumenda eligendi.,Em Investigação,Eloah Casa Grande,Caleb Melo,False
+340,2025-09-26,Roubo,Vitae cumque voluptate perspiciatis.,Aguardando Validação,Emanuella da Paz,Kevin Cunha,False
+341,2025-06-22,Furto,Saepe unde veritatis illo facere sint.,Registrado,Rhavi Souza,Dra. Maria Liz Duarte,False
+342,2025-09-27,Roubo,Cupiditate debitis necessitatibus.,Cancelado,Bruna Cunha,Cecília Azevedo,False
+343,2025-10-21,Roubo,Id labore occaecati magni.,Complementado,Aurora Ferreira,Luana da Mata,False
+344,2025-06-03,Ameaça,Explicabo distinctio dolores delectus expedita.,Em Investigação,Theo Fonseca,Henry Ferreira,False
+345,2025-02-02,Difamação,Optio reiciendis amet repellendus assumenda blanditiis veniam.,Arquivado,Josué Gonçalves,Catarina Pereira,False
+346,2025-03-05,Danos Materiais,Dignissimos occaecati fuga corporis cumque laboriosam qui.,Complementado,Thales Silveira,Liz Cavalcanti,False
+347,2025-06-07,Fraude,Hic autem alias vitae tempora placeat.,Cancelado,Isadora Novais,Luiz Otávio Albuquerque,False
+348,2025-02-06,Danos Materiais,Natus esse ipsa perferendis vero nisi.,Concluído,Vinícius Oliveira,Isabelly Campos,False
+349,2025-09-11,Fraude,Nihil illo non dolore fugit.,Concluído,Bárbara Nascimento,Oliver Novais,False
+350,2025-03-05,Furto,Fugit optio quam quis vitae minus.,Registrado,Aylla Lopes,Davi Lucca Campos,False
+351,2025-09-29,Violação de Medida Protetiva,Nesciunt deleniti nemo nostrum esse sequi.,Complementado,Aurora Porto,Sarah Mendes,False
+352,2025-05-08,Violência Doméstica,Corporis illum sit quas unde sed corporis.,Cancelado,Sr. Ravi Lucca Nogueira,Kaique Caldeira,False
+353,2025-08-27,Violação de Domicílio,Iure non delectus.,Reaberto,Leonardo Barbosa,Juan Sales,False
+354,2025-03-25,Difamação,Cupiditate doloremque sequi voluptatem quo doloribus.,Encaminhado,Luiza Fernandes,Mathias Guerra,False
+355,2025-04-04,Roubo,Hic unde animi omnis voluptatem ratione modi.,Em Investigação,Luan Barros,Dra. Ísis Fernandes,False
+356,2025-04-30,Crime Cibernético,At sint odio deleniti.,Concluído,João Guilherme Oliveira,Dr. Asafe Dias,False
+357,2025-10-16,Crime Cibernético,Asperiores aliquid possimus tempora.,Reaberto,Júlia Pimenta,Heitor Novaes,False
+358,2025-06-25,Roubo,Perferendis nisi sit ea minima.,Em Análise,Francisco Silveira,Vitor Gabriel Pires,False
+359,2025-09-29,Injúria,Alias doloribus aperiam molestias perspiciatis odio vitae.,Em Investigação,Dra. Alícia Alves,Sra. Ana Clara Monteiro,False
+360,2025-03-12,Fraude,Nam earum provident.,Aguardando Validação,Anthony Gabriel Pires,Maria Julia Ramos,False
+361,2025-05-16,Desaparecimento de Pessoa,Magni tempora provident beatae.,Complementado,Laís Câmara,Ian das Neves,False
+362,2025-04-15,Posse de Drogas,Harum corrupti cupiditate.,Reaberto,Maria Fernanda Azevedo,João Pedro Barros,False
+363,2025-06-14,Injúria,Est ad neque aut necessitatibus.,Arquivado,Alice Novais,Oliver Cavalcante,False
+364,2025-06-21,Furto,Officiis culpa veritatis.,Suspenso,Renan Borges,Thomas Garcia,False
+365,2025-04-07,Danos Materiais,Nobis amet quaerat dolores eligendi laboriosam.,Reaberto,Otávio Gomes,Luna Marques,False
+366,2025-06-06,Perturbação do Sossego/Tranquilidade,Consectetur nostrum alias quam autem.,Complementado,Valentim Ramos,Ravy Barbosa,False
+367,2025-05-17,Perturbação do Sossego/Tranquilidade,Sit alias reprehenderit cumque laboriosam cumque.,Reaberto,Luiz Miguel Melo,Srta. Beatriz da Rosa,False
+368,2025-10-14,Porte Ilegal de Arma,Ratione vero impedit fugiat labore inventore.,Cancelado,Maria Julia da Mata,Erick da Paz,False
+369,2025-10-10,Violência Doméstica,Iure laudantium debitis ipsum cumque maiores iusto.,Arquivado,Otto Marques,Bella Moura,False
+370,2025-06-06,Posse de Drogas,Molestiae in eum eveniet praesentium.,Aguardando Validação,Léo Farias,Sarah Fernandes,False
+371,2025-08-06,Danos Materiais,Unde quos excepturi accusantium occaecati.,Concluído,Yuri Oliveira,Samuel das Neves,False
+372,2025-05-12,Porte Ilegal de Arma,Expedita consectetur odit deleniti veritatis ipsum quis.,Em Investigação,Emilly Campos,Sr. Theodoro Costa,False
+373,2025-08-27,Desobediência,Praesentium sint quisquam accusamus voluptatum et.,Complementado,Manuela Jesus,Miguel Nogueira,False
+374,2025-10-16,Fraude,Quas suscipit repellendus quod officiis minus.,Suspenso,Clara da Cruz,Srta. Daniela Pacheco,False
+375,2025-02-17,Calúnia,Assumenda quasi ab libero blanditiis.,Aguardando Validação,João Vitor Nunes,Cecília Montenegro,False
+376,2025-01-17,Encontro de Cadáver,Laborum voluptate distinctio veniam distinctio corrupti.,Em Análise,Dante Vasconcelos,Otávio da Rocha,False
+377,2025-09-15,Injúria,Impedit in nulla animi ullam ullam.,Complementado,Pedro Henrique da Mata,Vitória da Mata,False
+378,2025-09-03,Dano,Officiis provident illum debitis.,Reaberto,Dra. Lavínia Lima,Breno Marques,False
+379,2025-03-31,Embriaguez ao Volante,At assumenda enim alias.,Concluído,Breno Macedo,Dante Novais,False
+380,2025-03-14,Difamação,Excepturi ratione odit ut eaque molestiae impedit.,Reaberto,Júlia Ramos,Dra. Ana Liz Abreu,False
+381,2025-04-04,Calúnia,Dicta numquam beatae inventore laborum occaecati architecto.,Registrado,Theodoro Carvalho,Dr. Oliver Peixoto,False
+382,2025-09-14,Acidente de Trânsito,Eveniet cum dolorem aut autem delectus.,Complementado,Anthony Pereira,Fernando da Costa,False
+383,2025-07-25,Ameaça,Delectus sapiente rem harum.,Complementado,Maria Sophia Pinto,Luiz Henrique Pires,False
+384,2025-09-30,Encontro de Pessoa,Ullam magnam tempore ea eaque esse maiores molestiae.,Cancelado,Maria Júlia Jesus,Isabela Rios,False
+385,2025-02-08,Violação de Medida Protetiva,Placeat totam adipisci repudiandae.,Arquivado,Sara Castro,Olívia Cunha,False
+386,2025-08-19,Desacato,Dolorem porro quos voluptates natus.,Encaminhado,Vinicius Alves,Dr. Thiago da Mata,False
+387,2025-04-28,Encontro de Pessoa,Velit magni perferendis nam perspiciatis maiores magnam.,Cancelado,Srta. Lunna Porto,Isabelly Alves,False
+388,2025-07-12,Encontro de Cadáver,Possimus cupiditate neque aperiam facilis minima temporibus.,Complementado,Dra. Maria Isis da Paz,Catarina da Luz,False
+389,2025-06-14,Embriaguez ao Volante,Nemo earum unde sint est similique.,Em Investigação,Marcos Vinicius da Mata,Isis Alves,False
+390,2025-01-02,Dano,Cum porro asperiores placeat atque consectetur maiores in.,Registrado,Larissa Macedo,Ana Clara Carvalho,False
+391,2025-09-04,Desacato,Minus occaecati iure sapiente.,Reaberto,Valentina Câmara,Fernando Aparecida,False
+392,2025-02-24,Violação de Domicílio,Quisquam dolores consectetur fugiat.,Reaberto,Erick Lima,Srta. Daniela Cardoso,False
+393,2025-03-18,Roubo,Cum corporis odio molestiae nesciunt soluta.,Reaberto,Vitor Hugo Vasconcelos,Sr. Rael Fonseca,False
+394,2025-03-07,Posse de Drogas,Praesentium in ea reprehenderit aliquid.,Suspenso,Vitor Fernandes,Maria Alice Porto,False
+395,2025-03-05,Crime Cibernético,Maxime possimus voluptates voluptatum.,Em Análise,Marcela Carvalho,Maria Flor Duarte,False
+396,2025-01-30,Maus-tratos a Animais,Nobis nam esse cumque mollitia velit.,Em Análise,João Guilherme da Mata,Paulo Duarte,False
+397,2025-02-17,Ameaça,Libero ea commodi earum sunt tempore.,Em Análise,André Lopes,Alexia Cassiano,False
+398,2025-06-19,Maus-tratos a Animais,Adipisci minima itaque.,Arquivado,Mariah das Neves,Enrico Casa Grande,False
+399,2025-05-08,Fraude,Hic possimus illum laboriosam.,Complementado,Maya Castro,Yasmin Santos,False
+400,2025-01-07,Desobediência,Optio reiciendis iste esse dicta.,Registrado,Dra. Liz Garcia,Luana da Costa,False
+401,2025-07-11,Violação de Medida Protetiva,Suscipit illo error.,Suspenso,Rhavi Martins,Pedro Lucas Nascimento,False
+402,2025-01-19,Desacato,Dicta saepe cumque dolore.,Registrado,Yan Machado,Ana Laura Moraes,False
+403,2025-07-23,Calúnia,Architecto accusamus vero culpa laboriosam officiis.,Cancelado,Ana Sophia Garcia,Julia Cardoso,False
+404,2025-03-03,Fraude,Commodi omnis cumque ullam asperiores.,Reaberto,Lucas Martins,Julia Pacheco,False
+405,2025-09-30,Dano,Natus laborum similique quia.,Reaberto,Helena Pimenta,Eduardo Mendes,False
+406,2025-08-06,Lesão Corporal,Nisi ex aspernatur maiores aperiam.,Complementado,Bárbara Teixeira,Srta. Vitória Vasconcelos,False
+407,2025-03-25,Homicídio,Blanditiis possimus quia ea accusantium.,Cancelado,Sr. Ravy Pastor,Sr. Raul Dias,False
+408,2025-02-18,Ameaça,Nesciunt suscipit quo cumque.,Concluído,Augusto Cirino,Renan Cirino,False
+409,2025-08-07,Violação de Medida Protetiva,Ex earum accusantium fugit fugiat.,Complementado,Laura Cardoso,Maria Fernanda Vieira,False
+410,2025-08-10,Calúnia,Nostrum sit consequatur dolores.,Reaberto,Caroline Lopes,Dra. Maria Laura Barros,False
+411,2025-10-11,Desobediência,Laboriosam dolorem aspernatur beatae.,Aguardando Validação,Noah Pinto,Alícia Andrade,False
+412,2025-02-08,Estelionato,Facere consequatur vel quis.,Registrado,Luiz Miguel Melo,Eloá da Costa,False
+413,2025-06-16,Homicídio,Laborum maiores praesentium sequi ea voluptate consectetur consequatur.,Complementado,Dra. Ana Júlia da Costa,Lucas Nogueira,False
+414,2025-04-22,Homicídio,Nostrum a ipsum cum repudiandae animi fugit.,Em Análise,Gustavo Henrique Duarte,Srta. Rebeca Costela,False
+415,2025-06-07,Estelionato,Pariatur tempora similique.,Cancelado,Olívia Albuquerque,Vitor Abreu,False
+416,2025-03-26,Acidente de Trânsito,Porro adipisci modi optio.,Em Investigação,Rhavi Brito,Pedro Lucas Fernandes,False
+417,2025-04-14,Porte Ilegal de Arma,Excepturi culpa tempora suscipit numquam nisi magnam.,Suspenso,João Gabriel Vargas,Dr. Arthur Silva,False
+418,2025-05-19,Violação de Medida Protetiva,Harum vitae odit quae numquam hic at.,Em Investigação,Gael Moraes,Diego Camargo,False
+419,2025-01-14,Acidente de Trânsito,Quaerat error neque.,Arquivado,Sra. Cecília Sousa,Luara Ribeiro,False
+420,2025-06-15,Roubo,Hic ullam eos asperiores nisi.,Registrado,Luna Correia,Bernardo Mendonça,False
+421,2025-05-19,Perturbação do Sossego/Tranquilidade,Veritatis odio tenetur fuga tempora optio a.,Encaminhado,Antônio Novaes,Erick Sales,False
+422,2025-07-19,Tráfico de Drogas,Necessitatibus illo cumque ea deleniti asperiores a similique.,Complementado,Kamilly Oliveira,Kaique Almeida,False
+423,2025-09-10,Lesão Corporal,Tenetur enim officiis quae ipsam.,Cancelado,Caroline Araújo,Dr. Yago Siqueira,False
+424,2025-08-09,Danos Materiais,Itaque voluptates modi fuga.,Em Análise,Lucas Pinto,Maria Sophia Carvalho,False
+425,2025-06-28,Receptação,Quaerat veniam deleniti totam eaque alias officiis odit.,Aguardando Validação,Melissa Lopes,Daniel Gomes,False
+426,2025-08-11,Encontro de Pessoa,Dolor dignissimos illo voluptatum quod eaque voluptas facere.,Concluído,Srta. Olívia Gomes,Murilo Montenegro,False
+427,2025-09-01,Roubo,Consequuntur reiciendis corrupti totam fugit facere aspernatur.,Concluído,Bella Cassiano,Eduarda da Rosa,False
+428,2025-04-28,Tráfico de Drogas,Accusantium fuga perspiciatis enim sequi exercitationem.,Cancelado,Henry Gabriel Martins,Dra. Maria Sophia Dias,False
+429,2025-09-03,Perturbação do Sossego/Tranquilidade,Alias laborum cumque expedita incidunt sint.,Em Análise,Rael Silva,Maria Luísa Mendes,False
+430,2025-07-18,Furto,Laudantium quia optio voluptate vel.,Complementado,Ísis Correia,Alana Monteiro,False
+431,2025-09-13,Posse de Drogas,Reiciendis quo rem dicta sed nam.,Registrado,Isabelly das Neves,Isadora Santos,False
+432,2025-07-21,Maus-tratos a Animais,Eum quas totam.,Reaberto,Pedro Miguel Siqueira,Gustavo Henrique Cassiano,False
+433,2025-02-17,Difamação,Error asperiores est consectetur.,Reaberto,Alana Lima,Juan Melo,False
+434,2025-02-27,Tráfico de Drogas,Omnis tempore atque asperiores.,Cancelado,Alana Aragão,Valentina Cavalcante,False
+435,2025-09-14,Crime Cibernético,Libero quae expedita sunt ut.,Cancelado,Kaique Cavalcante,Thiago Costa,False
+436,2025-03-14,Embriaguez ao Volante,Consectetur quidem reprehenderit eum excepturi.,Aguardando Validação,Maria Fernanda Cavalcante,Vitor Hugo Duarte,False
+437,2025-01-03,Lesão Corporal,Laborum facere molestias autem nisi vitae.,Concluído,Srta. Isabel da Cunha,Paulo Pires,False
+438,2025-07-29,Posse de Drogas,Quibusdam aliquam maxime blanditiis architecto.,Em Investigação,Nicole Sampaio,Juan Carvalho,False
+439,2025-07-21,Roubo,Culpa nam non incidunt similique rerum.,Reaberto,Gabriel Vargas,Igor Cunha,False
+440,2025-04-06,Embriaguez ao Volante,Expedita provident sunt non.,Concluído,Srta. Maria Liz Viana,Sabrina Novais,False
+441,2025-04-27,Receptação,Saepe quod minus pariatur praesentium illum.,Reaberto,Amanda Nascimento,André Peixoto,False
+442,2025-02-05,Estelionato,Impedit voluptatem at asperiores magni animi fugit.,Complementado,Ana Julia Cirino,Léo Cirino,False
+443,2025-01-30,Posse de Drogas,Deserunt debitis impedit et ipsum magni.,Suspenso,Srta. Alana Vasconcelos,Lara Cunha,False
+444,2025-01-15,Estelionato,Iste aspernatur quia id ratione alias.,Concluído,Dr. Luiz Otávio Carvalho,Breno Barros,False
+445,2025-03-14,Fraude,Cupiditate nisi esse consequuntur facilis adipisci quisquam.,Reaberto,Manuella Sá,Srta. Gabrielly Sá,False
+446,2025-01-15,Violação de Medida Protetiva,Omnis blanditiis dolor magnam quia quam.,Cancelado,Dr. Arthur Gabriel Cavalcanti,Ana Beatriz Sá,False
+447,2025-03-15,Tentativa de Suicídio,Mollitia quibusdam eveniet animi enim tenetur.,Em Investigação,Sr. Levi Sousa,Maria Clara Cassiano,False
+448,2025-08-31,Ameaça,Quasi ullam commodi sint ab.,Suspenso,Elisa Andrade,José Miguel Albuquerque,False
+449,2025-06-30,Embriaguez ao Volante,Vitae omnis placeat.,Complementado,Pedro Lucas Mendonça,Maria Laura Nascimento,False
+450,2025-07-18,Desobediência,Nobis beatae adipisci porro cum consequatur odio.,Complementado,Maria Julia Fogaça,Anthony Gabriel Rocha,False
+451,2025-03-26,Posse de Drogas,Quas voluptates officia.,Complementado,Cecília da Costa,Ana Laura Novais,False
+452,2025-04-25,Encontro de Pessoa,Sequi quidem praesentium adipisci nulla.,Encaminhado,Dra. Rebeca Rezende,Zoe Fernandes,False
+453,2025-08-16,Calúnia,Sunt commodi aperiam cupiditate.,Suspenso,Raul Viana,Luara Carvalho,False
+454,2025-04-07,Tentativa de Suicídio,Alias qui et eum commodi.,Reaberto,Maria Fernanda da Rocha,Francisco da Costa,False
+455,2025-05-19,Posse de Drogas,Provident porro quasi quis vel voluptatibus eos.,Reaberto,Yan Fogaça,Cauê Marques,False
+456,2025-09-13,Embriaguez ao Volante,Cupiditate ut quo incidunt distinctio.,Concluído,Srta. Larissa Fonseca,Isaque da Conceição,False
+457,2025-04-15,Violência Doméstica,Aperiam placeat voluptate rerum sapiente incidunt blanditiis.,Encaminhado,Benício Moura,Bruna Cavalcanti,False
+458,2025-06-19,Posse de Drogas,Odit in quidem deserunt.,Cancelado,Olivia Mendonça,Dr. Davi da Mata,False
+459,2025-10-11,Crime Cibernético,Assumenda ducimus ratione eveniet.,Encaminhado,Evelyn da Rosa,Dr. Matheus Cavalcanti,False
+460,2025-06-17,Porte Ilegal de Arma,Libero dolor quo maxime enim beatae.,Arquivado,Maria Clara Cavalcante,Stella Pimenta,False
+461,2025-07-06,Encontro de Pessoa,Fuga rem excepturi sunt rem.,Registrado,Lucas Mendes,Pietro Alves,False
+462,2025-06-22,Perturbação do Sossego/Tranquilidade,Consectetur explicabo veniam excepturi quasi tenetur alias.,Reaberto,Bernardo Duarte,Dr. Marcos Vinicius Sales,False
+463,2025-02-14,Encontro de Pessoa,Nobis dolores sequi dicta reiciendis fuga.,Registrado,Ana Cecília Fogaça,Liam Pereira,False
+464,2025-08-23,Fraude,Animi odio culpa expedita.,Registrado,Srta. Isis Moraes,Dr. Thiago Alves,False
+465,2025-07-12,Acidente de Trânsito,Incidunt perspiciatis porro dolorum sapiente est quis.,Cancelado,Miguel Moraes,Aurora Mendonça,False
+466,2025-01-04,Lesão Corporal,Itaque harum nostrum maiores nam voluptatem.,Em Análise,Kaique Gonçalves,Olivia Ferreira,False
+467,2025-05-28,Violência Doméstica,Minima laudantium voluptatibus similique.,Cancelado,João Gabriel Lopes,Sr. Arthur Gabriel Sá,False
+468,2025-08-04,Acidente de Trânsito,Fugiat nostrum modi ratione.,Concluído,Sr. Dante Costela,Sr. Luiz Fernando Rocha,False
+469,2025-07-19,Acidente de Trânsito,Quae ipsa fugiat reiciendis perspiciatis.,Suspenso,Srta. Maysa Rodrigues,Enzo Casa Grande,False
+470,2025-07-21,Tráfico de Drogas,Quos recusandae ipsam aut dolores.,Suspenso,Murilo Rezende,Caroline da Paz,False
+471,2025-10-01,Maus-tratos a Animais,Libero eaque id quis repellat facilis.,Aguardando Validação,Luísa da Cruz,Luiz Henrique Nogueira,False
+472,2025-05-12,Violência Doméstica,Modi qui dolor non aperiam corrupti.,Arquivado,Catarina Sousa,João Vitor Mendonça,False
+473,2025-01-26,Perturbação do Sossego/Tranquilidade,Totam atque ipsam reiciendis fugit natus.,Registrado,Valentina Porto,Dr. Thiago Nunes,False
+474,2025-05-05,Violação de Domicílio,Esse dicta praesentium.,Cancelado,Valentina Porto,Isaac Viana,False
+475,2025-07-10,Encontro de Cadáver,Velit impedit rem soluta quisquam facilis nihil.,Cancelado,Ana Laura Alves,Ryan Costela,False
+476,2025-06-17,Posse de Drogas,Ex architecto dolores quo alias aliquam laborum optio.,Concluído,José Aparecida,Maria Clara Freitas,False
+477,2025-09-27,Violação de Medida Protetiva,Sed aperiam quisquam quisquam.,Cancelado,Maria Vitória da Rosa,Pedro Sousa,False
+478,2025-02-07,Crime Cibernético,Adipisci dicta ipsa.,Em Análise,Ana Carolina Cavalcante,Sra. Maria Julia Siqueira,False
+479,2025-02-18,Violação de Domicílio,Rerum est repellendus sequi.,Aguardando Validação,Dra. Julia Cassiano,Fernando Silva,False
+480,2025-08-18,Receptação,Deserunt odio ducimus quidem est quo sequi.,Aguardando Validação,Gustavo Henrique Sá,Dr. Matteo da Paz,False
+481,2025-08-28,Ameaça,Nulla quod repellendus blanditiis esse rem.,Cancelado,Ana Beatriz Barbosa,Apollo Almeida,False
+482,2025-01-01,Difamação,At voluptates dolor quam numquam deleniti hic.,Arquivado,Srta. Alexia Rezende,Hadassa Novais,False
+483,2025-04-17,Crime Cibernético,Delectus aspernatur quam facere cumque laboriosam ducimus.,Registrado,João Gabriel Aragão,Srta. Juliana Cardoso,False
+484,2025-05-25,Tentativa de Suicídio,Reiciendis nulla mollitia pariatur et.,Registrado,Hellena Pimenta,Asafe Gonçalves,False
+485,2025-07-19,Desobediência,Suscipit non aliquid vero occaecati ipsa unde.,Arquivado,Maria Flor da Mata,Isadora Costa,False
+486,2025-10-20,Maus-tratos a Animais,Ad rerum quisquam eum beatae eligendi.,Reaberto,Sr. João da Luz,Srta. Luiza Machado,False
+487,2025-09-19,Crime Cibernético,Blanditiis sapiente distinctio.,Concluído,Sr. Yuri Alves,Dra. Maya Peixoto,False
+488,2025-03-17,Encontro de Cadáver,Explicabo quisquam sed ab.,Arquivado,Guilherme Macedo,Marcelo Moreira,False
+489,2025-08-21,Roubo,Nam repellat illo repudiandae fugit ipsum.,Arquivado,Valentim Mendonça,Srta. Maria Helena Câmara,False
+490,2025-03-29,Homicídio,Consequatur at fugit nemo cupiditate iusto fugiat.,Registrado,Vitor Hugo Ferreira,Brenda da Mota,False
+491,2025-08-16,Injúria,Pariatur atque harum earum cumque eaque ut.,Arquivado,Anthony Correia,Lorenzo Fernandes,False
+492,2025-05-15,Maus-tratos a Animais,Sunt voluptatum velit corporis repellat amet eum.,Cancelado,Luiza Fogaça,Isabella Novaes,False
+493,2025-10-18,Ameaça,Laudantium deleniti est non hic.,Suspenso,Mariane Rocha,Rafaela Azevedo,False
+494,2025-10-09,Desaparecimento de Pessoa,Occaecati voluptate reiciendis.,Aguardando Validação,Arthur Gabriel Andrade,João Miguel Pinto,False
+495,2025-01-05,Homicídio,Rerum voluptatem nisi voluptatum libero.,Concluído,Beatriz Castro,Sra. Maria Júlia Abreu,False
+496,2025-06-26,Porte Ilegal de Arma,Quidem iure tempore quae.,Suspenso,Davi Miguel Lopes,Juan da Cruz,False
+497,2025-03-07,Receptação,Consequuntur cumque maxime nesciunt.,Concluído,Maysa Almeida,Marcos Vinicius Fernandes,False
+498,2025-07-01,Desacato,Suscipit quod non vel exercitationem quod quos debitis.,Cancelado,Dra. Raquel Vargas,Ian Sá,False
+499,2025-05-16,Perturbação do Sossego/Tranquilidade,Numquam cumque nemo voluptates est sed.,Aguardando Validação,Ana Cavalcanti,Srta. Heloisa Novaes,False
+500,2025-02-10,Posse de Drogas,Mollitia alias possimus mollitia suscipit.,Encaminhado,Eduardo Ferreira,Sr. Josué da Mata,False
+501,2025-05-17,Encontro de Cadáver,Dignissimos ducimus ipsa odio ut possimus minima.,Em Análise,Kevin Correia,Srta. Joana Moura,False
+502,2025-01-29,Embriaguez ao Volante,Beatae eos illum ratione.,Suspenso,Isabelly Siqueira,Luiz Felipe da Paz,False
+503,2025-05-10,Violência Doméstica,Quisquam quis perferendis libero dolore labore.,Complementado,Dra. Camila Melo,Helena Aragão,False
+504,2025-02-26,Injúria,Velit ab earum eaque.,Concluído,Isabel Gonçalves,Brayan Pimenta,False
+505,2025-08-24,Tentativa de Suicídio,Cumque consectetur culpa architecto adipisci possimus ut.,Suspenso,Yasmin Pereira,Noah da Rosa,False
+506,2025-06-05,Desobediência,Temporibus velit possimus officiis perspiciatis.,Aguardando Validação,Srta. Clarice Monteiro,Otávio Aparecida,False
+507,2025-01-19,Outros,In voluptates perspiciatis tempora placeat magnam.,Suspenso,Ana Clara Oliveira,Dra. Ana Clara Pires,False
+508,2025-10-05,Embriaguez ao Volante,Repudiandae molestiae tempore illum dolore praesentium odit.,Cancelado,Pedro Lucas Montenegro,Sofia Alves,False
+509,2025-05-12,Desobediência,Atque modi dolore minima vel.,Registrado,Emanuel Farias,Davi Aragão,False
+510,2025-04-08,Outros,Eaque qui aliquid impedit incidunt.,Complementado,Henrique Câmara,Eloá Nascimento,False
+511,2025-06-22,Desaparecimento de Pessoa,Velit perspiciatis quod provident aperiam placeat beatae.,Registrado,Daniel Duarte,Dra. Evelyn Abreu,False
+512,2025-03-16,Desacato,Nobis eveniet accusamus ea doloremque accusamus.,Em Análise,Maria Liz Novais,Arthur Gabriel Pires,False
+513,2025-09-16,Maus-tratos a Animais,Enim exercitationem laboriosam dolorum.,Em Análise,Maria Clara Machado,Juliana Abreu,False
+514,2025-03-17,Violação de Domicílio,Dolorem quo autem cupiditate aut nihil enim.,Suspenso,Sabrina Oliveira,Stella Albuquerque,False
+515,2025-10-19,Encontro de Pessoa,Natus quidem ratione veniam tempora eum.,Cancelado,Dr. Mateus Albuquerque,Rhavi Castro,False
+516,2025-08-25,Lesão Corporal,Quo laboriosam et perferendis.,Cancelado,Carolina Siqueira,Brayan Borges,False
+517,2025-02-25,Estelionato,Laboriosam impedit velit blanditiis.,Em Análise,Bella Pimenta,Alícia Martins,False
+518,2025-05-14,Tráfico de Drogas,Nam modi nulla sed occaecati.,Concluído,Dra. Isabelly Peixoto,Maria Cecília Mendonça,False
+519,2025-04-30,Desobediência,Facere porro voluptate temporibus laudantium deserunt.,Complementado,Rebeca Cassiano,Ana Pereira,False
+520,2025-03-17,Outros,Tempora laboriosam magnam porro aut totam.,Arquivado,Henry das Neves,Breno Carvalho,False
+521,2025-06-02,Difamação,Enim nam eveniet qui corrupti sequi.,Em Investigação,Sophie Lopes,Heitor Cunha,False
+522,2025-09-06,Difamação,Similique laboriosam deserunt tempora quos magni.,Reaberto,Elisa Cavalcanti,Théo Cunha,False
+523,2025-07-08,Fraude,Quos dolor quod dolorum debitis.,Aguardando Validação,Eduarda Gonçalves,Sr. João Borges,False
+524,2025-02-11,Fraude,Distinctio molestiae recusandae.,Em Análise,Kaique Farias,Eduarda Azevedo,False
+525,2025-02-08,Acidente de Trânsito,Nam delectus optio cumque itaque hic.,Registrado,Isaque Novaes,Srta. Bruna Monteiro,False
+526,2025-04-24,Difamação,Odio alias suscipit soluta ad quia.,Concluído,Luiz Felipe Castro,Emanuel Mendonça,False
+527,2025-07-22,Crime Cibernético,Deserunt natus nemo sit harum nam eius.,Arquivado,Enzo Gabriel Casa Grande,Gabriel da Cunha,False
+528,2025-01-13,Homicídio,Ullam harum magnam a reprehenderit.,Suspenso,Ian da Cruz,Bruno Macedo,False
+529,2025-05-02,Calúnia,Nemo iure rem enim totam a.,Concluído,Rodrigo Azevedo,Gael Rocha,False
+530,2025-03-14,Desobediência,Repellendus assumenda sint laborum occaecati recusandae cum.,Concluído,Yan da Conceição,Emanuelly Azevedo,False
+531,2025-09-05,Perturbação do Sossego/Tranquilidade,Aspernatur aut nulla reprehenderit possimus magni.,Cancelado,Bento Araújo,Dra. Isis Guerra,False
+532,2025-09-19,Desaparecimento de Pessoa,Non minus deserunt.,Encaminhado,Julia Montenegro,Rhavi Lopes,False
+533,2025-06-13,Posse de Drogas,Accusantium laborum quia praesentium harum illo tenetur atque.,Suspenso,Sr. Benjamim Duarte,Amanda Freitas,False
+534,2025-04-23,Ameaça,Rem sed minima quos.,Em Investigação,Sr. João da Costa,Guilherme Castro,False
+535,2025-02-24,Encontro de Cadáver,Quia eius aspernatur doloremque dolor necessitatibus.,Em Análise,Marcelo Santos,João Vitor Souza,False
+536,2025-04-21,Crime Cibernético,Sunt repellat alias qui deleniti.,Aguardando Validação,Luiz Miguel Siqueira,Anthony Gabriel Dias,False
+537,2025-07-25,Desaparecimento de Pessoa,Ratione eaque numquam asperiores aperiam.,Registrado,Lucas Gabriel Melo,Rhavi Sousa,False
+538,2025-05-24,Violação de Domicílio,Impedit voluptates earum nam.,Reaberto,Dra. Mariana da Cruz,Guilherme Rios,False
+539,2025-07-20,Furto,Cupiditate esse beatae ratione quo officiis.,Registrado,Alícia Abreu,Antony Cunha,False
+540,2025-06-26,Outros,Velit odio consequuntur at.,Suspenso,Emanuelly Melo,Bryan Machado,False
+541,2025-07-30,Encontro de Cadáver,Ullam laborum autem maxime.,Encaminhado,Lívia Peixoto,Diogo Santos,False
+542,2025-10-06,Violência Doméstica,Molestiae laboriosam nulla doloremque laborum.,Concluído,Dr. Gustavo Henrique Novais,Lucca Alves,False
+543,2025-07-08,Violação de Domicílio,Sequi veritatis ullam rerum incidunt.,Complementado,Joaquim Mendes,Clarice Nogueira,False
+544,2025-04-21,Danos Materiais,In dicta recusandae eius esse quas.,Arquivado,André Souza,Pietro Andrade,False
+545,2025-04-17,Lesão Corporal,Qui porro magnam placeat illum modi vero.,Concluído,Vinicius da Luz,Augusto Vargas,False
+546,2025-03-10,Receptação,Tempore aut distinctio consectetur eveniet non earum alias.,Complementado,Evelyn da Paz,Caleb Almeida,False
+547,2025-05-23,Outros,Consequuntur ullam ad corrupti explicabo facere iure perspiciatis.,Aguardando Validação,Enzo Gabriel Gomes,Leandro Casa Grande,False
+548,2025-06-14,Encontro de Pessoa,Nesciunt asperiores fuga vitae ut sit perspiciatis.,Complementado,Isis Castro,Cecilia Silveira,False
+549,2025-06-26,Violação de Domicílio,Voluptas neque fugit libero facilis.,Registrado,Nicole Carvalho,Aurora Câmara,False
+550,2025-04-25,Violação de Medida Protetiva,Perferendis veritatis numquam veniam nesciunt quo corrupti.,Em Investigação,Enzo Gabriel Aparecida,Sra. Maria Clara Mendonça,False
+551,2025-08-28,Violência Doméstica,Enim minus debitis id quos consectetur.,Encaminhado,Ana Castro,Yan Martins,False
+552,2025-07-08,Difamação,At sapiente quas.,Registrado,Ana Vitória da Paz,Davi Moura,False
+553,2025-01-03,Tentativa de Suicídio,Et reprehenderit deserunt eos.,Concluído,Srta. Isabel Cassiano,Sr. Marcelo da Costa,False
+554,2025-01-17,Fraude,Dignissimos architecto vel autem reiciendis rem eaque.,Concluído,Sra. Júlia Campos,Kamilly Castro,False
+555,2025-07-16,Desacato,Aliquid accusamus aliquam voluptatibus quibusdam error officiis quaerat.,Encaminhado,Srta. Ana Carolina Peixoto,Sra. Fernanda Macedo,False
+556,2025-06-25,Desobediência,Nostrum repellendus dolorem perferendis laborum.,Em Análise,Paulo Caldeira,Srta. Gabriela da Cunha,False
+557,2025-03-25,Tentativa de Suicídio,Praesentium recusandae dolores suscipit ratione.,Aguardando Validação,Catarina Fernandes,Srta. Olívia Dias,False
+558,2025-09-28,Perturbação do Sossego/Tranquilidade,Unde blanditiis quis totam.,Concluído,Kevin Sales,João Guilherme Monteiro,False
+559,2025-03-25,Tentativa de Suicídio,Pariatur commodi vel ipsa.,Encaminhado,Maria Luiza Moraes,Maysa Brito,False
+560,2025-06-16,Tráfico de Drogas,Voluptate quaerat aliquid quisquam explicabo suscipit.,Concluído,Cauã Cardoso,Maria Liz Camargo,False
+561,2025-04-14,Violência Doméstica,Necessitatibus magnam itaque natus quis vitae.,Encaminhado,Gael Henrique da Cunha,Carlos Eduardo Leão,False
+562,2025-10-13,Embriaguez ao Volante,Atque quos minus nesciunt nulla esse omnis.,Em Investigação,Pedro Lucas Rocha,Liz Vieira,False
+563,2025-06-08,Lesão Corporal,Architecto nihil ducimus qui.,Registrado,João Felipe da Rosa,Mariana Sales,False
+564,2025-10-01,Tentativa de Suicídio,Blanditiis quod omnis quia maiores rem nemo.,Registrado,Dr. Joaquim Brito,Dr. Davi Pastor,False
+565,2025-08-22,Receptação,Soluta unde consequatur optio distinctio voluptatem.,Aguardando Validação,Vinicius Novais,Breno Pastor,False
+566,2025-01-24,Receptação,Sapiente modi nesciunt temporibus.,Complementado,Ayla Dias,Lavínia da Cunha,False
+567,2025-09-09,Outros,Cumque magni eum modi magni assumenda alias.,Suspenso,Sr. Pedro Lucas da Mota,Sarah Lopes,False
+568,2025-07-22,Violação de Domicílio,Tempora minima nemo occaecati.,Concluído,Benjamim Sousa,Pedro Henrique Barros,False
+569,2025-08-30,Difamação,Ad hic soluta iure distinctio minus dolor.,Complementado,Sr. Josué Pastor,Alice Rodrigues,False
+570,2025-07-07,Ameaça,Assumenda dicta fugiat maiores deleniti expedita.,Registrado,Valentim Albuquerque,Alícia Alves,False
+571,2025-09-12,Porte Ilegal de Arma,Mollitia perspiciatis nobis corrupti.,Em Investigação,Vitor Hugo Marques,Juliana Marques,False
+572,2025-05-31,Acidente de Trânsito,Dignissimos eligendi temporibus commodi quisquam beatae.,Aguardando Validação,Noah Fogaça,Yuri da Costa,False
+573,2025-09-01,Receptação,Ut consectetur delectus quo.,Aguardando Validação,Davi Lucas Brito,Nicolas Rocha,False
+574,2025-04-28,Acidente de Trânsito,Asperiores quibusdam laudantium quis.,Em Investigação,Ana Carolina Silva,Renan Novaes,False
+575,2025-02-03,Embriaguez ao Volante,Et totam illum quidem ipsum fugit.,Cancelado,Benjamim Pimenta,Evelyn Vargas,False
+576,2025-02-21,Ameaça,Placeat rem ratione error.,Complementado,Ana Cecília Novais,Maria Luiza da Costa,False
+577,2025-08-19,Homicídio,Autem voluptatem nihil.,Arquivado,Srta. Bianca Araújo,Renan da Mata,False
+578,2025-02-19,Fraude,Nobis libero asperiores distinctio reprehenderit animi sit molestias.,Suspenso,Maitê Cirino,Renan Oliveira,False
+579,2025-04-01,Maus-tratos a Animais,Voluptate adipisci officiis error consectetur.,Complementado,Sra. Heloisa Aragão,Sr. Vitor Gabriel Farias,False
+580,2025-01-31,Ameaça,Esse sapiente iste aliquam earum.,Em Investigação,Bruno da Mata,Carolina Ferreira,False
+581,2025-06-29,Desaparecimento de Pessoa,Consequuntur sed corrupti.,Em Investigação,Sra. Alice Garcia,Stephany Cavalcante,False
+582,2025-05-22,Outros,Quidem qui corrupti.,Reaberto,Davi Lucas Casa Grande,Sara Abreu,False
+583,2025-01-23,Outros,Voluptatem quas facere reiciendis.,Cancelado,Enzo Leão,Bryan Nascimento,False
+584,2025-03-13,Posse de Drogas,Perspiciatis illum placeat aliquam.,Complementado,Diogo Rocha,Arthur Rios,False
+585,2025-07-30,Receptação,Sequi quibusdam fuga reprehenderit consequatur praesentium magnam incidunt.,Arquivado,Carolina Caldeira,Sra. Maria Luiza da Cunha,False
+586,2025-05-31,Tráfico de Drogas,Dolores sed necessitatibus ipsam ab voluptatibus eum nisi.,Complementado,Isabella Pinto,João Lucas Fogaça,False
+587,2025-09-20,Outros,Occaecati necessitatibus repudiandae magnam.,Registrado,Sara Costa,Luiz Gustavo Nogueira,False
+588,2025-07-22,Ameaça,Modi tenetur recusandae suscipit eligendi ex.,Registrado,Davi Luiz Aparecida,Théo Barbosa,False
+589,2025-04-15,Injúria,Eveniet beatae saepe enim porro eaque ipsam.,Reaberto,Sarah Macedo,Maria Júlia Castro,False
+590,2025-02-22,Tentativa de Suicídio,Sequi eligendi repudiandae ut ea.,Encaminhado,Eloá Viana,Cauê Vieira,False
+591,2025-08-09,Encontro de Pessoa,Facilis iusto eius in assumenda.,Registrado,Ana Liz Cavalcanti,Ana Cecília Cavalcante,False
+592,2025-01-28,Roubo,Nemo rem cumque repellendus iusto cupiditate.,Em Investigação,Carolina Borges,Vitor Hugo Rodrigues,False
+593,2025-08-27,Desacato,Ratione veniam animi eligendi tenetur.,Concluído,Sra. Gabriela Casa Grande,Emanuelly Novaes,False
+594,2025-01-01,Crime Cibernético,Velit temporibus quibusdam nulla accusamus voluptate libero.,Em Investigação,Jade Leão,Bruno Alves,False
+595,2025-07-12,Dano,Quaerat quod laudantium modi explicabo.,Encaminhado,Ana Laura Abreu,Pietro Pacheco,False
+596,2025-07-12,Posse de Drogas,Aliquid quas necessitatibus nulla iste laborum quos libero.,Suspenso,Maysa da Paz,Sr. João Vitor Sousa,False
+597,2025-10-21,Desobediência,Veritatis architecto odit atque eligendi iure.,Em Investigação,Sr. Otávio da Cunha,Matheus da Cruz,False
+598,2025-06-20,Posse de Drogas,Odio error eveniet suscipit a.,Aguardando Validação,Erick Machado,Manuella Rodrigues,False
+599,2025-03-29,Tráfico de Drogas,Ratione illo esse.,Reaberto,Srta. Maria Fernanda da Mota,Diogo Siqueira,False
+600,2025-09-06,Violação de Medida Protetiva,Fuga deleniti unde nemo quo.,Arquivado,Gael Rezende,Lunna Fonseca,False
+601,2025-07-05,Encontro de Pessoa,Dolorum nulla deleniti dignissimos repellat placeat.,Suspenso,Sabrina Barbosa,Maria Liz Farias,False
+602,2025-07-04,Receptação,Perferendis iusto aperiam veniam debitis.,Complementado,Miguel Mendes,Maya Farias,False
+603,2025-03-22,Ameaça,Aut eos voluptas temporibus debitis sunt.,Complementado,Danilo Leão,Oliver Vargas,False
+604,2025-09-12,Tráfico de Drogas,Neque cumque numquam reprehenderit repellat laboriosam.,Registrado,Pietra Rodrigues,Thiago da Cruz,False
+605,2025-05-07,Receptação,A voluptatem blanditiis vitae.,Concluído,Arthur Gabriel da Cunha,Ana Luiza Santos,False
+606,2025-02-16,Encontro de Cadáver,A nostrum quasi maiores deleniti illum.,Cancelado,Sra. Yasmin Câmara,Emanuelly Barros,False
+607,2025-09-29,Receptação,Quod natus doloremque nihil nihil.,Concluído,Ana Julia Moura,Ana Carolina Sales,False
+608,2025-04-20,Posse de Drogas,Repellat iusto hic rerum officia.,Aguardando Validação,Kamilly Fogaça,Bruno Nascimento,False
+609,2025-04-27,Violação de Domicílio,Magnam veniam distinctio error sint.,Arquivado,Manuella Macedo,Ana Luiza Aragão,False
+610,2025-03-14,Tentativa de Suicídio,Perspiciatis nihil expedita numquam maxime accusamus.,Reaberto,Gustavo Henrique Caldeira,Luna Castro,False
+611,2025-09-10,Crime Cibernético,Natus suscipit voluptatibus praesentium id dolor.,Registrado,Marina Pires,Maysa Farias,False
+612,2025-09-15,Fraude,Reiciendis unde rem.,Registrado,Srta. Ana Carolina Casa Grande,Maria Luísa Rezende,False
+613,2025-09-11,Receptação,Delectus officia fugit eveniet ab nam libero.,Reaberto,Cauê Lopes,Sra. Catarina Albuquerque,False
+614,2025-05-06,Tentativa de Suicídio,Libero expedita et dolor repudiandae.,Complementado,Luigi Pastor,Isis Peixoto,False
+615,2025-06-14,Embriaguez ao Volante,Nemo sint error possimus est.,Suspenso,Rafael Nogueira,Enrico Andrade,False
+616,2025-06-27,Tráfico de Drogas,Minima illum ea sit adipisci.,Arquivado,Vinícius Silva,Ágatha das Neves,False
+617,2025-02-16,Desacato,Repellat suscipit dolorem.,Em Análise,Dra. Maria Júlia Ferreira,Sra. Gabrielly Souza,False
+618,2025-02-22,Violação de Medida Protetiva,Provident beatae quod voluptatum qui amet.,Encaminhado,Melissa Cardoso,Sra. Clara Martins,False
+619,2025-01-30,Outros,Occaecati necessitatibus dolorum esse similique.,Reaberto,Bruno Oliveira,Srta. Ísis Monteiro,False
+620,2025-01-11,Furto,Delectus impedit et et facilis pariatur.,Aguardando Validação,Dra. Júlia Borges,Sr. Breno Sales,False
+621,2025-04-11,Furto,Aliquid hic atque.,Concluído,Dra. Ana Clara Sá,Larissa da Mota,False
+622,2025-04-13,Violência Doméstica,Earum amet sequi veniam praesentium occaecati voluptatum.,Reaberto,Maria Flor Nogueira,Cecília Barros,False
+623,2025-05-11,Difamação,Sed laboriosam nesciunt officia corrupti recusandae fugit id.,Complementado,Diogo Mendonça,Pedro Lucas Vasconcelos,False
+624,2025-09-26,Fraude,Ad delectus error.,Em Análise,Maria Sophia Araújo,Gael Henrique Moraes,False
+625,2025-05-02,Crime Cibernético,Velit eveniet numquam placeat sint.,Em Investigação,João Lucas da Costa,Ana Carolina Lopes,False
+626,2025-07-26,Tentativa de Suicídio,Iure reprehenderit facere reprehenderit perspiciatis quae repellat molestias.,Encaminhado,Gustavo Henrique Azevedo,Eloah Duarte,False
+627,2025-04-30,Estelionato,Iusto temporibus earum quidem corrupti.,Concluído,Ryan Nunes,Bella da Luz,False
+628,2025-01-05,Difamação,Ad facere perspiciatis quas rerum similique maxime velit.,Encaminhado,Mariah Fernandes,Yuri Mendonça,False
+629,2025-09-12,Posse de Drogas,Nisi nam atque sed nam at assumenda.,Arquivado,Maysa Cassiano,Sra. Aylla Cassiano,False
+630,2025-04-19,Calúnia,Magni ratione rerum vitae ipsa.,Encaminhado,Srta. Valentina Souza,Luiz Felipe Silveira,False
+631,2025-06-27,Roubo,Excepturi vero consequuntur cupiditate.,Suspenso,Fernando Monteiro,Asafe Souza,False
+632,2025-02-09,Encontro de Pessoa,Aperiam provident quis neque.,Encaminhado,Thomas Jesus,Lara Costela,False
+633,2025-05-15,Estelionato,Voluptates nam voluptatum recusandae officiis.,Em Investigação,Sr. Arthur Miguel da Luz,Ísis Moraes,False
+634,2025-01-13,Encontro de Cadáver,Aperiam perspiciatis assumenda nostrum perferendis temporibus voluptatem.,Em Investigação,Pedro das Neves,Antony da Conceição,False
+635,2025-08-01,Receptação,Adipisci id velit nesciunt laboriosam illo ab.,Encaminhado,Isis Cirino,Carolina Sá,False
+636,2025-07-14,Desaparecimento de Pessoa,Non repellat velit velit maiores incidunt adipisci adipisci.,Suspenso,Maria Flor Pacheco,Srta. Sarah Guerra,False
+637,2025-10-13,Posse de Drogas,Deleniti dolore impedit deserunt pariatur.,Em Investigação,Sabrina Porto,Guilherme Novaes,False
+638,2025-10-16,Encontro de Pessoa,Iure recusandae fugit ea cupiditate quasi nihil temporibus.,Concluído,Amanda Garcia,Aurora Novais,False
+639,2025-06-25,Posse de Drogas,Nostrum explicabo ipsa cum quae iusto.,Cancelado,Mathias Sampaio,Emanuelly da Rosa,False
+640,2025-07-17,Porte Ilegal de Arma,Numquam quasi laudantium molestiae repellat.,Suspenso,Pedro Lucas Castro,Camila Pastor,False
+641,2025-05-10,Calúnia,Laborum quidem numquam officiis pariatur.,Reaberto,Renan da Conceição,Maria Isis Barros,False
+642,2025-06-21,Desobediência,Eos quam nostrum nam mollitia.,Em Investigação,Theodoro da Cruz,Dr. Paulo Cunha,False
+643,2025-07-22,Injúria,Optio minus reiciendis libero magni culpa.,Em Investigação,Sra. Maitê Caldeira,Sara Nascimento,False
+644,2025-10-20,Encontro de Pessoa,Adipisci deleniti assumenda commodi ex.,Encaminhado,Rhavi Rocha,Brenda Monteiro,False
+645,2025-10-06,Roubo,Fugiat mollitia vero debitis impedit ea.,Em Análise,Enzo Gabriel Camargo,Ana Beatriz Castro,False
+646,2025-03-02,Violência Doméstica,Deserunt deserunt assumenda voluptas.,Concluído,Isadora Barbosa,Bruno Rodrigues,False
+647,2025-10-05,Perturbação do Sossego/Tranquilidade,Repellat possimus praesentium eaque.,Reaberto,Dra. Ana Julia Cavalcante,Sra. Maria Eduarda Lima,False
+648,2025-03-11,Desaparecimento de Pessoa,Atque at provident placeat.,Registrado,Hadassa Borges,Murilo Pinto,False
+649,2025-04-22,Acidente de Trânsito,Itaque nulla sapiente non.,Concluído,Dr. Joaquim Farias,Joana Siqueira,False
+650,2025-08-10,Violação de Domicílio,Id ad facilis vitae.,Reaberto,Vinicius Lopes,Agatha da Cruz,False
+651,2025-08-23,Perturbação do Sossego/Tranquilidade,Ut voluptates ipsa dolorem dolorem.,Encaminhado,Gabriel Porto,Laura Silveira,False
+652,2025-03-07,Embriaguez ao Volante,Minus exercitationem accusamus nostrum molestiae.,Reaberto,Lorenzo Montenegro,Letícia Pinto,False
+653,2025-05-28,Injúria,Nisi molestiae architecto labore voluptates quos.,Reaberto,Maria Júlia Albuquerque,Arthur Miguel Sampaio,False
+654,2025-08-16,Violação de Medida Protetiva,Omnis repellendus rerum vero quam.,Suspenso,Sophie Araújo,Maria Helena Machado,False
+655,2025-04-14,Perturbação do Sossego/Tranquilidade,Ex nihil consequatur voluptatibus harum dolorem.,Suspenso,Yasmin Aragão,Bento Moraes,False
+656,2025-09-12,Tentativa de Suicídio,Eius alias maiores saepe molestias minima.,Cancelado,Levi Costela,Yuri Jesus,False
+657,2025-06-14,Porte Ilegal de Arma,Consequuntur nostrum reiciendis.,Registrado,Júlia Porto,Pietra Gomes,False
+658,2025-04-01,Desaparecimento de Pessoa,Reiciendis consectetur illum laboriosam nihil excepturi amet.,Em Análise,Vinícius Aragão,Beatriz Dias,False
+659,2025-10-10,Dano,Odio id suscipit tenetur.,Encaminhado,Gael Henrique Caldeira,Dra. Maria Sophia Fonseca,False
+660,2025-03-06,Estelionato,Eius expedita eius repellendus reprehenderit dolorem amet velit.,Aguardando Validação,Maria Alice Leão,Olívia Dias,False
+661,2025-10-18,Roubo,Nisi natus est quos rerum corrupti.,Em Análise,Gustavo Henrique Costa,Thomas Gonçalves,False
+662,2025-08-30,Outros,Sint est eius quam ipsum placeat quas.,Reaberto,Ana Cecília Moura,Diogo Carvalho,False
+663,2025-03-11,Desobediência,Culpa saepe laboriosam itaque nam.,Registrado,Antonella Azevedo,Milena Martins,False
+664,2025-08-02,Injúria,Porro quam corrupti fugit sunt odit.,Suspenso,Samuel Guerra,Gabriela Gonçalves,False
+665,2025-08-23,Maus-tratos a Animais,Aliquid magnam molestiae totam ut consequuntur occaecati voluptatum.,Aguardando Validação,Ravy Pimenta,Larissa Fogaça,False
+666,2025-05-09,Tentativa de Suicídio,Minus asperiores reprehenderit atque sapiente itaque.,Encaminhado,Sr. João Pedro Cavalcanti,Maria da Paz,False
+667,2025-05-15,Perturbação do Sossego/Tranquilidade,Quod doloremque aut rerum.,Aguardando Validação,Diogo Silva,Ísis Jesus,False
+668,2025-08-05,Perturbação do Sossego/Tranquilidade,Voluptate quis vitae dolores quo.,Aguardando Validação,Camila Teixeira,Srta. Sophia Mendes,False
+669,2025-05-08,Tráfico de Drogas,Amet delectus illo nulla ad.,Reaberto,Maria Alice Farias,Dr. Alexandre Siqueira,False
+670,2025-08-22,Posse de Drogas,Ratione amet numquam libero nobis quo quidem inventore.,Em Análise,Sr. Gustavo Henrique Ferreira,Ryan da Conceição,False
+671,2025-05-14,Danos Materiais,Nobis modi asperiores ut.,Registrado,Antony Rios,Luara Cassiano,False
+672,2025-04-24,Receptação,Molestias adipisci iure vel deserunt recusandae laudantium.,Concluído,Sra. Sara Carvalho,Matheus da Mata,False
+673,2025-04-13,Encontro de Cadáver,Voluptas sed dicta repellat accusantium velit.,Complementado,Sarah Fogaça,Murilo Pereira,False
+674,2025-04-17,Encontro de Cadáver,Quidem sapiente provident accusantium rerum aut libero consectetur.,Suspenso,Mirella da Rosa,Luana da Conceição,False
+675,2025-08-21,Tráfico de Drogas,Molestias ex modi laborum eos.,Concluído,Olivia da Rocha,Jade Rezende,False
+676,2025-10-21,Homicídio,Qui eius quo eius placeat veritatis praesentium.,Cancelado,Gustavo Henrique Vieira,Ana Júlia da Cunha,False
+677,2025-06-30,Danos Materiais,Nihil incidunt iure unde.,Suspenso,Bianca Carvalho,Sra. Júlia Farias,False
+678,2025-01-31,Homicídio,Sunt molestias officia eveniet asperiores fugiat voluptas labore.,Em Investigação,Bella Barros,Maria Júlia Aparecida,False
+679,2025-01-08,Fraude,Beatae autem fugiat a vero quam itaque.,Cancelado,Dra. Maria Sophia Macedo,Dante Araújo,False
+680,2025-07-04,Tráfico de Drogas,Distinctio assumenda fugit laboriosam esse.,Registrado,Yuri da Cruz,Dra. Valentina da Conceição,False
+681,2025-09-30,Porte Ilegal de Arma,Nesciunt quis impedit explicabo.,Arquivado,Josué Martins,Felipe Moura,False
+682,2025-08-18,Receptação,Deserunt ullam magnam maxime pariatur praesentium.,Em Análise,Apollo Freitas,Anthony Sá,False
+683,2025-01-27,Dano,Dolor pariatur porro.,Cancelado,Rafael Rios,Sarah Leão,False
+684,2025-02-10,Furto,Nostrum suscipit distinctio minus vitae eos dolor quisquam.,Concluído,Anna Liz Silveira,Luna Borges,False
+685,2025-03-18,Tráfico de Drogas,Nostrum porro molestias.,Em Investigação,Ana Laura Aragão,Arthur Miguel Machado,False
+686,2025-08-26,Desobediência,Itaque aspernatur omnis nemo optio.,Concluído,Lucca Alves,Dante Guerra,False
+687,2025-04-04,Outros,Vero fugiat amet reprehenderit adipisci.,Complementado,Eloá Novaes,Juan Souza,False
+688,2025-07-17,Violação de Domicílio,Facilis qui qui pariatur blanditiis asperiores.,Concluído,Sra. Ana Beatriz Cirino,Rafael Cavalcante,False
+689,2025-08-30,Ameaça,Totam facere enim debitis illo quia.,Aguardando Validação,Lorenzo Souza,Pietra Guerra,False
+690,2025-06-04,Encontro de Pessoa,Quos numquam saepe est consequatur.,Complementado,Marina Monteiro,Gustavo Moura,False
+691,2025-06-02,Encontro de Cadáver,Alias quod modi adipisci praesentium cumque aperiam.,Em Análise,Leonardo Melo,Caroline Sampaio,False
+692,2025-09-08,Danos Materiais,Officia minima eius ratione nulla nesciunt.,Concluído,Nicolas Araújo,João Vitor Sales,False
+693,2025-10-13,Violação de Domicílio,Nam excepturi a numquam.,Em Análise,Juliana Guerra,Catarina Cavalcante,False
+694,2025-10-06,Porte Ilegal de Arma,Odio quis accusamus porro.,Arquivado,Maria Clara Machado,Srta. Isis Nascimento,False
+695,2025-06-04,Embriaguez ao Volante,Sequi reprehenderit nesciunt quisquam quaerat.,Encaminhado,Sra. Pietra Pires,Caroline Caldeira,False
+696,2025-01-31,Acidente de Trânsito,Totam eveniet aut voluptas nobis eius.,Aguardando Validação,Maria Julia Gomes,Dr. Benjamim Castro,False
+697,2025-06-30,Lesão Corporal,Aspernatur autem voluptate laborum.,Aguardando Validação,Kaique Cavalcante,Aurora Ribeiro,False
+698,2025-04-19,Violação de Domicílio,Corrupti libero velit non.,Cancelado,Luiza Farias,Renan Sampaio,False
+699,2025-06-10,Receptação,Illum quis blanditiis nesciunt animi voluptates aut occaecati.,Em Análise,Lorena Viana,Manuela Ferreira,False
+700,2025-03-22,Roubo,Alias a aperiam architecto et.,Registrado,Lucca Oliveira,Dante da Paz,False
+701,2025-06-20,Tentativa de Suicídio,Consectetur perspiciatis consectetur repellat aperiam voluptatum reiciendis officia.,Complementado,Liam Moreira,Nina Jesus,False
+702,2025-05-02,Dano,Voluptatem quidem repellendus aliquid nisi.,Cancelado,Gabrielly Moura,Thales da Rocha,False
+703,2025-09-12,Roubo,Veniam suscipit facere quidem omnis soluta.,Cancelado,Dr. Benício Sousa,Joana Cavalcante,False
+704,2025-10-08,Encontro de Pessoa,Voluptatem inventore animi.,Aguardando Validação,Luana Mendonça,Juliana Aparecida,False
+705,2025-01-06,Ameaça,Voluptas vero sint corrupti ratione reprehenderit.,Arquivado,Maya Barbosa,Bárbara Porto,False
+706,2025-05-28,Injúria,Sed ratione minima repellendus odio quis quasi.,Em Investigação,Valentina Pastor,Noah Freitas,False
+707,2025-02-01,Encontro de Cadáver,In aliquam non soluta repellendus consectetur qui temporibus.,Registrado,Maria Laura Siqueira,José Brito,False
+708,2025-08-13,Dano,Harum nihil inventore similique.,Em Investigação,Sra. Melissa Câmara,Marcos Vinicius Dias,False
+709,2025-09-23,Receptação,Nam adipisci quod labore.,Encaminhado,Davi Ferreira,Giovanna da Mata,False
+710,2025-09-09,Fraude,Accusamus impedit dolorem facilis laboriosam repudiandae rerum.,Arquivado,Manuela Lopes,Isabelly Caldeira,False
+711,2025-02-27,Perturbação do Sossego/Tranquilidade,Quae commodi labore temporibus sint quos.,Registrado,Calebe Fonseca,Fernanda Borges,False
+712,2025-03-18,Ameaça,Delectus quasi quibusdam reprehenderit minus aut quaerat.,Reaberto,Sr. Vinícius Farias,Maria Sophia Nunes,False
+713,2025-04-30,Crime Cibernético,Totam recusandae illo veritatis minima animi.,Em Investigação,Eloah Moreira,Srta. Luana Rocha,False
+714,2025-04-22,Lesão Corporal,Magnam dolor sunt quod architecto.,Registrado,Dr. Henry Gabriel Sá,Isaac Macedo,False
+715,2025-07-16,Encontro de Pessoa,Perferendis porro dolorum dolor itaque quasi.,Encaminhado,Sra. Manuela Fernandes,Ester Vieira,False
+716,2025-08-10,Porte Ilegal de Arma,Maxime repudiandae atque quia.,Em Análise,Yuri Sales,Luara Barros,False
+717,2025-06-23,Injúria,Labore sapiente corrupti voluptas corporis quos ut.,Aguardando Validação,Catarina Leão,Rhavi Araújo,False
+718,2025-07-10,Estelionato,Non officiis officiis a modi modi tempore.,Em Análise,Vicente Freitas,Helena Ribeiro,False
+719,2025-08-19,Receptação,Amet inventore quas assumenda.,Em Investigação,Luísa Albuquerque,Bento Barbosa,False
+720,2025-02-03,Tentativa de Suicídio,Quasi illo ab numquam repellendus eos consequuntur.,Registrado,Mariane Carvalho,Emanuel Castro,False
+721,2025-09-25,Desobediência,Beatae similique asperiores a odit explicabo explicabo repellat.,Em Investigação,Ísis Borges,Luiz Otávio Fogaça,False
+722,2025-02-14,Violência Doméstica,Molestiae ipsa dolor repellendus inventore.,Reaberto,Gael Pacheco,Luiz Miguel Lima,False
+723,2025-02-18,Ameaça,Recusandae totam architecto fugiat.,Arquivado,Anna Liz Pereira,Gael Lopes,False
+724,2025-03-17,Difamação,Voluptates natus ad quibusdam.,Aguardando Validação,Sra. Ana Carolina Moraes,Davi Lucca Costa,False
+725,2025-08-28,Desaparecimento de Pessoa,Itaque explicabo totam vitae dolore amet possimus error.,Em Análise,Lorena Lima,Sr. Arthur Miguel Ramos,False
+726,2025-10-01,Ameaça,Consectetur molestias recusandae quam nihil quibusdam assumenda cumque.,Em Análise,Arthur da Luz,Beatriz Rocha,False
+727,2025-09-15,Outros,Inventore modi consequatur excepturi non laboriosam dolorem.,Em Investigação,Eloá da Mota,Ayla Sales,False
+728,2025-09-28,Danos Materiais,Provident debitis optio vel eius.,Reaberto,Luara da Costa,Maria Sophia Campos,False
+729,2025-03-18,Desaparecimento de Pessoa,Minus rem cumque deleniti saepe.,Encaminhado,Maria Alice Rocha,Gael Aragão,False
+730,2025-08-20,Dano,Blanditiis ipsa alias.,Cancelado,José Pedro Farias,Sra. Maya Novais,False
+731,2025-04-09,Maus-tratos a Animais,Officiis quae sapiente nisi similique beatae asperiores occaecati.,Encaminhado,Antonella Duarte,Lucas Ribeiro,False
+732,2025-03-20,Injúria,Eaque reprehenderit aut quod repellendus.,Reaberto,Luna Monteiro,Valentim Fogaça,False
+733,2025-10-01,Violência Doméstica,Aperiam harum laudantium.,Cancelado,Isadora Pastor,Mariah Silveira,False
+734,2025-08-10,Violência Doméstica,Aliquam dolor maiores quibusdam fuga molestias.,Arquivado,Dra. Maysa da Cruz,Augusto Moraes,False
+735,2025-05-27,Acidente de Trânsito,Iure nihil reiciendis ea.,Arquivado,Gabriel Câmara,Dra. Joana Nascimento,False
+736,2025-01-20,Acidente de Trânsito,Ad numquam dolorem a.,Registrado,Nina da Rocha,Gabriela Vieira,False
+737,2025-08-14,Danos Materiais,Maiores quod dolores vero.,Cancelado,Sra. Maria Luiza Rios,Miguel Abreu,False
+738,2025-01-31,Estelionato,Nulla asperiores reprehenderit facere voluptas harum soluta.,Concluído,Dr. Enzo Gabriel Alves,Lucca Carvalho,False
+739,2025-08-10,Violência Doméstica,Quod distinctio veritatis temporibus quisquam quam.,Aguardando Validação,Diego Silva,Marcelo Machado,False
+740,2025-07-10,Violação de Medida Protetiva,Sit reiciendis temporibus nobis alias.,Aguardando Validação,Luiz Otávio Pastor,Luna Moreira,False
+741,2025-02-01,Homicídio,Quasi cumque aut magnam neque accusantium.,Arquivado,Anthony Cardoso,Maria Cecília Porto,False
+742,2025-01-26,Dano,Veniam suscipit provident magni necessitatibus maiores facere.,Reaberto,Cauê Aragão,Cecilia Cardoso,False
+743,2025-09-04,Encontro de Pessoa,Unde labore rem earum sequi enim minus.,Reaberto,Ravi Lucca Souza,Dra. Heloísa Gomes,False
+744,2025-09-27,Posse de Drogas,Unde esse beatae.,Em Análise,Sr. Levi Sampaio,Theo Montenegro,False
+745,2025-07-26,Violação de Domicílio,Quasi vel earum beatae modi possimus voluptatem.,Aguardando Validação,Ravi Vieira,Dr. Ravy Aparecida,False
+746,2025-10-19,Perturbação do Sossego/Tranquilidade,Nisi repellendus molestiae itaque ab quo.,Encaminhado,Maria Clara da Mota,Dr. Kevin Ribeiro,False
+747,2025-07-31,Encontro de Cadáver,Dolorem sequi quas deleniti.,Registrado,Bruno Cirino,Maitê Sales,False
+748,2025-02-28,Violação de Domicílio,Dicta quaerat sint exercitationem blanditiis sit explicabo.,Reaberto,Sr. André da Paz,Gustavo Henrique Cassiano,False
+749,2025-05-02,Difamação,Qui perferendis sed repudiandae mollitia sint voluptatibus.,Complementado,Nina Pereira,Sr. Luiz Henrique Ferreira,False
+750,2025-03-09,Acidente de Trânsito,Odit possimus inventore nulla ipsam.,Aguardando Validação,Arthur Viana,Luísa Araújo,False
+751,2025-03-11,Receptação,Facilis fugiat nesciunt laudantium recusandae commodi.,Concluído,Dr. Diogo Ribeiro,Erick Vargas,False
+752,2025-04-01,Difamação,Blanditiis exercitationem tenetur nesciunt ea officia laboriosam dignissimos.,Concluído,Srta. Letícia da Luz,Luara Azevedo,False
+753,2025-09-08,Desaparecimento de Pessoa,Adipisci laudantium corrupti sunt doloribus illo illum.,Complementado,Caio Barros,Sr. Carlos Eduardo Cassiano,False
+754,2025-07-30,Tentativa de Suicídio,Iure vitae recusandae totam pariatur ipsa.,Cancelado,Raul Fogaça,Liz Pacheco,False
+755,2025-10-03,Fraude,Hic repellendus illum nulla velit.,Arquivado,Marcelo Fonseca,Dra. Melina Vieira,False
+756,2025-04-26,Posse de Drogas,Nulla aperiam est expedita quo ullam.,Suspenso,Clara da Rocha,Vinícius da Cunha,False
+757,2025-05-28,Encontro de Pessoa,Quam iure optio fuga blanditiis.,Aguardando Validação,Enzo Gabriel Machado,Vitor Gabriel Sousa,False
+758,2025-03-02,Violação de Medida Protetiva,Ducimus beatae omnis suscipit iste.,Em Investigação,Srta. Emilly Caldeira,Calebe Gomes,False
+759,2025-07-19,Homicídio,Non labore culpa animi ipsa autem iste.,Suspenso,Ana Laura Fogaça,Oliver Cavalcante,False
+760,2025-06-03,Danos Materiais,Necessitatibus earum accusantium ullam debitis.,Complementado,Antonella Porto,Dra. Hadassa Pereira,False
+761,2025-07-28,Roubo,Neque maxime sapiente ullam minus officiis.,Arquivado,Marcelo Duarte,João Gabriel Brito,False
+762,2025-02-02,Posse de Drogas,Iste exercitationem cum nesciunt.,Cancelado,Luiz Otávio Montenegro,Paulo Guerra,False
+763,2025-09-29,Difamação,Molestiae maxime quaerat odit.,Complementado,Vicente Silva,Laura Cassiano,False
+764,2025-04-03,Maus-tratos a Animais,Suscipit blanditiis accusamus harum cum.,Concluído,Sr. Lucca Rios,Maria Sophia Siqueira,False
+765,2025-10-13,Acidente de Trânsito,Eveniet sequi libero quaerat consequatur.,Arquivado,Antônio Borges,Vinicius Guerra,False
+766,2025-01-21,Encontro de Cadáver,Odit accusantium nam deleniti id.,Em Investigação,Catarina Nascimento,Letícia Rios,False
+767,2025-02-12,Desaparecimento de Pessoa,Minus vero esse quaerat esse accusamus maiores.,Complementado,Felipe Novaes,João Pedro Ferreira,False
+768,2025-05-01,Outros,Sunt eaque a deserunt iste.,Registrado,Maria Flor Monteiro,Ana Luiza da Rocha,False
+769,2025-07-14,Crime Cibernético,Impedit a eaque quaerat ipsam occaecati autem.,Arquivado,Daniel Brito,João Gabriel Ferreira,False
+770,2025-06-25,Estelionato,Et quaerat ratione laborum.,Concluído,Maria Luiza Gomes,Isabel Lopes,False
+771,2025-06-18,Lesão Corporal,Cupiditate quaerat consequatur.,Suspenso,Dra. Caroline Castro,Dr. Bryan Cardoso,False
+772,2025-07-07,Maus-tratos a Animais,Tempore laboriosam culpa corporis.,Registrado,Pedro Henrique Costa,Srta. Lara Cunha,False
+773,2025-04-16,Outros,Necessitatibus molestias et excepturi nihil delectus consequuntur.,Aguardando Validação,Aylla Rezende,Pedro Miguel Nunes,False
+774,2025-05-12,Calúnia,Tempora accusantium dolorem cum.,Aguardando Validação,Sr. Miguel Nascimento,Lavínia Freitas,False
+775,2025-02-06,Perturbação do Sossego/Tranquilidade,Amet ullam minus fugiat non.,Aguardando Validação,Lucas Gabriel Duarte,Carolina Peixoto,False
+776,2025-08-31,Calúnia,Doloribus tenetur vitae temporibus illum rem quibusdam repudiandae.,Encaminhado,Vinicius Castro,Ryan da Rocha,False
+777,2025-08-25,Fraude,Illum iste doloremque vero vitae eligendi vel.,Complementado,Lorena Mendes,Thiago Nascimento,False
+778,2025-04-10,Desobediência,Distinctio quidem occaecati cumque velit.,Registrado,Stella Gomes,João Felipe Souza,False
+779,2025-08-10,Danos Materiais,Molestias numquam eos consequuntur provident illum.,Cancelado,Ágatha Azevedo,Mirella Melo,False
+780,2025-08-20,Posse de Drogas,Corporis sed facilis incidunt.,Em Análise,Gael Fogaça,Sra. Maria Helena Nascimento,False
+781,2025-08-24,Difamação,Expedita eius repellendus quae ad.,Complementado,Sabrina Costela,Sophia Rios,False
+782,2025-02-08,Acidente de Trânsito,Quis excepturi iure consequatur id cum.,Registrado,Marina Gomes,Jade Câmara,False
+783,2025-05-30,Encontro de Cadáver,Aspernatur et esse magni facere.,Cancelado,Kevin Macedo,Maria Julia Rodrigues,False
+784,2025-01-11,Violência Doméstica,Quas aut aliquam alias.,Cancelado,João Pedro Azevedo,Luna Pereira,False
+785,2025-01-21,Desaparecimento de Pessoa,Praesentium expedita rem eaque illum a similique.,Concluído,Sra. Sophie da Cunha,Juan Novaes,False
+786,2025-09-20,Perturbação do Sossego/Tranquilidade,Quia assumenda non corporis harum deserunt.,Concluído,Larissa Camargo,Dr. Ian Marques,False
+787,2025-08-24,Desaparecimento de Pessoa,Tenetur quae reiciendis ducimus occaecati.,Arquivado,Davi Luiz Gonçalves,Levi da Rocha,False
+788,2025-08-13,Porte Ilegal de Arma,Accusantium pariatur laudantium voluptates suscipit aspernatur.,Arquivado,Sr. Guilherme Macedo,Joaquim Lima,False
+789,2025-07-29,Furto,Eligendi perspiciatis alias minima id praesentium.,Suspenso,Theo Garcia,Lavínia Nogueira,False
+790,2025-01-30,Fraude,Veritatis nulla earum officiis cupiditate.,Concluído,Emanuel Novais,Otto Costela,False
+791,2025-04-07,Injúria,Ipsam facere distinctio molestiae hic.,Arquivado,Rhavi Montenegro,Dr. Renan Mendes,False
+792,2025-03-19,Violação de Domicílio,Mollitia voluptatibus dolores veritatis.,Arquivado,Dr. Cauã Sampaio,Luiz Miguel Lopes,False
+793,2025-07-22,Desobediência,Soluta officiis laboriosam consectetur facilis sint.,Encaminhado,Pedro Miguel Moraes,Leandro da Cunha,False
+794,2025-03-05,Desacato,Eaque perferendis doloremque.,Encaminhado,Heitor Monteiro,Davi Miguel Pinto,False
+795,2025-05-07,Posse de Drogas,Sunt maiores totam aut odit fugit vel.,Registrado,Diogo Casa Grande,Dra. Elisa Brito,False
+796,2025-07-13,Furto,Commodi odit saepe maiores numquam.,Suspenso,Cauê Casa Grande,Dr. Guilherme Montenegro,False
+797,2025-03-14,Embriaguez ao Volante,Aperiam blanditiis natus minima.,Arquivado,Henry Azevedo,Srta. Luna Nunes,False
+798,2025-04-12,Embriaguez ao Volante,Quia voluptatum assumenda laudantium.,Concluído,Nina Pastor,Gabriela Dias,False
+799,2025-10-03,Maus-tratos a Animais,Possimus fugit nulla quas.,Encaminhado,Gustavo Henrique Jesus,Maria Isis da Mata,False
+800,2025-06-05,Desaparecimento de Pessoa,Veniam repellat debitis pariatur nemo ratione deleniti.,Complementado,Bárbara Rezende,Sophie Fonseca,False
+801,2025-03-04,Encontro de Pessoa,Sunt nihil ratione quo voluptate sunt veniam.,Concluído,Ísis Pimenta,Daniela Moraes,False
+802,2025-07-24,Violação de Medida Protetiva,Ex delectus sequi earum quam perferendis aspernatur.,Em Investigação,Beatriz da Costa,Camila da Cruz,False
+803,2025-01-01,Homicídio,Veritatis tenetur incidunt vero doloremque officiis nihil rem.,Concluído,Ana Vitória Guerra,Augusto Azevedo,False
+804,2025-06-26,Embriaguez ao Volante,Libero possimus aliquam esse magnam nisi eligendi architecto.,Em Investigação,Maria Júlia Porto,Sra. Cecilia Ramos,False
+805,2025-03-13,Receptação,Eveniet ullam voluptatibus dolorum ut.,Reaberto,Manuela da Luz,José da Rosa,False
+806,2025-02-20,Difamação,Corrupti ea similique minus corporis laborum.,Encaminhado,Srta. Gabriela da Mota,Srta. Gabrielly Siqueira,False
+807,2025-02-11,Encontro de Cadáver,Eos error voluptatem fugiat.,Concluído,Manuella da Mata,Agatha Melo,False
+808,2025-05-21,Danos Materiais,Rerum numquam rem ea dolore ratione.,Cancelado,Paulo da Luz,Sr. Rhavi Correia,False
+809,2025-07-31,Difamação,Ea quaerat eveniet illum molestiae nulla cumque.,Complementado,Ana Cecília Lima,Benício Alves,False
+810,2025-01-23,Desobediência,Numquam modi aspernatur molestias provident quidem.,Suspenso,Natália Marques,Fernando Ribeiro,False
+811,2025-01-11,Homicídio,Quas vel ex eaque laboriosam fugiat.,Registrado,Ana Laura Pires,Elisa Gomes,False
+812,2025-06-20,Porte Ilegal de Arma,Sit distinctio tenetur unde quidem beatae non.,Arquivado,Isadora Macedo,Sr. Isaque Martins,False
+813,2025-05-02,Desacato,Aperiam dolorum nostrum cupiditate nobis rerum sunt.,Em Investigação,Benicio Borges,Pedro Miguel Castro,False
+814,2025-04-30,Estelionato,Maxime esse molestias facilis nostrum voluptatibus sed.,Complementado,Sr. Luiz Otávio Fonseca,Letícia Cassiano,False
+815,2025-07-02,Homicídio,Tenetur placeat laudantium aspernatur eius exercitationem distinctio.,Em Investigação,Luiz Miguel Montenegro,Maria Alice Gomes,False
+816,2025-04-15,Encontro de Pessoa,Enim animi ab nostrum labore sapiente minima.,Suspenso,Dr. Yan da Conceição,Natália da Rocha,False
+817,2025-08-23,Estelionato,A dolor adipisci facilis.,Em Análise,Murilo da Rocha,Nicolas Macedo,False
+818,2025-07-31,Fraude,Harum modi omnis velit.,Arquivado,Alexandre Mendonça,Maitê Oliveira,False
+819,2025-07-11,Perturbação do Sossego/Tranquilidade,Nihil doloribus explicabo odit quibusdam qui incidunt eum.,Cancelado,Alícia Guerra,Luiz Otávio Cavalcante,False
+820,2025-01-24,Maus-tratos a Animais,Voluptas eius fugiat earum.,Aguardando Validação,Melissa Silva,Maria Fernanda da Rocha,False
+821,2025-08-27,Maus-tratos a Animais,Id fugit eos error tempore accusantium dolore.,Concluído,Ana Cecília Cardoso,Dr. Nicolas Nascimento,False
+822,2025-04-03,Crime Cibernético,Harum maxime minus occaecati.,Reaberto,Antonella Siqueira,Sophie Melo,False
+823,2025-09-30,Desacato,Nam vitae minus sint voluptas asperiores dolor.,Em Investigação,Diogo Monteiro,Dra. Marina Dias,False
+824,2025-09-14,Furto,Consequatur ipsa illo pariatur.,Em Investigação,Vitor da Rocha,Raul Moura,False
+825,2025-08-31,Desobediência,Natus odio nam.,Em Investigação,Vitor Hugo Araújo,Luiz Felipe Carvalho,False
+826,2025-03-25,Desacato,Eligendi perferendis cumque doloremque doloribus quidem aperiam.,Concluído,Melina da Luz,Laura Cirino,False
+827,2025-09-06,Desobediência,Quos architecto possimus illum.,Concluído,Enzo Gabriel Lopes,Alana das Neves,False
+828,2025-01-06,Desacato,Excepturi dolor blanditiis magnam sapiente eaque.,Reaberto,Dr. Léo Pacheco,Caio Silveira,False
+829,2025-02-22,Posse de Drogas,Voluptates quam consequuntur possimus aliquam.,Concluído,Emilly Duarte,Maria Vitória Rios,False
+830,2025-07-29,Lesão Corporal,Temporibus officiis adipisci ullam distinctio similique consequuntur.,Concluído,Dra. Maria Clara Vieira,Eduarda Rodrigues,False
+831,2025-03-09,Dano,Maiores dolore harum saepe voluptatibus.,Concluído,André Silva,Ayla Costela,False
+832,2025-05-02,Ameaça,Nisi alias deleniti odit.,Reaberto,Melissa da Luz,Miguel Farias,False
+833,2025-06-19,Violação de Medida Protetiva,Fuga eos sunt porro earum.,Arquivado,Vinícius da Rocha,Theodoro Lima,False
+834,2025-02-08,Outros,Ipsa quam est magni.,Arquivado,Hadassa Vasconcelos,Brayan da Cunha,False
+835,2025-02-26,Desacato,Deleniti eligendi quia aliquid architecto aliquid.,Reaberto,Dr. André Cavalcante,Benjamim Leão,False
+836,2025-10-12,Tentativa de Suicídio,Quidem dolorem blanditiis dolorum earum.,Complementado,Benicio Oliveira,Dom Silva,False
+837,2025-01-31,Tentativa de Suicídio,Iste officiis itaque voluptates.,Cancelado,Sophie Andrade,Thales Andrade,False
+838,2025-07-30,Calúnia,Magni accusantium commodi cupiditate.,Em Investigação,Kaique Almeida,Yan Garcia,False
+839,2025-08-20,Roubo,Porro laborum itaque aperiam veniam placeat corporis suscipit.,Em Investigação,Davi Miguel Lima,Maria Vitória Mendes,False
+840,2025-09-24,Desobediência,Nobis voluptatum sequi ut repellendus.,Arquivado,Ana Vitória da Cruz,Sara Farias,False
+841,2025-08-09,Encontro de Pessoa,Dolorem quae assumenda ea cum fuga nobis nemo.,Suspenso,Júlia Rodrigues,Alícia Souza,False
+842,2025-03-06,Acidente de Trânsito,Sint beatae modi pariatur quo repudiandae expedita.,Concluído,Melissa da Mota,Cauã Casa Grande,False
+843,2025-01-06,Desacato,Earum accusamus labore occaecati sed veniam.,Concluído,Henry Gabriel Barros,Luana Vasconcelos,False
+844,2025-08-04,Crime Cibernético,Iusto aperiam iusto dolore veniam.,Complementado,Bento Rodrigues,Ana Luiza Melo,False
+845,2025-07-13,Danos Materiais,Repellendus maiores ipsa quos incidunt similique placeat.,Complementado,Srta. Luísa Barros,Clara Montenegro,False
+846,2025-03-13,Desacato,Odit laudantium magni distinctio hic.,Complementado,Anthony Brito,Mariane Santos,False
+847,2025-03-19,Desacato,Incidunt consequatur quidem.,Complementado,Eloá Carvalho,Maria da Cunha,False
+848,2025-05-13,Violação de Medida Protetiva,Nesciunt eum praesentium nulla delectus officiis iste.,Cancelado,Srta. Giovanna Siqueira,Sabrina Campos,False
+849,2025-03-31,Furto,Sunt cumque provident accusantium at eius magni.,Registrado,Sr. Francisco Pinto,Dante Ferreira,False
+850,2025-05-30,Desacato,Quasi at non.,Em Investigação,Eloah Pires,Sr. André Rocha,False
+851,2025-02-17,Lesão Corporal,Repellat eius corporis distinctio ab quaerat ullam enim.,Suspenso,Pedro Lucas da Luz,Erick Nascimento,False
+852,2025-04-07,Porte Ilegal de Arma,Omnis sit commodi voluptatum in quis ab eius.,Complementado,Dra. Carolina Moreira,Thales Farias,False
+853,2025-02-03,Roubo,Ea deleniti doloribus id sit nesciunt voluptas.,Cancelado,Apollo Moreira,Olivia Andrade,False
+854,2025-09-14,Encontro de Cadáver,Eveniet repudiandae alias dignissimos assumenda quis.,Suspenso,Cauê Oliveira,Laís Castro,False
+855,2025-06-17,Homicídio,Vel ullam voluptatibus laudantium quibusdam excepturi corporis.,Encaminhado,Luiz Gustavo Santos,Alexandre Nogueira,False
+856,2025-07-04,Homicídio,Expedita voluptatum voluptatibus architecto deleniti.,Aguardando Validação,Eloah Mendonça,João Felipe Sales,False
+857,2025-02-19,Posse de Drogas,Doloribus fuga nesciunt incidunt.,Concluído,João Felipe Rodrigues,Luiz Gustavo da Mota,False
+858,2025-02-04,Fraude,Temporibus in dignissimos ex ipsa eum dolorem.,Arquivado,Ana Liz Aragão,Srta. Ana Júlia Moreira,False
+859,2025-06-16,Encontro de Pessoa,Eveniet dicta sapiente ipsum.,Cancelado,Dr. Matteo da Costa,Jade Cirino,False
+860,2025-03-24,Ameaça,Dolorem consequuntur quo voluptas voluptatibus.,Complementado,João Pedro Siqueira,Vicente Castro,False
+861,2025-08-27,Desaparecimento de Pessoa,Voluptas repellat aliquid ratione nesciunt.,Complementado,Bruna Sales,Ana da Cunha,False
+862,2025-10-09,Outros,Omnis ratione facere labore error at voluptatibus.,Concluído,Joana Garcia,Vitor Gonçalves,False
+863,2025-03-09,Lesão Corporal,Consectetur nam excepturi nostrum libero.,Complementado,Arthur Miguel Macedo,Eduardo Costa,False
+864,2025-08-21,Tentativa de Suicídio,Nemo consectetur sapiente id eos iusto.,Suspenso,Helena Oliveira,Gabriela Borges,False
+865,2025-07-20,Porte Ilegal de Arma,Rem vitae saepe eos porro eaque.,Em Investigação,Aurora Nunes,Srta. Maria Sophia Sales,False
+866,2025-04-07,Dano,Fuga ipsa expedita id facilis error perspiciatis.,Complementado,Nicolas Moraes,Sr. Asafe Câmara,False
+867,2025-07-31,Receptação,Cumque deleniti esse.,Concluído,Francisco da Conceição,Alexandre Albuquerque,False
+868,2025-02-02,Calúnia,Hic labore quia.,Complementado,Sr. Davi Luiz da Rosa,Srta. Esther Andrade,False
+869,2025-08-24,Tentativa de Suicídio,Ea saepe veniam aspernatur.,Suspenso,Maria Helena Cavalcante,Sra. Eloah da Mota,False
+870,2025-10-18,Crime Cibernético,Tempora nihil sint porro.,Em Investigação,Letícia Moreira,Lucas Gabriel Rocha,False
+871,2025-08-27,Ameaça,Unde similique veritatis laborum quasi eius.,Registrado,Sra. Hellena Martins,Manuella Rezende,False
+872,2025-02-16,Maus-tratos a Animais,Possimus fugiat consectetur assumenda.,Complementado,Maria Fonseca,Eloá Cavalcanti,False
+873,2025-03-28,Danos Materiais,Reprehenderit et ex pariatur sapiente quasi minus sed.,Reaberto,Renan Cunha,Ísis Machado,False
+874,2025-05-17,Homicídio,Facere rerum totam officiis labore.,Complementado,Vinicius Cunha,Dante Araújo,False
+875,2025-03-18,Posse de Drogas,Atque nesciunt nisi neque aut sapiente blanditiis.,Reaberto,Luiza Oliveira,Larissa Aparecida,False
+876,2025-07-30,Tentativa de Suicídio,Aut corporis eveniet laboriosam nobis aliquid omnis sequi.,Concluído,Dr. Francisco Teixeira,Sr. Pedro Vasconcelos,False
+877,2025-04-01,Furto,Enim dicta architecto repudiandae quia asperiores.,Em Investigação,Marcos Vinicius Monteiro,Maria Laura Sales,False
+878,2025-06-03,Encontro de Cadáver,Corporis eaque explicabo similique enim.,Em Investigação,João Miguel Carvalho,Calebe Moura,False
+879,2025-05-15,Tráfico de Drogas,Rem enim facere debitis hic id unde illo.,Cancelado,Srta. Maria Alice Cunha,Eloá Cunha,False
+880,2025-01-16,Roubo,Consequuntur nostrum amet deserunt.,Cancelado,Sr. Arthur Nascimento,Dr. Vitor Hugo Martins,False
+881,2025-10-20,Tentativa de Suicídio,Blanditiis placeat nam impedit ipsum.,Aguardando Validação,João Vitor Marques,Yago Cassiano,False
+882,2025-09-23,Desacato,Amet doloremque in.,Complementado,Gabrielly Fonseca,Laura Correia,False
+883,2025-05-15,Perturbação do Sossego/Tranquilidade,Voluptates fugit eaque excepturi eum.,Concluído,Ana Vitória Novais,Júlia Novais,False
+884,2025-05-02,Outros,Ullam unde praesentium accusantium dicta quasi.,Suspenso,Srta. Mariana Porto,Otto Sales,False
+885,2025-09-05,Posse de Drogas,Libero doloribus sunt dolor.,Encaminhado,Bento Aparecida,João Guilherme Silva,False
+886,2025-08-21,Tráfico de Drogas,Asperiores aperiam sapiente ipsam.,Concluído,Julia Novais,Vitor Mendes,False
+887,2025-04-05,Dano,Consectetur eveniet quos facilis consequuntur expedita quod.,Cancelado,Agatha Dias,Maria Luiza das Neves,False
+888,2025-03-17,Desaparecimento de Pessoa,Ducimus suscipit laboriosam sunt.,Suspenso,Maya Ferreira,Asafe Nunes,False
+889,2025-09-28,Roubo,Nihil facilis amet maiores.,Reaberto,Amanda da Rocha,Manuella Garcia,False
+890,2025-02-05,Violação de Domicílio,Praesentium illum animi occaecati.,Arquivado,Henry Marques,Liam Ramos,False
+891,2025-04-09,Injúria,Saepe saepe ex consectetur quam.,Registrado,Liz Farias,Pedro Albuquerque,False
+892,2025-03-25,Outros,Neque dolorum voluptatem nisi.,Encaminhado,Ester Andrade,Murilo Albuquerque,False
+893,2025-03-07,Posse de Drogas,Quidem excepturi dolorem molestiae labore laborum.,Em Análise,Sr. Theo Nascimento,Dr. Samuel Mendes,False
+894,2025-06-26,Perturbação do Sossego/Tranquilidade,Hic vitae beatae laboriosam deleniti.,Aguardando Validação,Benjamim Monteiro,Melina Vasconcelos,False
+895,2025-10-17,Violação de Medida Protetiva,Hic dolorum nisi in ex.,Aguardando Validação,Catarina Ramos,Clarice Moura,False
+896,2025-09-17,Injúria,Occaecati harum rem animi facilis excepturi.,Arquivado,Bella Borges,Davi Lucas Dias,False
+897,2025-09-08,Lesão Corporal,Qui aspernatur doloremque sapiente culpa perspiciatis.,Suspenso,Gael da Cruz,Rafaela Novais,False
+898,2025-07-22,Desacato,Temporibus at commodi quasi non sunt recusandae.,Em Investigação,Samuel da Costa,Ana Clara Melo,False
+899,2025-07-09,Difamação,Quia eveniet cum quisquam eaque illo aperiam harum.,Reaberto,Srta. Lívia Mendonça,Maysa Mendonça,False
+900,2025-01-13,Embriaguez ao Volante,Ab optio placeat vero earum.,Em Investigação,Aurora Silveira,Dra. Clarice Pastor,False
+901,2025-03-25,Receptação,Recusandae dolor libero sequi deserunt impedit magnam.,Em Investigação,Luan Silveira,Sra. Maitê Novaes,False
+902,2025-06-09,Tráfico de Drogas,Soluta asperiores ratione accusantium.,Concluído,Agatha Rios,Dr. Leandro Sales,False
+903,2025-06-11,Outros,Iusto quidem accusamus reiciendis sit illum cumque.,Registrado,Clara da Mota,Ravi Cavalcanti,False
+904,2025-04-24,Perturbação do Sossego/Tranquilidade,Doloribus ut suscipit pariatur beatae unde.,Concluído,Luiz Fernando Pereira,Beatriz da Conceição,False
+905,2025-01-16,Difamação,Quae temporibus earum repellat exercitationem.,Concluído,Isis da Conceição,Maria Luísa Costela,False
+906,2025-08-26,Receptação,Molestias corporis quasi animi ab eos.,Registrado,Alexandre Barros,Isaac Carvalho,False
+907,2025-05-07,Lesão Corporal,Totam fugit tenetur sunt.,Reaberto,Sr. Luigi da Costa,Renan Ramos,False
+908,2025-01-11,Embriaguez ao Volante,Ut culpa quas doloribus.,Concluído,Sra. Stephany Albuquerque,Ana Sales,False
+909,2025-02-07,Difamação,Totam architecto temporibus quisquam beatae iusto.,Cancelado,Catarina Novais,Benício Costa,False
+910,2025-05-26,Encontro de Pessoa,Dolorem esse non hic.,Encaminhado,Luiz Gustavo Pereira,Nina Campos,False
+911,2025-09-03,Fraude,Saepe quas minus facere.,Concluído,Oliver Pinto,Théo Silva,False
+912,2025-02-12,Homicídio,In placeat nobis reprehenderit temporibus.,Aguardando Validação,Arthur Gabriel Teixeira,Daniel Duarte,False
+913,2025-02-23,Acidente de Trânsito,Velit tempore accusantium dignissimos cupiditate aperiam.,Aguardando Validação,Manuella Brito,Luiz Otávio da Cunha,False
+914,2025-02-13,Calúnia,Vero id praesentium sunt debitis reprehenderit.,Concluído,Dr. Luiz Felipe Albuquerque,Davi Lucca Barbosa,False
+915,2025-03-31,Lesão Corporal,Fugit voluptatem voluptas ratione eaque similique nulla.,Encaminhado,Maria Julia Pacheco,Levi Andrade,False
+916,2025-06-11,Encontro de Cadáver,Consectetur quae accusantium modi animi reprehenderit.,Em Análise,Melissa Gomes,João Guilherme Sá,False
+917,2025-02-01,Lesão Corporal,Voluptas totam qui necessitatibus repellat expedita.,Arquivado,Juliana das Neves,Thales Rios,False
+918,2025-06-06,Lesão Corporal,Doloribus earum sapiente veritatis illum dolor.,Encaminhado,Vinicius Oliveira,Bárbara Porto,False
+919,2025-03-22,Porte Ilegal de Arma,Neque neque quia et.,Em Análise,Otávio Nogueira,Beatriz Aparecida,False
+920,2025-05-07,Outros,Assumenda beatae molestias eaque suscipit delectus.,Em Investigação,Emilly Teixeira,Vicente da Mota,False
+921,2025-06-05,Embriaguez ao Volante,Dignissimos numquam corrupti perspiciatis aperiam.,Arquivado,Melina Cirino,Ana Liz Silveira,False
+922,2025-10-07,Roubo,Accusamus molestiae facere laborum in alias neque.,Registrado,Cecília Ferreira,Anthony Gabriel Macedo,False
+923,2025-09-20,Dano,Natus asperiores veniam accusamus.,Aguardando Validação,Ana Luiza Barros,Srta. Mirella Cavalcante,False
+924,2025-03-21,Posse de Drogas,Incidunt nesciunt corporis.,Complementado,Dr. Fernando Cunha,Ana Carolina Moraes,False
+925,2025-03-13,Furto,Modi beatae rerum dolore ad harum.,Aguardando Validação,Sra. Luiza Barros,Milena Montenegro,False
+926,2025-01-27,Tentativa de Suicídio,Eos eius harum ullam.,Aguardando Validação,Raquel Melo,Maria Eduarda Barbosa,False
+927,2025-06-08,Tentativa de Suicídio,Cumque recusandae sint illum.,Aguardando Validação,Ana Laura Vargas,Amanda Moura,False
+928,2025-08-27,Difamação,Sed possimus minus facilis.,Suspenso,Sr. Lucca Sales,Sophia da Luz,False
+929,2025-08-10,Maus-tratos a Animais,Quas quia reiciendis velit odit harum nisi.,Concluído,João Vitor Cavalcanti,Maria Fernanda Campos,False
+930,2025-06-27,Danos Materiais,Aspernatur molestias ad quam.,Complementado,Kevin Campos,Dra. Eduarda Cavalcanti,False
+931,2025-02-14,Violação de Domicílio,Rem neque vel.,Em Investigação,Yago Cirino,Theodoro Sampaio,False
+932,2025-04-19,Porte Ilegal de Arma,Commodi id necessitatibus voluptatem.,Complementado,Diego Nunes,Giovanna Macedo,False
+933,2025-05-24,Violação de Domicílio,Quidem minima ipsam accusantium.,Complementado,João Felipe Nunes,Catarina Gonçalves,False
+934,2025-04-23,Calúnia,Corrupti maxime unde impedit numquam quis.,Em Investigação,Otávio Moraes,Beatriz Siqueira,False
+935,2025-06-10,Tentativa de Suicídio,Quidem quis beatae in quis est dolor.,Aguardando Validação,Eduarda Melo,Gael Henrique Mendes,False
+936,2025-02-04,Tentativa de Suicídio,Hic voluptates itaque asperiores nisi pariatur.,Em Análise,Srta. Bella Ramos,Luiza Aragão,False
+937,2025-02-05,Injúria,Quaerat hic veritatis vitae deleniti ab eveniet dolores.,Aguardando Validação,Maria Fernanda Peixoto,Liam Leão,False
+938,2025-01-17,Violação de Medida Protetiva,Assumenda dolorem nostrum.,Arquivado,João Vitor Porto,Dra. Ísis Pastor,False
+939,2025-08-30,Desobediência,Neque in nam sed sed ducimus.,Registrado,Sofia Nascimento,Srta. Manuella Viana,False
+940,2025-07-26,Tentativa de Suicídio,Nesciunt nesciunt aperiam perspiciatis.,Aguardando Validação,Eduarda Gonçalves,Sr. Vitor Hugo Fogaça,False
+941,2025-07-24,Outros,Optio perspiciatis voluptatibus quidem ducimus.,Complementado,José Miguel Gomes,Enzo Teixeira,False
+942,2025-02-07,Encontro de Cadáver,Corporis quidem pariatur recusandae quas quisquam.,Em Análise,José Miguel da Cunha,Ravi Pastor,False
+943,2025-07-05,Ameaça,Sint quia sit incidunt.,Encaminhado,Rhavi Vasconcelos,Gabrielly Andrade,False
+944,2025-03-08,Roubo,Atque dolores eius cumque minus.,Arquivado,Ana Luiza Andrade,Gustavo Albuquerque,False
+945,2025-06-09,Fraude,Reprehenderit voluptate voluptatem incidunt voluptas.,Em Análise,Benjamim Pacheco,Milena Albuquerque,False
+946,2025-06-03,Furto,Nam iusto aperiam perspiciatis sapiente.,Registrado,Henrique Macedo,Luiz Gustavo da Rosa,False
+947,2025-01-02,Ameaça,Aliquid quos consequatur animi maxime hic.,Cancelado,Davi Lucca da Paz,Dr. Rael Brito,False
+948,2025-01-30,Homicídio,Aut rerum eveniet atque velit.,Suspenso,Agatha da Paz,José Pedro Correia,False
+949,2025-05-26,Maus-tratos a Animais,Provident voluptatum harum ex esse.,Complementado,Sr. Vitor Hugo Cirino,Bella Mendonça,False
+950,2025-08-27,Lesão Corporal,Voluptatem illo cumque corrupti.,Aguardando Validação,Giovanna da Paz,Eloá Correia,False
+951,2025-03-09,Acidente de Trânsito,Ad perspiciatis quo magnam deleniti.,Aguardando Validação,Leandro Castro,Heitor Guerra,False
+952,2025-02-22,Fraude,Nesciunt tempore nam quos.,Em Investigação,Nathan Aparecida,Diego Lopes,False
+953,2025-09-17,Lesão Corporal,Culpa ipsa sapiente voluptatem perspiciatis occaecati.,Concluído,Enzo Carvalho,Marcela Cavalcante,False
+954,2025-08-02,Lesão Corporal,Minima quidem enim omnis.,Reaberto,Clarice Pereira,Kamilly Silva,False
+955,2025-07-07,Fraude,Praesentium illo reiciendis asperiores neque autem.,Arquivado,Ester Fernandes,Laura Freitas,False
+956,2025-08-14,Posse de Drogas,Ipsa iste tempore minima voluptatem itaque dignissimos aliquam.,Encaminhado,Sarah Cirino,Clara Brito,False
+957,2025-08-19,Lesão Corporal,Numquam dolore ea in quod quia.,Em Investigação,André Vasconcelos,Maria Clara Costela,False
+958,2025-05-10,Porte Ilegal de Arma,Commodi officiis totam iure.,Suspenso,Natália Oliveira,Noah Nogueira,False
+959,2025-05-19,Homicídio,Natus repellendus minus repellat.,Arquivado,Vinicius Albuquerque,Theo Ribeiro,False
+960,2025-03-15,Danos Materiais,Porro vel pariatur a ipsum soluta labore.,Registrado,Davi Luiz Cirino,Pedro Lucas Castro,False
+961,2025-02-11,Perturbação do Sossego/Tranquilidade,Unde tempora magnam nisi unde commodi iure.,Reaberto,Sr. João Vitor da Rocha,Marina Aparecida,False
+962,2025-01-14,Fraude,Quis facere tempora rerum.,Cancelado,Maria Castro,Antônio Barros,False
+963,2025-07-28,Ameaça,Unde ullam iure explicabo quia hic.,Complementado,Bianca Costela,Léo da Cunha,False
+964,2025-02-23,Violação de Medida Protetiva,Fuga nesciunt incidunt voluptates nisi recusandae illo cumque.,Complementado,Theodoro Barros,Alícia Campos,False
+965,2025-04-10,Injúria,Incidunt enim impedit expedita autem.,Suspenso,Emanuelly Moraes,Dra. Júlia Abreu,False
+966,2025-10-12,Acidente de Trânsito,Adipisci est tempore inventore.,Registrado,Sr. Rafael Silveira,Laís Machado,False
+967,2025-06-10,Desobediência,Iste eveniet inventore amet esse consequatur.,Complementado,Marcelo Fernandes,Nicolas Oliveira,False
+968,2025-02-21,Roubo,Eius sunt a rerum.,Registrado,Enrico Viana,Henry Gabriel Guerra,False
+969,2025-05-08,Homicídio,Odit quidem ratione optio.,Cancelado,Sr. Luiz Miguel da Conceição,Zoe Macedo,False
+970,2025-07-06,Desobediência,Incidunt a est officiis.,Arquivado,Clara Farias,Sr. Bento Marques,False
+971,2025-06-27,Crime Cibernético,Ab quo distinctio dolorem nulla eligendi dolor at.,Complementado,Vinícius Lopes,Davi Lucas da Paz,False
+972,2025-07-10,Desaparecimento de Pessoa,Rem ut perferendis aliquid facere.,Suspenso,Julia Silva,Liam das Neves,False
+973,2025-08-26,Encontro de Pessoa,Optio totam nulla officia explicabo.,Registrado,Mariana Costa,Brayan Guerra,False
+974,2025-06-04,Maus-tratos a Animais,At excepturi adipisci nobis sunt doloribus autem corporis.,Encaminhado,Dra. Cecília da Conceição,Marcos Vinicius Nunes,False
+975,2025-01-31,Ameaça,Voluptatibus explicabo dignissimos occaecati.,Cancelado,Marcos Vinicius Brito,Raquel Rocha,False
+976,2025-08-10,Acidente de Trânsito,Dolor rem saepe rerum velit quidem.,Arquivado,Manuela Almeida,Pedro da Cruz,False
+977,2025-04-24,Estelionato,Vero maiores excepturi.,Suspenso,Marcos Vinicius Nascimento,Sra. Ayla Nascimento,False
+978,2025-02-16,Posse de Drogas,Expedita ut sunt optio rerum repudiandae.,Registrado,Benício Costela,Davi Miguel Nunes,False
+979,2025-09-29,Tráfico de Drogas,Deleniti cupiditate error incidunt aliquam.,Em Análise,Maria Helena Fogaça,Evelyn Fernandes,False
+980,2025-07-04,Violação de Medida Protetiva,Sed nesciunt quam architecto sed facilis.,Cancelado,Sra. Olívia Montenegro,Dr. Rael Cunha,False
+981,2025-04-30,Furto,Aspernatur sed iste molestiae vero eligendi deserunt eum.,Arquivado,Calebe Viana,Dra. Sabrina Almeida,False
+982,2025-06-05,Calúnia,Laudantium deserunt sint sapiente impedit.,Cancelado,Srta. Ana Liz Correia,João Lucas Cunha,False
+983,2025-02-27,Perturbação do Sossego/Tranquilidade,Expedita nulla sunt ratione a nam.,Complementado,Vitor Hugo Sales,Dr. Heitor Siqueira,False
+984,2025-01-23,Tráfico de Drogas,Et maxime vel suscipit corrupti voluptatem fuga atque.,Suspenso,Anthony Gabriel Cardoso,Yago Vargas,False
+985,2025-02-14,Violência Doméstica,Neque dolores nisi dolor inventore.,Em Análise,João Gabriel Monteiro,Milena Lima,False
+986,2025-04-17,Crime Cibernético,Reiciendis molestiae quidem ipsa ratione corrupti.,Arquivado,Maria Clara Ramos,Ana Lívia Araújo,False
+987,2025-08-14,Homicídio,Ratione perferendis quasi quisquam vitae unde.,Arquivado,Leonardo Sampaio,Sr. Thales Novaes,False
+988,2025-09-30,Dano,Numquam perspiciatis rerum quidem libero.,Encaminhado,Heloisa Garcia,Dr. Guilherme Andrade,False
+989,2025-05-16,Perturbação do Sossego/Tranquilidade,Voluptatibus soluta sint minima quia distinctio dolorum.,Encaminhado,Bianca da Paz,Ana Cecília Sales,False
+990,2025-02-19,Violência Doméstica,Aspernatur numquam corporis reprehenderit dolorum nostrum consectetur.,Suspenso,Nina Pires,Ryan Rodrigues,False
+991,2025-07-13,Roubo,Doloremque maiores voluptatum soluta occaecati.,Em Análise,Maysa Novais,Mariana Ramos,False
+992,2025-06-06,Difamação,Nihil perferendis consequuntur ab corrupti dolores porro molestiae.,Registrado,Sra. Giovanna da Luz,Yan da Costa,False
+993,2025-01-04,Outros,Iure nam cumque odit suscipit.,Cancelado,Maria Helena Barbosa,Dra. Alana Mendonça,False
+994,2025-07-29,Tentativa de Suicídio,Illo neque maxime reprehenderit eligendi.,Complementado,Henry Viana,Maysa Pinto,False
+995,2025-09-28,Calúnia,Aut ratione ipsum recusandae rerum minus mollitia corporis.,Registrado,Asafe Monteiro,Bryan Pastor,False
+996,2025-03-13,Encontro de Cadáver,Esse corporis laboriosam repellendus.,Registrado,Dr. Léo Gomes,Marcelo Marques,False
+997,2025-01-24,Violação de Medida Protetiva,Molestias ducimus autem nam odio voluptates.,Em Análise,Mirella Duarte,Arthur Miguel Lopes,False
+998,2025-03-26,Acidente de Trânsito,Quod ullam iste soluta aspernatur illo quae.,Cancelado,Henry Gabriel Silva,Evelyn da Mota,False
+999,2025-07-17,Dano,Voluptate excepturi dignissimos harum.,Registrado,Rebeca Farias,Sra. Fernanda Cassiano,False
+1000,2025-10-27,Furto,string,Registrado,string,string,False

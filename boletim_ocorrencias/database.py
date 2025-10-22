@@ -61,7 +61,7 @@ class DataBase:
 
 ##ATUALIZAR OS REGISTROS
 
-    def update(self, id, novos_registro):
+    def update(self, id, novos_registro) -> bool:
         updated = False
         tmp_path = self.csv_path + ".tmp"
 
@@ -78,10 +78,13 @@ class DataBase:
                 writer.writerow(row)
         
         os.replace(tmp_path, self.csv_path)
+        
 
         if not updated:
-            print("ID não encontrado!")
-        
+            return False
+        else: 
+            return True
+
 
     
 

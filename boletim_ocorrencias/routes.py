@@ -133,7 +133,9 @@ def update_boletim(boletim : BoletimOcorrenciaResponse):
         "nome_autor":boletim.nome_autor
     }
 
-    banco.update(boletim.id, novo_registro)
+    atualizou = banco.update(boletim.id, novo_registro)
+    if not atualizou:
+        raise HTTPException(404, "Entidade não encontrada")
 
     return novo_registro
 

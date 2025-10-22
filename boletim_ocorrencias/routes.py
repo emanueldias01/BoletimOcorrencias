@@ -161,6 +161,8 @@ def delete_boletim_by_id(id : int):
 def vacuum_database():
     banco.vacuum()
 
+    return Response(status_code=status.HTTP_200_OK)
+
 @router.post(
     path="/zip",
     status_code=status.HTTP_200_OK,

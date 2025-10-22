@@ -3,7 +3,7 @@ from boletim_ocorrencias.schemas import *
 from boletim_ocorrencias.database import DataBase
 from fastapi import HTTPException
 import hashlib
-import pickle
+from fastapi import Response
 
 router = APIRouter(
     prefix="/api/boletim",
@@ -150,6 +150,8 @@ def delete_boletim_by_id(id : int):
 
     if not deletou:
         raise HTTPException(404, "Entidade não encontrada")
+    
+    return Response(status_code=status.HTTP_204_NO_CONTENT)
 
 @router.post(
     path="/vacuum",

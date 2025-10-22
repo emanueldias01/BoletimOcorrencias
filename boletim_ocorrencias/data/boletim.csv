@@ -998,5 +998,5 @@ id,data_registro,tipo_ocorrencia,descricao,status,nome_declarante,nome_autor,del
 996,2025-03-13,Encontro de Cadáver,Esse corporis laboriosam repellendus.,Registrado,Dr. Léo Gomes,Marcelo Marques,False
 997,2025-01-24,Violação de Medida Protetiva,Molestias ducimus autem nam odio voluptates.,Em Análise,Mirella Duarte,Arthur Miguel Lopes,False
 998,2025-03-26,Acidente de Trânsito,Quod ullam iste soluta aspernatur illo quae.,Cancelado,Henry Gabriel Silva,Evelyn da Mota,False
-999,2025-07-17,Dano,Voluptate excepturi dignissimos harum.,Registrado,Rebeca Farias,Sra. Fernanda Cassiano,False
-1000,2025-10-27,Furto,string,Registrado,string,string,False
+999,2025-07-17,Dano,Voluptate excepturi dignissimos harum.,Registrado,Rebeca Farias,Sra. Fernanda Cassiano,True
+1000,2025-10-27,Furto,string,Registrado,string,string,True

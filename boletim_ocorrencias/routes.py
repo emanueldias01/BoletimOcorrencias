@@ -15,7 +15,7 @@ banco = DataBase()
 #EXEMPLOS TESTE
 
 @router.get(
-    path="/get",
+    path="/",
     response_model=list[BoletimOcorrenciaResponse],
     status_code=status.HTTP_200_OK,
     description='busca todos os boletins registrados no banco'
@@ -94,7 +94,7 @@ def count():
 #    return boletim
 
 @router.post(
-    path="/insert",
+    path="/",
     response_model=list[BoletimOcorrenciaBase],
     status_code=status.HTTP_201_CREATED,
     description='cria um boletim a partir dos parametros passados no corpo da requisição'
@@ -116,7 +116,7 @@ def create_boletim(boletins : list[BoletimOcorrenciaBase]):
     return registro_inserido
 
 @router.put(
-    path="/update",
+    path="/",
     response_model=BoletimOcorrenciaResponse,
     status_code=status.HTTP_201_CREATED,
     description='busca o boletim que tem o id passado no corpo da requisicao e edita seus campos'
@@ -140,7 +140,7 @@ def update_boletim(boletim : BoletimOcorrenciaResponse):
     return novo_registro
 
 @router.delete(
-    path="/delete/{id}",
+    path="/{id}",
     status_code=status.HTTP_201_CREATED,
     description='deleta o boletim com o id passado no path'
 )

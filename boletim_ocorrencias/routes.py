@@ -22,7 +22,7 @@ banco = DataBase()
 def get_boletins(page : int=1, size : int=15):
     registros_csv = banco.get(page, size)
 
-    boletins = []
+    boletins = []   
     for line in registros_csv:
         boletins.append(
             BoletimOcorrenciaResponse(
@@ -98,6 +98,7 @@ def count():
     status_code=status.HTTP_201_CREATED,
     description='cria um boletim a partir dos parametros passados no corpo da requisição'
 )
+
 def create_boletim(boletins : list[BoletimOcorrenciaBase]):
     registro_inserido = []
     for boletim in boletins:

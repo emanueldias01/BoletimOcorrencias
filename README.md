@@ -28,3 +28,47 @@
     ```bash
     pip freeze > requirements.txt
     ```
+
+
+## MODELAGEM 
+
+```mermaid
+classDiagram
+direction LR
+
+class Declarante {
+    id_declarante: int
+    nome: str
+    cpf: str
+    data_nascimento: date
+    endereco: str
+    tipo_envolvimento: str
+}
+
+class Autor {
+    id_autor: int
+    nome: str
+    matricula: str
+    posto: str
+    lotacao: str
+}
+
+class BoletimOcorrencia {
+    id_boletim: int
+    data_registro: date
+    tipo_ocorrencia: str
+    descricao: str
+    status: str
+    id_autor: int <<FK>>
+}
+
+class Declarante_Boletim {
+    id_declarante: int <<FK>>
+    id_boletim: int <<FK>>
+}
+
+Declarante --> Declarante_Boletim
+BoletimOcorrencia --> Declarante_Boletim 
+Autor --> BoletimOcorrencia 
+
+```

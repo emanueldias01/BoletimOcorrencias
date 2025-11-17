@@ -1,4 +1,8 @@
-import csv, json, os
+import csv, os
+import io
+import zipfile
+from fastapi.responses import StreamingResponse
+
 
 class DataBase:
 
@@ -55,7 +59,7 @@ class DataBase:
 
 ##ATUALIZAR OS REGISTROS
 
-    def update(self, id, novos_registro):
+    def update(self, id, novos_registro) -> bool:
         updated = False
         tmp_path = self.csv_path + ".tmp"
 
@@ -72,16 +76,19 @@ class DataBase:
                 writer.writerow(row)
         
         os.replace(tmp_path, self.csv_path)
+        
 
         if not updated:
-            print("ID não encontrado!")
-        
+            return False
+        else: 
+            return True
+
 
     
 
 ## DELETAR LOGICAMENTE OS REGISTROS
 
-    def delete(self, id):
+    def delete(self, id) -> bool:
         deleted = False
         tmp_path = self.csv_path + ".tmp"
 
@@ -100,7 +107,9 @@ class DataBase:
         os.replace(tmp_path, self.csv_path)
 
         if not deleted:
-            print("ID não encontrado!")
+            return False
+        else:
+            return True
 
 ## CONTAR OS REGISTROS 
 
@@ -124,4 +133,30 @@ class DataBase:
                     writer.writerow(row)
         
         os.replace(tmp_path, self.csv_path)
+
+    def get_zip(self):
+
+        if not os.path.exists(self.csv_path):
+            return {"erro": "Arquivo CSV não encontrado."}
+
+        def stream_zip():
+            buffer = io.BytesIO()
+
+            #cria zip no buffer
+            with zipfile.ZipFile(buffer, "w", zipfile.ZIP_DEFLATED) as zipf:
+                #add o csv no zip
+                zipf.write(self.csv_path, arcname="boletim.csv")
+
+            #ponteiro no comeco
+            buffer.seek(0)
+
+            chunk_size = 1024 * 1024  #1mb por vez
+            while chunk := buffer.read(chunk_size):
+                yield chunk
+
+        return StreamingResponse(
+            stream_zip(),
+            media_type="application/zip",
+            headers={"Content-Disposition": "attachment; filename=boletim.zip"}
+        )
 

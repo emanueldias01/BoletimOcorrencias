@@ -3,6 +3,7 @@ from boletim_ocorrencias.schemas import *
 from boletim_ocorrencias.database import DataBase
 from fastapi import HTTPException
 import hashlib
+from fastapi import Response
 
 router = APIRouter(
     prefix="/api/boletim",
@@ -14,7 +15,7 @@ banco = DataBase()
 #EXEMPLOS TESTE
 
 @router.get(
-    path="/get",
+    path="/",
     response_model=list[BoletimOcorrenciaResponse],
     status_code=status.HTTP_200_OK,
     description='busca todos os boletins registrados no banco'
@@ -93,7 +94,7 @@ def count():
 #    return boletim
 
 @router.post(
-    path="/insert",
+    path="/",
     response_model=list[BoletimOcorrenciaBase],
     status_code=status.HTTP_201_CREATED,
     description='cria um boletim a partir dos parametros passados no corpo da requisição'
@@ -116,7 +117,7 @@ def create_boletim(boletins : list[BoletimOcorrenciaBase]):
     return registro_inserido
 
 @router.put(
-    path="/update",
+    path="/",
     response_model=BoletimOcorrenciaResponse,
     status_code=status.HTTP_201_CREATED,
     description='busca o boletim que tem o id passado no corpo da requisicao e edita seus campos'
@@ -133,26 +134,43 @@ def update_boletim(boletim : BoletimOcorrenciaResponse):
         "nome_autor":boletim.nome_autor
     }
 
-    banco.update(boletim.id, novo_registro)
+    atualizou = banco.update(boletim.id, novo_registro)
+    if not atualizou:
+        raise HTTPException(404, "Entidade não encontrada")
 
     return novo_registro
 
 @router.delete(
-    path="/delete/{id}",
+    path="/{id}",
     status_code=status.HTTP_201_CREATED,
     description='deleta o boletim com o id passado no path'
 )
 
 def delete_boletim_by_id(id : int):
-    return banco.delete(id)
+    deletou = banco.delete(id)
+
+    if not deletou:
+        raise HTTPException(404, "Entidade não encontrada")
+    
+    return Response(status_code=status.HTTP_204_NO_CONTENT)
+
+@router.post(
+    path="/vacuum",
+    status_code=status.HTTP_200_OK,
+    description="Executa a funcionalidade 'Vacuum'",
+)
+def vacuum_database():
+    banco.vacuum()
+
+    return Response(status_code=status.HTTP_200_OK)
 
 @router.post(
     path="/zip",
     status_code=status.HTTP_200_OK,
-    description="Retorna dados compactados em streaming"
+    description="Retorna dados compactados em streaming",
 )
-def get_vacum():
-    banco.vacuum()
+def get_zip():
+    return banco.get_zip()
 
 @router.post(
     path="/hash/{algoritmo}",
@@ -168,7 +186,8 @@ def hash_data(boletim : BoletimOcorrenciaBase, algoritmo: str):
             detail="Algoritmo inválido. Use MD5, SHA1 ou SHA256."
         )
 
-    texto = boletim.dado.encode("utf-8")
+
+    texto = boletim.json().encode("utf-8")
 
     if algoritmo == "md5":
         resultado = hashlib.md5(texto).hexdigest()
